@@ -1,8 +1,5 @@
 import {myjson} from './data.js'
 
-/////////////////
-// Set up map //
-///////////////
 const map = L.map('map', {
     center: [44.429283, 26.103541],
     zoom: 17,
@@ -15,12 +12,6 @@ const basemap = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyag
     subdomains: 'abcd'
 }).addTo(map);
 
-///////////////////
-// Buffer stuff //
-/////////////////
-
-// Function to get buffer distance
-// Create empty layer to hold buffer on click
 var bufferLayer = L.geoJSON("", {
     fillColor: "#18FFFF",
     fillOpacity: 0.35,
@@ -98,7 +89,6 @@ geoJSON.addTo(map);
 
 function redrawCircles() {
     bufferLayer.clearLayers()
-    // console.log(geoJSON)
     geoJSON.eachLayer(layer => {
         let whatToAdd = getToAdd(layer).filter(item => item);
         whatToAdd.flatMap(circles => circles)
@@ -110,10 +100,3 @@ map.on("moveend", redrawCircles)
 map.on("zoomend", redrawCircles)
 redrawCircles()
 
-// toAdd.forEach(circle => {
-//     if (circle._latlng) {
-//         circle.addTo(map);
-//     } else {
-//         debugger
-//     }
-// })
