@@ -1,4 +1,4 @@
-this project is a little mashup used to display amneties from OpenStreetMaps visually
+This project is a little mashup used to display amneties from OpenStreetMaps visually. [View here](https://bogdan00.github.io/area-around-schools/) 
 
 Steps to reproduce:
 * visit https://overpass-turbo.eu/
