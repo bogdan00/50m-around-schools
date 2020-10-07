@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Lato, serif;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+#selector {
+  position: absolute;
+  width: 177.5px;
+  bottom: 16px;
+  right: 0;
+  padding: 10px;
+  z-index: 999;
+  background-color: rgba(255, 255, 255, 0.5)
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CodePen - Toggle a Buffer with TurfJS and LeafletJS</title>
+    <link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.3/dist/leaflet.css'>
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<div id="map"></div>
+<div id="selector" style="display: none">
+    <form id="dist-form">
+        <fieldset>
+            <legend>Select a distance (mi)</legend>
+
+            <div>
+                <input type="radio" id="dist1"
+                       name="dist" value="0.5" checked/>
+                <label for="dist1">0.5</label>
+            </div>
+
+            <div>
+                <input type="radio" id="dist2"
+                       name="dist" value="1"/>
+                <label for="dist2">1</label>
+            </div>
+
+            <div>
+                <input type="radio" id="dist3"
+                       name="dist" value="2"/>
+                <label for="dist3">2.5</label>
+            </div>
+
+        </fieldset>
+    </form>
+    <i>Click anywhere on the map to generate a buffer</i>
+</div>
+<script src='https://unpkg.com/leaflet@1.3.3/dist/leaflet.js'></script>
+<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+<script src='https://unpkg.com/esri-leaflet@2.2.3/dist/esri-leaflet.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://cdn.rawgit.com/teastman/Leaflet.pattern/master/dist/leaflet.pattern.js'></script>
+<script src="./script.js" type="module"></script>
+
+
+</body>
+</html>
+
+
