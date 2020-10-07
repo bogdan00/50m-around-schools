@@ -3,7 +3,7 @@ import {myjson} from './data.js'
 const map = L.map('map', {
     center: [44.429283, 26.103541],
     zoom: 17,
-    minZoom: 16,
+    // minZoom: 16,
     maxZoom: 18
 });
 
@@ -12,18 +12,7 @@ const basemap = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyag
     subdomains: 'abcd'
 }).addTo(map);
 
-var bufferLayer = L.geoJSON("", {
-    fillColor: "#18FFFF",
-    fillOpacity: 0.35,
-    weight: 0
-}).addTo(map);
-
-const radiusMap = {
-    18: 200,
-    17: 100,
-    16: 50
-}
-
+var bufferLayer = L.layerGroup();
 
 var geojsonMarkerOptions = {
     radius: 100,
@@ -31,19 +20,20 @@ var geojsonMarkerOptions = {
     color: "#000",
     weight: 0.5,
     opacity: 0.2,
-    fillOpacity: 0.2
+    fillOpacity: 0.2,
+    interactive: false
 };
 
-function coordToCircle(latlng, feature) {
-    let leafletLatLng = L.latLng(latlng[1], latlng[0]);
-    let inView = map.getBounds().contains(leafletLatLng)
-    if (!inView) {
-        return;
-    }
-    const circle = L.circleMarker(leafletLatLng, {...geojsonMarkerOptions, radius: radiusMap[map.getZoom()]});
-    if (feature) circle.bindPopup(feature.properties.name);
+function getRadius(zoomLevel) {
+    const startPx = 200;
+    const startZoom = 18;
 
-    return circle;
+    return startPx / Math.pow(2, startZoom - zoomLevel)
+}
+
+function coordToCircle(latlng) {
+    let leafletLatLng = L.latLng(latlng[1], latlng[0]);
+    return L.circleMarker(leafletLatLng, {...geojsonMarkerOptions});
 }
 
 function circlesForPolygon(coords) {
@@ -51,8 +41,6 @@ function circlesForPolygon(coords) {
 }
 
 function getToAdd(layer) {
-
-
     let circles = [];
     switch (layer.feature.geometry.type) {
         case "Point":
@@ -73,36 +61,59 @@ function getToAdd(layer) {
             break;
         case "MultiPolygon":
             console.warn("multi poly", layer.feature.geometry.type);
-            let polyPolyCircles = layer.feature.geometry.coordinates.flatMap(poly => poly.flatMap(circlesForPolygon));
-            circles = [...circles, ...polyPolyCircles]
+            circles = layer.feature.geometry.coordinates.flatMap(poly => poly.flatMap(circlesForPolygon));
             break;
         case "Polygon":
-
-            let coordinateCircles = layer.feature.geometry.coordinates.flatMap(circlesForPolygon);
-            circles = [...circles, ...coordinateCircles]
+            circles = layer.feature.geometry.coordinates.flatMap(circlesForPolygon);
             break;
         default:
             console.log("What to do with", layer.feature.geometry.type)
-
     }
+    circles = circles.filter(item => item)
     layer.bindPopup(`[${layer.feature.geometry.type}] ${layer.feature.properties.name}`);
 
     return circles
 }
 
-const geoJSON = L.geoJSON(myjson);
+const geoJSON = L.geoJSON(myjson, {
+    onEachFeature: function (feature, layer) {
+        const allCircles = getToAdd(layer)
+        const shouldIncludeCircles = []
+        const MIN_DISTANCE_ALLOWED = 20;
+        for (let i = 0; i < allCircles.length; i++) {
+            const currentCircle = allCircles[i];
+            let shouldInclude = true;
+            for (let j = i + 1; j < allCircles.length; j++) {
+                const otherCircle = allCircles[j]
+                if (currentCircle.getLatLng().distanceTo(otherCircle.getLatLng()) < MIN_DISTANCE_ALLOWED) {
+                    shouldInclude = false;
+                    break;
+                }
+            }
+            if (shouldInclude) {
+                shouldIncludeCircles.push(currentCircle)
+            }
+        }
+        layer.circles = shouldIncludeCircles;
+    }
+});
 geoJSON.addTo(map);
 
 function redrawCircles() {
-    bufferLayer.clearLayers()
-    geoJSON.eachLayer(layer => {
-        let whatToAdd = getToAdd(layer).filter(item => item);
-        whatToAdd.flatMap(circles => circles)
-            .forEach(circle => bufferLayer.addLayer(circle))
-    })
+    geoJSON.getLayers()
+        .flatMap(layer => layer.circles)
+        .forEach(circle => circle.setRadius(getRadius(map.getZoom())))
 }
 
-map.on("moveend", redrawCircles)
+// map.on("moveend", redrawCircles)
 map.on("zoomend", redrawCircles)
-redrawCircles()
 
+geoJSON.getLayers()
+    .flatMap(layer => layer.circles)
+    .map(circle => {
+        circle.setRadius(getRadius(map.getZoom()))
+        return circle
+    })
+    .forEach(circle => bufferLayer.addLayer(circle))
+
+map.addLayer(bufferLayer)
