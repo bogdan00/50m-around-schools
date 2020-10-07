@@ -18,14 +18,20 @@ var bufferLayer = L.geoJSON("", {
     weight: 0
 }).addTo(map);
 
+const radiusMap = {
+    18: 200,
+    17: 100,
+    16: 50
+}
+
 
 var geojsonMarkerOptions = {
-    radius: 50,
+    radius: 100,
     fillColor: "#ff7800",
     color: "#000",
-    weight: 1,
-    opacity: 0.5,
-    fillOpacity: 0.5
+    weight: 0.5,
+    opacity: 0.2,
+    fillOpacity: 0.2
 };
 
 function coordToCircle(latlng, feature) {
@@ -34,7 +40,7 @@ function coordToCircle(latlng, feature) {
     if (!inView) {
         return;
     }
-    const circle = L.circleMarker(leafletLatLng, geojsonMarkerOptions);
+    const circle = L.circleMarker(leafletLatLng, {...geojsonMarkerOptions, radius: radiusMap[map.getZoom()]});
     if (feature) circle.bindPopup(feature.properties.name);
 
     return circle;
