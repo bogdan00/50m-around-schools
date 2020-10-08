@@ -120,7 +120,7 @@ geoJSON.getLayers()
 
 map.addLayer(bufferLayer)
 
-const distanceValues = [50, 100, 200]
+const distanceValues = [50, 100, 200, 500, 1000]
 const form = document.getElementById("dist-form").getElementsByTagName("fieldset")[0]
 
 const divCache = {}
