@@ -11,28 +11,10 @@
 </head>
 <body>
 <div id="map"></div>
-<div id="selector" style="display: none">
+<div id="selector">
     <form id="dist-form">
         <fieldset>
-            <legend>Select a distance (mi)</legend>
-
-            <div>
-                <input type="radio" id="dist1"
-                       name="dist" value="0.5" checked/>
-                <label for="dist1">0.5</label>
-            </div>
-
-            <div>
-                <input type="radio" id="dist2"
-                       name="dist" value="1"/>
-                <label for="dist2">1</label>
-            </div>
-
-            <div>
-                <input type="radio" id="dist3"
-                       name="dist" value="2"/>
-                <label for="dist3">2.5</label>
-            </div>
+            <legend>Select radius (meters)</legend>
 
         </fieldset>
     </form>
@@ -46,7 +28,11 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179977972-1"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
 
     gtag('config', 'UA-179977972-1');

@@ -1,5 +1,7 @@
 import {myjson} from './data.js'
 
+let radius = 50;
+
 const map = L.map('map', {
     center: [44.429283, 26.103541],
     zoom: 17,
@@ -25,7 +27,7 @@ var geojsonMarkerOptions = {
 };
 
 function getRadius(zoomLevel) {
-    const startPx = 200;
+    let startPx = radius * 2;
     const startZoom = 18;
 
     return startPx / Math.pow(2, startZoom - zoomLevel)
@@ -117,3 +119,57 @@ geoJSON.getLayers()
     .forEach(circle => bufferLayer.addLayer(circle))
 
 map.addLayer(bufferLayer)
+
+const distanceValues = [50, 100, 200]
+const form = document.getElementById("dist-form").getElementsByTagName("fieldset")[0]
+
+const divCache = {}
+
+function unselectAll() {
+    distanceValues.forEach(distance => {
+        setDivStyle(distance, "notSelected")
+    })
+}
+
+function selectDiv(key) {
+    unselectAll()
+    setDivStyle(key, "isSelected")
+}
+
+function setDivStyle(key, theClass) {
+    if (divCache[key]) {
+        divCache[key].setAttribute("class", theClass)
+    }
+}
+
+distanceValues.forEach(dist => {
+    const div = document.createElement("div")
+    divCache[dist] = div;
+    div.setAttribute("class", "notSelected")
+
+    const radioInput = document.createElement("input")
+    radioInput.setAttribute("type", "radio")
+    radioInput.setAttribute("value", dist)
+    radioInput.setAttribute("className", "distanceSelector")
+    radioInput.setAttribute("id", "dist" + dist)
+    radioInput.setAttribute("name", "dist")
+    if (dist === 50) {
+        radioInput.setAttribute("checked", "checked")
+        selectDiv(dist)
+    }
+    const radioLabel = document.createElement("label")
+    radioLabel.setAttribute("for", "dist" + dist)
+    radioLabel.appendChild(document.createTextNode(dist + "m"))
+
+    div.appendChild(radioInput)
+    div.appendChild(radioLabel)
+
+    L.DomEvent.on(radioInput, 'click', (e) => {
+        radius = e.target.value;
+        redrawCircles()
+        selectDiv(radius)
+    });
+
+    form.appendChild(div)
+})
+
