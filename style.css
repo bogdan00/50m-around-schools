@@ -16,16 +16,18 @@ html, body {
 #selector {
     position: absolute;
     width: 177.5px;
-    bottom: 16px;
+    bottom: 26px;
     right: 0;
     padding: 10px;
     z-index: 999;
-    background-color: rgba(255, 255, 255, 0.5)
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 1.5em;
 }
 
 #dist-form div {
     font-size: 1.5em;
     user-select: none;
+    margin: 20px 0;
 }
 
 #dist-form div, #dist-form div * {
