@@ -38,7 +38,11 @@ out meta;
 >;
 out meta qt;
 ```
-which basically filters for those four amenities as a node/way/relation
+which filters for those four amenities as a node/way/relation and also adds ways that are designated as part of a school
 * export as GeoJson
 * use the excellent LeafletJS library for visualisation
  
+#### Notes
+* all queries were done once, results saved and served from cache
+* caches are per administrative area in order to reduce data load
+* caches can be refreshed using the `refresh` script from `areas/package.json`
