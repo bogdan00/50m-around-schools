@@ -173,7 +173,6 @@ async function initMap(location) {
     }
     const res = await fetch(location);
     const geoJsonData = await res.json();
-    console.log("got data:", geoJsonData)
     geoJSON = L.geoJSON(geoJsonData, {
         onEachFeature: function (feature, layer) {
             const allCircles = getToAdd(layer)
