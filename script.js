@@ -1,8 +1,11 @@
-import {myjson} from './data.js'
+'use strict';
 
 let radius = 50;
 
+let geoJSON;
+
 const map = L.map('map', {
+    renderer: L.canvas(),
     center: [44.429283, 26.103541],
     zoom: 17,
     // minZoom: 16,
@@ -77,51 +80,38 @@ function getToAdd(layer) {
     return circles
 }
 
-const geoJSON = L.geoJSON(myjson, {
-    onEachFeature: function (feature, layer) {
-        const allCircles = getToAdd(layer)
-        const shouldIncludeCircles = []
-        const MIN_DISTANCE_ALLOWED = 20;
-        for (let i = 0; i < allCircles.length; i++) {
-            const currentCircle = allCircles[i];
-            let shouldInclude = true;
-            for (let j = i + 1; j < allCircles.length; j++) {
-                const otherCircle = allCircles[j]
-                if (currentCircle.getLatLng().distanceTo(otherCircle.getLatLng()) < MIN_DISTANCE_ALLOWED) {
-                    shouldInclude = false;
-                    break;
-                }
-            }
-            if (shouldInclude) {
-                shouldIncludeCircles.push(currentCircle)
-            }
-        }
-        layer.circles = shouldIncludeCircles;
+function layerVisible(bounds, layer) {
+    if (layer.getBounds) {
+        return bounds.intersects(layer.getBounds());
+    } else if (layer.getLatLng) {
+        return bounds.contains(layer.getLatLng())
+    } else {
+        debugger
     }
-});
-geoJSON.addTo(map);
 
-function redrawCircles() {
-    geoJSON.getLayers()
-        .flatMap(layer => layer.circles)
-        .forEach(circle => circle.setRadius(getRadius(map.getZoom())))
 }
 
-// map.on("moveend", redrawCircles)
-map.on("zoomend", redrawCircles)
+function redrawCircles() {
+    bufferLayer.clearLayers()
+    const bounds = map.getBounds().pad(0.2)
+    geoJSON.getLayers()
+        .filter(layer => layerVisible(bounds, layer))
+        .flatMap(layer => layer.circles)
+        .map(circle => {
+            circle.setRadius(getRadius(map.getZoom()))
+            return circle
+        })
+        .forEach(circle => bufferLayer.addLayer(circle))
+}
 
-geoJSON.getLayers()
-    .flatMap(layer => layer.circles)
-    .map(circle => {
-        circle.setRadius(getRadius(map.getZoom()))
-        return circle
-    })
-    .forEach(circle => bufferLayer.addLayer(circle))
+map.on("moveend", redrawCircles)
+map.on("zoomend", redrawCircles)
 
 map.addLayer(bufferLayer)
 
 const distanceValues = [50, 100, 200, 500, 1000]
-const form = document.getElementById("dist-form").getElementsByTagName("fieldset")[0]
+
+const targetFieldset = document.getElementById("radius-selector")
 
 const divCache = {}
 
@@ -170,6 +160,51 @@ distanceValues.forEach(dist => {
         selectDiv(radius)
     });
 
-    form.appendChild(div)
+    targetFieldset.appendChild(div)
 })
 
+
+const citySelect = document.getElementById("citySelect")
+
+async function initMap(location) {
+    console.log("reinitializing map for file", location)
+    if (geoJSON) {
+        geoJSON.remove()
+    }
+    const res = await fetch(location);
+    const geoJsonData = await res.json();
+    console.log("got data:", geoJsonData)
+    geoJSON = L.geoJSON(geoJsonData, {
+        onEachFeature: function (feature, layer) {
+            const allCircles = getToAdd(layer)
+            const shouldIncludeCircles = []
+            const MIN_DISTANCE_ALLOWED = 20;
+            for (let i = 0; i < allCircles.length; i++) {
+                const currentCircle = allCircles[i];
+                let shouldInclude = true;
+                for (let j = i + 1; j < allCircles.length; j++) {
+                    const otherCircle = allCircles[j]
+                    if (currentCircle.getLatLng().distanceTo(otherCircle.getLatLng()) < MIN_DISTANCE_ALLOWED) {
+                        shouldInclude = false;
+                        break;
+                    }
+                }
+                if (shouldInclude) {
+                    shouldIncludeCircles.push(currentCircle)
+                }
+            }
+            layer.circles = shouldIncludeCircles;
+        }
+    });
+    geoJSON.addTo(map);
+    map.fitBounds(geoJSON.getBounds())
+    redrawCircles()
+}
+
+L.DomEvent.on(citySelect, "change", async () => {
+    await initMap(citySelect.value)
+});
+
+(async () => {
+    await initMap(citySelect.value)
+})();

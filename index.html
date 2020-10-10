@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>100m Area around schools</title>
+    <title>Area around schools in city</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
           integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
           crossorigin=""/>
@@ -14,8 +14,55 @@
 <div id="selector">
     <form id="dist-form">
         <fieldset>
-            <legend>Select radius (meters)</legend>
+            <legend>Select city</legend>
+            <select id='citySelect'>
+                <option value='geojson/alba.geojson'>Alba</option>
+                <option value='geojson/arad.geojson'>Arad</option>
+                <option value='geojson/arges.geojson'>Argeș</option>
+                <option value='geojson/bacau.geojson'>Bacău</option>
+                <option value='geojson/bihor.geojson'>Bihor</option>
+                <option value='geojson/bistrita_nasăud.geojson'>Bistrița-Năsăud</option>
+                <option value='geojson/botosani.geojson'>Botoșani</option>
+                <option value='geojson/brasov.geojson'>Brașov</option>
+                <option value='geojson/braila.geojson'>Brăila</option>
+                <option value='geojson/bucuresti.geojson' selected='selected'>București</option>
+                <option value='geojson/buzau.geojson'>Buzău</option>
+                <option value='geojson/caras_severin.geojson'>Caraș-Severin</option>
+                <option value='geojson/calărasi.geojson'>Călărași</option>
+                <option value='geojson/cluj.geojson'>Cluj</option>
+                <option value='geojson/constanta.geojson'>Constanța</option>
+                <option value='geojson/covasna.geojson'>Covasna</option>
+                <option value='geojson/dambovita.geojson'>Dâmbovița</option>
+                <option value='geojson/dolj.geojson'>Dolj</option>
+                <option value='geojson/galati.geojson'>Galați</option>
+                <option value='geojson/giurgiu.geojson'>Giurgiu</option>
+                <option value='geojson/gorj.geojson'>Gorj</option>
+                <option value='geojson/harghita.geojson'>Harghita</option>
+                <option value='geojson/hunedoara.geojson'>Hunedoara</option>
+                <option value='geojson/ialomita.geojson'>Ialomița</option>
+                <option value='geojson/iasi.geojson'>Iași</option>
+                <option value='geojson/ilfov.geojson'>Ilfov</option>
+                <option value='geojson/maramures.geojson'>Maramureș</option>
+                <option value='geojson/mehedinti.geojson'>Mehedinți</option>
+                <option value='geojson/mures.geojson'>Mureș</option>
+                <option value='geojson/neamt.geojson'>Neamț</option>
+                <option value='geojson/olt.geojson'>Olt</option>
+                <option value='geojson/prahova.geojson'>Prahova</option>
+                <option value='geojson/satu_mare.geojson'>Satu Mare</option>
+                <option value='geojson/salaj.geojson'>Sălaj</option>
+                <option value='geojson/sibiu.geojson'>Sibiu</option>
+                <option value='geojson/suceava.geojson'>Suceava</option>
+                <option value='geojson/teleorman.geojson'>Teleorman</option>
+                <option value='geojson/timis.geojson'>Timiș</option>
+                <option value='geojson/tulcea.geojson'>Tulcea</option>
+                <option value='geojson/vaslui.geojson'>Vaslui</option>
+                <option value='geojson/valcea.geojson'>Vâlcea</option>
+                <option value='geojson/vrancea.geojson'>Vrancea</option>
+            </select>
+        </fieldset>
 
+        <fieldset id="radius-selector">
+            <legend>Select radius (meters)</legend>
         </fieldset>
     </form>
 </div>

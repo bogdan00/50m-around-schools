@@ -1,0 +1,7026 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/40413743",
+      "properties": {
+        "timestamp": "2019-08-16T18:18:36Z",
+        "version": 12,
+        "changeset": 73426256,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "college",
+        "building": "yes",
+        "historic": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul \"Samuel Brukenthal\"",
+        "name:de": "Samuel-von-Brukenthal-Gymnasium",
+        "name:en": "Samuel von Brukenthal College",
+        "tourism": "attraction",
+        "website": "http://germana.brukenthal.ro",
+        "wikidata": "Q18539118",
+        "wikipedia": "de:Samuel-von-Brukenthal-Gymnasium",
+        "id": "way/40413743"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1498933,
+              45.7970672
+            ],
+            [
+              24.1499011,
+              45.7970757
+            ],
+            [
+              24.1500672,
+              45.7972634
+            ],
+            [
+              24.1494781,
+              45.7974714
+            ],
+            [
+              24.1494723,
+              45.7974662
+            ],
+            [
+              24.1494171,
+              45.7974167
+            ],
+            [
+              24.1493148,
+              45.7973193
+            ],
+            [
+              24.1498933,
+              45.7970672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40414068",
+      "properties": {
+        "timestamp": "2019-07-25T12:40:54Z",
+        "version": 8,
+        "changeset": 72643382,
+        "user": "kaiD",
+        "uid": 282726,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "level": "5",
+        "name": "Liceul de Arte",
+        "id": "way/40414068"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1486629,
+              45.7970852
+            ],
+            [
+              24.1487538,
+              45.7971459
+            ],
+            [
+              24.1487624,
+              45.7971396
+            ],
+            [
+              24.14885,
+              45.7971981
+            ],
+            [
+              24.148838,
+              45.7972068
+            ],
+            [
+              24.1489221,
+              45.7972629
+            ],
+            [
+              24.1487846,
+              45.7973654
+            ],
+            [
+              24.1487041,
+              45.7974198
+            ],
+            [
+              24.1486592,
+              45.7974545
+            ],
+            [
+              24.1485746,
+              45.7973981
+            ],
+            [
+              24.148562,
+              45.7974073
+            ],
+            [
+              24.1484738,
+              45.7973485
+            ],
+            [
+              24.1484835,
+              45.7973414
+            ],
+            [
+              24.1483935,
+              45.7972815
+            ],
+            [
+              24.1486629,
+              45.7970852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52835229",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 13,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "8",
+        "addr:postcode": "550384",
+        "addr:street": "Strada Streiu",
+        "building": "school",
+        "building:levels": "2",
+        "email": "gradinita43sb@yahoo.com",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Grădinița cu program prelungit nr. 43",
+        "phone": "+40 269 421 070",
+        "source": "http://www.isjsb.ro/index.php/retea-scolara/74-retea-scolara",
+        "id": "way/52835229"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1504988,
+              45.7737314
+            ],
+            [
+              24.1505047,
+              45.7736218
+            ],
+            [
+              24.1504813,
+              45.7736212
+            ],
+            [
+              24.1504903,
+              45.7734556
+            ],
+            [
+              24.1504563,
+              45.7734547
+            ],
+            [
+              24.1504645,
+              45.7733027
+            ],
+            [
+              24.1505074,
+              45.7733038
+            ],
+            [
+              24.1505137,
+              45.7731855
+            ],
+            [
+              24.1506392,
+              45.7731888
+            ],
+            [
+              24.1506306,
+              45.7733492
+            ],
+            [
+              24.1506022,
+              45.7733484
+            ],
+            [
+              24.1505994,
+              45.7733998
+            ],
+            [
+              24.1508065,
+              45.7734052
+            ],
+            [
+              24.150812,
+              45.7733031
+            ],
+            [
+              24.1509525,
+              45.7733068
+            ],
+            [
+              24.1509464,
+              45.7734269
+            ],
+            [
+              24.1509929,
+              45.7734283
+            ],
+            [
+              24.1509823,
+              45.7735838
+            ],
+            [
+              24.1509588,
+              45.7735828
+            ],
+            [
+              24.1509546,
+              45.7736601
+            ],
+            [
+              24.1509,
+              45.7736587
+            ],
+            [
+              24.1508938,
+              45.773774
+            ],
+            [
+              24.1507593,
+              45.7737705
+            ],
+            [
+              24.150766,
+              45.7736448
+            ],
+            [
+              24.150793,
+              45.7736455
+            ],
+            [
+              24.1508,
+              45.773514
+            ],
+            [
+              24.150626,
+              45.7735095
+            ],
+            [
+              24.1506225,
+              45.7735743
+            ],
+            [
+              24.1506502,
+              45.773575
+            ],
+            [
+              24.1506416,
+              45.7737351
+            ],
+            [
+              24.1504988,
+              45.7737314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53290251",
+      "properties": {
+        "timestamp": "2016-09-08T15:24:01Z",
+        "version": 4,
+        "changeset": 42006471,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "2",
+        "addr:postcode": "550253",
+        "addr:street": "Strada Constituției",
+        "building": "school",
+        "building:levels": "2",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Palatul Copiilor",
+        "website": "http://www.palatulcopiilorsibiu.ro/",
+        "id": "way/53290251"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1566814,
+              45.7998754
+            ],
+            [
+              24.1567179,
+              45.7996682
+            ],
+            [
+              24.1567461,
+              45.7996706
+            ],
+            [
+              24.1567524,
+              45.799635
+            ],
+            [
+              24.1568712,
+              45.7996452
+            ],
+            [
+              24.1568658,
+              45.7996758
+            ],
+            [
+              24.1568946,
+              45.7996783
+            ],
+            [
+              24.1568844,
+              45.7997358
+            ],
+            [
+              24.1569192,
+              45.7997388
+            ],
+            [
+              24.1569595,
+              45.7997423
+            ],
+            [
+              24.1569683,
+              45.7996928
+            ],
+            [
+              24.1571112,
+              45.7997043
+            ],
+            [
+              24.1570741,
+              45.799909
+            ],
+            [
+              24.1566814,
+              45.7998754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60994637",
+      "properties": {
+        "timestamp": "2011-04-28T22:47:50Z",
+        "version": 4,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr. 15",
+        "id": "way/60994637"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1452085,
+              45.7941264
+            ],
+            [
+              24.1449607,
+              45.7938717
+            ],
+            [
+              24.1449094,
+              45.7938962
+            ],
+            [
+              24.1448521,
+              45.7938379
+            ],
+            [
+              24.1449024,
+              45.7938139
+            ],
+            [
+              24.1447897,
+              45.7936993
+            ],
+            [
+              24.1448464,
+              45.7936722
+            ],
+            [
+              24.1447729,
+              45.7935974
+            ],
+            [
+              24.1448579,
+              45.7935568
+            ],
+            [
+              24.1449154,
+              45.7936152
+            ],
+            [
+              24.1451987,
+              45.7939034
+            ],
+            [
+              24.1452932,
+              45.7938583
+            ],
+            [
+              24.1454536,
+              45.7940101
+            ],
+            [
+              24.1452085,
+              45.7941264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60994639",
+      "properties": {
+        "timestamp": "2016-08-25T09:21:14Z",
+        "version": 6,
+        "changeset": 41682849,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "college",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Teoretic \"Octavian Goga\"",
+        "id": "way/60994639"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1448259,
+              45.7935231
+            ],
+            [
+              24.1454194,
+              45.7932192
+            ],
+            [
+              24.1454752,
+              45.7932721
+            ],
+            [
+              24.1454984,
+              45.7932942
+            ],
+            [
+              24.1456305,
+              45.7932265
+            ],
+            [
+              24.1459406,
+              45.793521
+            ],
+            [
+              24.1459682,
+              45.7935069
+            ],
+            [
+              24.1460553,
+              45.7935895
+            ],
+            [
+              24.1460231,
+              45.793606
+            ],
+            [
+              24.1461505,
+              45.7937197
+            ],
+            [
+              24.1460568,
+              45.7937687
+            ],
+            [
+              24.1460254,
+              45.793785
+            ],
+            [
+              24.1459306,
+              45.7936924
+            ],
+            [
+              24.1458847,
+              45.7937159
+            ],
+            [
+              24.1457356,
+              45.7935743
+            ],
+            [
+              24.1457725,
+              45.7935553
+            ],
+            [
+              24.1455669,
+              45.7933601
+            ],
+            [
+              24.1453477,
+              45.7934723
+            ],
+            [
+              24.1452941,
+              45.7934214
+            ],
+            [
+              24.1449154,
+              45.7936152
+            ],
+            [
+              24.1448579,
+              45.7935568
+            ],
+            [
+              24.1448259,
+              45.7935231
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61681941",
+      "properties": {
+        "timestamp": "2016-07-27T19:12:19Z",
+        "version": 4,
+        "changeset": 41070098,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr. 13",
+        "id": "way/61681941"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1454617,
+              45.8064731
+            ],
+            [
+              24.1459277,
+              45.806332
+            ],
+            [
+              24.1462617,
+              45.8068682
+            ],
+            [
+              24.146142,
+              45.8069044
+            ],
+            [
+              24.145889,
+              45.8064982
+            ],
+            [
+              24.1456488,
+              45.8065709
+            ],
+            [
+              24.1456657,
+              45.8065981
+            ],
+            [
+              24.1455596,
+              45.8066302
+            ],
+            [
+              24.1454617,
+              45.8064731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/69558438",
+      "properties": {
+        "timestamp": "2019-05-20T19:18:26Z",
+        "version": 8,
+        "changeset": 70453430,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "kindergarten",
+        "boundary": "lot",
+        "operator": "Grădinița cu program prelungit ”Elefănțelul Curios”",
+        "id": "way/69558438"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1557226,
+              45.7825774
+            ],
+            [
+              24.1560433,
+              45.7822665
+            ],
+            [
+              24.1563862,
+              45.7819692
+            ],
+            [
+              24.1571793,
+              45.7824249
+            ],
+            [
+              24.1564738,
+              45.7829968
+            ],
+            [
+              24.1557226,
+              45.7825774
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90611197",
+      "properties": {
+        "timestamp": "2015-04-05T15:52:56Z",
+        "version": 5,
+        "changeset": 29994828,
+        "user": "xmd5a",
+        "uid": 672536,
+        "amenity": "university",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Institutul Militar de Învățământ Superior de Artilerie și Geodezie \"Ioan Vodă\"",
+        "id": "way/90611197"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1349282,
+              45.7782875
+            ],
+            [
+              24.1348969,
+              45.7782358
+            ],
+            [
+              24.1348551,
+              45.7782481
+            ],
+            [
+              24.1347958,
+              45.7781504
+            ],
+            [
+              24.1348306,
+              45.7781401
+            ],
+            [
+              24.1348021,
+              45.7780931
+            ],
+            [
+              24.1348602,
+              45.7780759
+            ],
+            [
+              24.1346387,
+              45.7777107
+            ],
+            [
+              24.1342613,
+              45.777822
+            ],
+            [
+              24.1341563,
+              45.7776489
+            ],
+            [
+              24.1347093,
+              45.7774857
+            ],
+            [
+              24.1350399,
+              45.7780307
+            ],
+            [
+              24.1350883,
+              45.7780164
+            ],
+            [
+              24.1352007,
+              45.7782018
+            ],
+            [
+              24.1351526,
+              45.778216
+            ],
+            [
+              24.1354741,
+              45.7787461
+            ],
+            [
+              24.1349182,
+              45.7789101
+            ],
+            [
+              24.1348224,
+              45.7787521
+            ],
+            [
+              24.1352059,
+              45.778639
+            ],
+            [
+              24.1349829,
+              45.7782713
+            ],
+            [
+              24.1349282,
+              45.7782875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90611691",
+      "properties": {
+        "timestamp": "2011-04-28T22:53:05Z",
+        "version": 3,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Grupul Școlar Industrial - Construcții de Mașini \"Independența\"",
+        "id": "way/90611691"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1494608,
+              45.8053692
+            ],
+            [
+              24.1493134,
+              45.8053079
+            ],
+            [
+              24.149423,
+              45.8051797
+            ],
+            [
+              24.149566,
+              45.8052392
+            ],
+            [
+              24.1496829,
+              45.8051026
+            ],
+            [
+              24.149837,
+              45.8051667
+            ],
+            [
+              24.149317,
+              45.8057744
+            ],
+            [
+              24.1491673,
+              45.8057121
+            ],
+            [
+              24.1494608,
+              45.8053692
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91246296",
+      "properties": {
+        "timestamp": "2017-10-23T20:18:55Z",
+        "version": 7,
+        "changeset": 53190381,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "56",
+        "addr:postcode": "550407",
+        "addr:street": "Strada Nicolae Iorga",
+        "building": "school",
+        "building:levels": "3",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială Nicolae Iorga Sibiu",
+        "old_name": "Școala Generală Nr. 6",
+        "phone": "0040 – 269 – 234837",
+        "website": "https://scnicolaeiorga.wordpress.com/contact/",
+        "id": "way/91246296"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1521446,
+              45.778525
+            ],
+            [
+              24.1517629,
+              45.7783127
+            ],
+            [
+              24.1518464,
+              45.7782342
+            ],
+            [
+              24.1523361,
+              45.7785077
+            ],
+            [
+              24.1523137,
+              45.7785272
+            ],
+            [
+              24.1524998,
+              45.7786309
+            ],
+            [
+              24.1524385,
+              45.7786844
+            ],
+            [
+              24.1524023,
+              45.7786643
+            ],
+            [
+              24.1523309,
+              45.7787267
+            ],
+            [
+              24.15219,
+              45.7786482
+            ],
+            [
+              24.1519665,
+              45.7788433
+            ],
+            [
+              24.1518527,
+              45.77878
+            ],
+            [
+              24.1521446,
+              45.778525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95971419",
+      "properties": {
+        "timestamp": "2014-01-02T15:04:54Z",
+        "version": 3,
+        "changeset": 19768166,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "university",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Universitatea Romano-Germana Sibiu",
+        "id": "way/95971419"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1477792,
+              45.7829581
+            ],
+            [
+              24.1479638,
+              45.783476
+            ],
+            [
+              24.1477788,
+              45.7835081
+            ],
+            [
+              24.1475942,
+              45.7829902
+            ],
+            [
+              24.1477792,
+              45.7829581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95971504",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 8,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Zaharia Boiu",
+        "alt_name": "Școala Nr. 5",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială \"Regina Maria\"",
+        "old_name": "Școala primară de fete",
+        "id": "way/95971504"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.146571,
+              45.7891559
+            ],
+            [
+              24.1467653,
+              45.7892881
+            ],
+            [
+              24.1468309,
+              45.7892413
+            ],
+            [
+              24.146853,
+              45.7892563
+            ],
+            [
+              24.1469454,
+              45.7893192
+            ],
+            [
+              24.1467755,
+              45.7894405
+            ],
+            [
+              24.1467106,
+              45.7893963
+            ],
+            [
+              24.1466849,
+              45.7894147
+            ],
+            [
+              24.1465041,
+              45.7892915
+            ],
+            [
+              24.1465262,
+              45.7892758
+            ],
+            [
+              24.1464631,
+              45.7892329
+            ],
+            [
+              24.146571,
+              45.7891559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95971544",
+      "properties": {
+        "timestamp": "2011-04-28T22:54:22Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "university",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Științe Agricole, Protecția Mediului, Științe Economice",
+        "id": "way/95971544"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1432597,
+              45.7908391
+            ],
+            [
+              24.143272,
+              45.7908223
+            ],
+            [
+              24.1430559,
+              45.7906952
+            ],
+            [
+              24.1429996,
+              45.7907423
+            ],
+            [
+              24.1429028,
+              45.7906983
+            ],
+            [
+              24.1430739,
+              45.790535
+            ],
+            [
+              24.1435377,
+              45.7908113
+            ],
+            [
+              24.1433958,
+              45.7910233
+            ],
+            [
+              24.1432322,
+              45.7909633
+            ],
+            [
+              24.1432817,
+              45.7909001
+            ],
+            [
+              24.1432701,
+              45.7908905
+            ],
+            [
+              24.1432597,
+              45.7908391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95971570",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 4,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "id": "way/95971570"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.146853,
+              45.7892563
+            ],
+            [
+              24.1470031,
+              45.7891491
+            ],
+            [
+              24.1468045,
+              45.7890138
+            ],
+            [
+              24.1469622,
+              45.7889013
+            ],
+            [
+              24.1472283,
+              45.7890825
+            ],
+            [
+              24.1471885,
+              45.7891109
+            ],
+            [
+              24.1472134,
+              45.7891279
+            ],
+            [
+              24.1469454,
+              45.7893192
+            ],
+            [
+              24.146853,
+              45.7892563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95971594",
+      "properties": {
+        "timestamp": "2018-08-22T12:21:12Z",
+        "version": 4,
+        "changeset": 61885948,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "amenity": "university",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Drept \"Simion Bărnuțiu\"",
+        "id": "way/95971594"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1465874,
+              45.7818245
+            ],
+            [
+              24.1466855,
+              45.7819524
+            ],
+            [
+              24.1466106,
+              45.7819803
+            ],
+            [
+              24.1470169,
+              45.7825096
+            ],
+            [
+              24.1471057,
+              45.7824765
+            ],
+            [
+              24.1472073,
+              45.7826089
+            ],
+            [
+              24.146893,
+              45.7827263
+            ],
+            [
+              24.1467936,
+              45.7825967
+            ],
+            [
+              24.1468725,
+              45.7825673
+            ],
+            [
+              24.1467362,
+              45.7823898
+            ],
+            [
+              24.1466391,
+              45.782426
+            ],
+            [
+              24.1465109,
+              45.782259
+            ],
+            [
+              24.1466075,
+              45.7822229
+            ],
+            [
+              24.1464669,
+              45.7820397
+            ],
+            [
+              24.1463794,
+              45.7820723
+            ],
+            [
+              24.1462779,
+              45.7819401
+            ],
+            [
+              24.1465874,
+              45.7818245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95983925",
+      "properties": {
+        "timestamp": "2011-04-28T22:46:32Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "alt_name": "Liceul textil",
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Tehnic Textil",
+        "id": "way/95983925"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1433389,
+              45.7928706
+            ],
+            [
+              24.1434688,
+              45.7930001
+            ],
+            [
+              24.1434874,
+              45.792991
+            ],
+            [
+              24.1435644,
+              45.7930677
+            ],
+            [
+              24.1435419,
+              45.7930787
+            ],
+            [
+              24.1435815,
+              45.7931182
+            ],
+            [
+              24.1437782,
+              45.7930223
+            ],
+            [
+              24.1439065,
+              45.7931502
+            ],
+            [
+              24.1436059,
+              45.7932968
+            ],
+            [
+              24.1435148,
+              45.793206
+            ],
+            [
+              24.1434414,
+              45.7931329
+            ],
+            [
+              24.1433879,
+              45.793159
+            ],
+            [
+              24.1433269,
+              45.7930982
+            ],
+            [
+              24.1433123,
+              45.7931052
+            ],
+            [
+              24.143163,
+              45.7929563
+            ],
+            [
+              24.1433389,
+              45.7928706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95983944",
+      "properties": {
+        "timestamp": "2011-04-28T22:46:52Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Teoretic \"Constantin Noica\"",
+        "old_name": "Liceul sanitar",
+        "id": "way/95983944"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1433612,
+              45.7928597
+            ],
+            [
+              24.1433389,
+              45.7928706
+            ],
+            [
+              24.143163,
+              45.7929563
+            ],
+            [
+              24.1430993,
+              45.7928929
+            ],
+            [
+              24.1431663,
+              45.7928602
+            ],
+            [
+              24.143147,
+              45.7928409
+            ],
+            [
+              24.1429368,
+              45.7929434
+            ],
+            [
+              24.1427758,
+              45.7927829
+            ],
+            [
+              24.1432998,
+              45.7925273
+            ],
+            [
+              24.1434304,
+              45.7926575
+            ],
+            [
+              24.1432309,
+              45.7927548
+            ],
+            [
+              24.1432736,
+              45.7927973
+            ],
+            [
+              24.1432903,
+              45.7927891
+            ],
+            [
+              24.1433612,
+              45.7928597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95988769",
+      "properties": {
+        "timestamp": "2018-10-22T09:41:35Z",
+        "version": 4,
+        "changeset": 63752431,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Macaralei",
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială Ioan Slavici (20)",
+        "id": "way/95988769"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1700657,
+              45.8009742
+            ],
+            [
+              24.1706437,
+              45.8011138
+            ],
+            [
+              24.1705554,
+              45.8012914
+            ],
+            [
+              24.170459,
+              45.8012682
+            ],
+            [
+              24.1704728,
+              45.8012405
+            ],
+            [
+              24.1700982,
+              45.80115
+            ],
+            [
+              24.1700831,
+              45.8011804
+            ],
+            [
+              24.169976,
+              45.8011546
+            ],
+            [
+              24.1700657,
+              45.8009742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95988804",
+      "properties": {
+        "timestamp": "2016-07-12T08:53:53Z",
+        "version": 5,
+        "changeset": 40675293,
+        "user": "HermannstadtGeographer",
+        "uid": 3426616,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "8",
+        "addr:street": "Strada Hațegului",
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Nr. 1",
+        "id": "way/95988804"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.133648,
+              45.7854534
+            ],
+            [
+              24.1340508,
+              45.7856221
+            ],
+            [
+              24.1339911,
+              45.7856913
+            ],
+            [
+              24.1340377,
+              45.7857108
+            ],
+            [
+              24.1340034,
+              45.7857507
+            ],
+            [
+              24.1339508,
+              45.7857286
+            ],
+            [
+              24.1339341,
+              45.785748
+            ],
+            [
+              24.1335922,
+              45.7856048
+            ],
+            [
+              24.1335373,
+              45.7855818
+            ],
+            [
+              24.133648,
+              45.7854534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95988809",
+      "properties": {
+        "timestamp": "2020-08-21T04:17:09Z",
+        "version": 6,
+        "changeset": 89719762,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "addr:city": "Sibiu",
+        "addr:street": "Strada Johann Sebastian Bach",
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Gheorghe Gheorghiu-Dej",
+        "id": "way/95988809"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1698529,
+              45.8043514
+            ],
+            [
+              24.17044,
+              45.8041685
+            ],
+            [
+              24.1705108,
+              45.804279
+            ],
+            [
+              24.1703855,
+              45.804318
+            ],
+            [
+              24.1704077,
+              45.8043526
+            ],
+            [
+              24.1699459,
+              45.8044965
+            ],
+            [
+              24.1698529,
+              45.8043514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96029167",
+      "properties": {
+        "timestamp": "2013-03-28T17:48:17Z",
+        "version": 4,
+        "changeset": 15529552,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr. 4",
+        "id": "way/96029167"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1612756,
+              45.7906242
+            ],
+            [
+              24.1614658,
+              45.7905526
+            ],
+            [
+              24.1617768,
+              45.7909542
+            ],
+            [
+              24.1616669,
+              45.7909956
+            ],
+            [
+              24.1616539,
+              45.7909787
+            ],
+            [
+              24.1614616,
+              45.791051
+            ],
+            [
+              24.1614824,
+              45.7910778
+            ],
+            [
+              24.1613636,
+              45.7911226
+            ],
+            [
+              24.1612711,
+              45.7910032
+            ],
+            [
+              24.1615018,
+              45.7909163
+            ],
+            [
+              24.1612756,
+              45.7906242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96032249",
+      "properties": {
+        "timestamp": "2011-04-28T22:51:58Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/96032249"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1385138,
+              45.7978825
+            ],
+            [
+              24.1385993,
+              45.7978287
+            ],
+            [
+              24.1386801,
+              45.7978911
+            ],
+            [
+              24.1385946,
+              45.7979449
+            ],
+            [
+              24.1385138,
+              45.7978825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96032250",
+      "properties": {
+        "timestamp": "2011-04-28T22:55:53Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/96032250"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1387679,
+              45.7983328
+            ],
+            [
+              24.1388694,
+              45.7984113
+            ],
+            [
+              24.1385782,
+              45.7985944
+            ],
+            [
+              24.1384711,
+              45.7985116
+            ],
+            [
+              24.1385698,
+              45.7984496
+            ],
+            [
+              24.1385258,
+              45.7984155
+            ],
+            [
+              24.138582,
+              45.7983801
+            ],
+            [
+              24.1386316,
+              45.7984184
+            ],
+            [
+              24.1387679,
+              45.7983328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96032257",
+      "properties": {
+        "timestamp": "2015-04-05T15:53:15Z",
+        "version": 3,
+        "changeset": 29994828,
+        "user": "xmd5a",
+        "uid": 672536,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/96032257"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1387933,
+              45.7982491
+            ],
+            [
+              24.1385124,
+              45.7980319
+            ],
+            [
+              24.1383846,
+              45.797933
+            ],
+            [
+              24.1382696,
+              45.7978441
+            ],
+            [
+              24.1383287,
+              45.797807
+            ],
+            [
+              24.1383877,
+              45.7978526
+            ],
+            [
+              24.138436,
+              45.7978223
+            ],
+            [
+              24.1385138,
+              45.7978825
+            ],
+            [
+              24.1385946,
+              45.7979449
+            ],
+            [
+              24.1389036,
+              45.7981838
+            ],
+            [
+              24.1389529,
+              45.7981528
+            ],
+            [
+              24.1390116,
+              45.7981983
+            ],
+            [
+              24.138855,
+              45.7982967
+            ],
+            [
+              24.1387933,
+              45.7982491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96032276",
+      "properties": {
+        "timestamp": "2011-04-28T22:47:52Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/96032276"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1384711,
+              45.7985116
+            ],
+            [
+              24.1385782,
+              45.7985944
+            ],
+            [
+              24.1384362,
+              45.7986836
+            ],
+            [
+              24.1383944,
+              45.7986513
+            ],
+            [
+              24.1383654,
+              45.7986695
+            ],
+            [
+              24.1383036,
+              45.7986217
+            ],
+            [
+              24.1383386,
+              45.7985997
+            ],
+            [
+              24.1382814,
+              45.7985555
+            ],
+            [
+              24.1383309,
+              45.7985244
+            ],
+            [
+              24.1383847,
+              45.798566
+            ],
+            [
+              24.1384711,
+              45.7985116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96032285",
+      "properties": {
+        "timestamp": "2011-04-28T22:50:51Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Tehnic \"Carol I\"",
+        "id": "way/96032285"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1387933,
+              45.7982491
+            ],
+            [
+              24.138855,
+              45.7982967
+            ],
+            [
+              24.1390116,
+              45.7981983
+            ],
+            [
+              24.1389529,
+              45.7981528
+            ],
+            [
+              24.1392377,
+              45.7979738
+            ],
+            [
+              24.1393299,
+              45.7980451
+            ],
+            [
+              24.1390144,
+              45.7982435
+            ],
+            [
+              24.139069,
+              45.7982858
+            ],
+            [
+              24.1388694,
+              45.7984113
+            ],
+            [
+              24.1387679,
+              45.7983328
+            ],
+            [
+              24.1387196,
+              45.7982954
+            ],
+            [
+              24.1387933,
+              45.7982491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96032286",
+      "properties": {
+        "timestamp": "2011-04-28T22:54:53Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/96032286"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1383846,
+              45.797933
+            ],
+            [
+              24.1385124,
+              45.7980319
+            ],
+            [
+              24.1382703,
+              45.7981841
+            ],
+            [
+              24.1381425,
+              45.7980852
+            ],
+            [
+              24.1383846,
+              45.797933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96043336",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 4,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:street": "Strada Lungă",
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr. 18",
+        "id": "way/96043336"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.145293,
+              45.8084547
+            ],
+            [
+              24.1451408,
+              45.8082011
+            ],
+            [
+              24.1451033,
+              45.808212
+            ],
+            [
+              24.1450597,
+              45.8081394
+            ],
+            [
+              24.1453051,
+              45.8080678
+            ],
+            [
+              24.1455822,
+              45.8085294
+            ],
+            [
+              24.1452671,
+              45.8086213
+            ],
+            [
+              24.1451859,
+              45.8084859
+            ],
+            [
+              24.145293,
+              45.8084547
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96046798",
+      "properties": {
+        "timestamp": "2011-04-28T22:48:37Z",
+        "version": 2,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Grădinița Nr. 5",
+        "id": "way/96046798"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.141268,
+              45.7723751
+            ],
+            [
+              24.1416735,
+              45.7724188
+            ],
+            [
+              24.1416531,
+              45.772511
+            ],
+            [
+              24.1415479,
+              45.7724996
+            ],
+            [
+              24.1415366,
+              45.7725506
+            ],
+            [
+              24.1413521,
+              45.7725307
+            ],
+            [
+              24.1413652,
+              45.7724714
+            ],
+            [
+              24.1412494,
+              45.7724589
+            ],
+            [
+              24.141268,
+              45.7723751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96115823",
+      "properties": {
+        "timestamp": "2016-08-23T10:07:15Z",
+        "version": 4,
+        "changeset": 41634198,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala specială",
+        "id": "way/96115823"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1464811,
+              45.7929311
+            ],
+            [
+              24.1464538,
+              45.7929034
+            ],
+            [
+              24.14659,
+              45.7928382
+            ],
+            [
+              24.1466115,
+              45.79286
+            ],
+            [
+              24.1467386,
+              45.7927991
+            ],
+            [
+              24.1468611,
+              45.7929235
+            ],
+            [
+              24.1466746,
+              45.7930132
+            ],
+            [
+              24.1464821,
+              45.7931049
+            ],
+            [
+              24.1463655,
+              45.7929865
+            ],
+            [
+              24.1464811,
+              45.7929311
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105353530",
+      "properties": {
+        "timestamp": "2011-04-28T22:58:29Z",
+        "version": 3,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "college",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Industrial \"MIU\"",
+        "id": "way/105353530"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1391957,
+              45.7938004
+            ],
+            [
+              24.1393914,
+              45.793739
+            ],
+            [
+              24.1396676,
+              45.7936475
+            ],
+            [
+              24.1397662,
+              45.7937956
+            ],
+            [
+              24.1392943,
+              45.7939484
+            ],
+            [
+              24.1391957,
+              45.7938004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105356706",
+      "properties": {
+        "timestamp": "2018-10-22T10:39:43Z",
+        "version": 5,
+        "changeset": 63754199,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/105356706"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1684677,
+              45.7846216
+            ],
+            [
+              24.1686759,
+              45.7847213
+            ],
+            [
+              24.1686275,
+              45.7847704
+            ],
+            [
+              24.1686162,
+              45.784765
+            ],
+            [
+              24.1685053,
+              45.7848778
+            ],
+            [
+              24.1684907,
+              45.7848708
+            ],
+            [
+              24.1684088,
+              45.784954
+            ],
+            [
+              24.1682611,
+              45.7848833
+            ],
+            [
+              24.1683103,
+              45.7848334
+            ],
+            [
+              24.1682755,
+              45.7848168
+            ],
+            [
+              24.1684677,
+              45.7846216
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105356711",
+      "properties": {
+        "timestamp": "2018-10-22T10:26:30Z",
+        "version": 3,
+        "changeset": 63753812,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/105356711"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1689668,
+              45.7842074
+            ],
+            [
+              24.1691467,
+              45.7842996
+            ],
+            [
+              24.1689155,
+              45.7845188
+            ],
+            [
+              24.1687356,
+              45.7844266
+            ],
+            [
+              24.1689668,
+              45.7842074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105356729",
+      "properties": {
+        "timestamp": "2018-10-22T10:29:13Z",
+        "version": 3,
+        "changeset": 63753890,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "13",
+        "addr:street": "Strada Șoimului",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială Radu Selejan",
+        "id": "way/105356729"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1675105,
+              45.7829253
+            ],
+            [
+              24.1676458,
+              45.7829929
+            ],
+            [
+              24.1676181,
+              45.7830199
+            ],
+            [
+              24.1676908,
+              45.7830562
+            ],
+            [
+              24.1672489,
+              45.7834862
+            ],
+            [
+              24.1671549,
+              45.7834393
+            ],
+            [
+              24.1671308,
+              45.7834628
+            ],
+            [
+              24.1670419,
+              45.7834184
+            ],
+            [
+              24.1671243,
+              45.7833383
+            ],
+            [
+              24.167099,
+              45.7833257
+            ],
+            [
+              24.1675105,
+              45.7829253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105356733",
+      "properties": {
+        "timestamp": "2018-10-22T10:26:30Z",
+        "version": 3,
+        "changeset": 63753812,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Electricienilor",
+        "amenity": "school",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Colegiul Tehnic Energetic",
+        "id": "way/105356733"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1676574,
+              45.7845242
+            ],
+            [
+              24.1677777,
+              45.7845852
+            ],
+            [
+              24.1682131,
+              45.784168
+            ],
+            [
+              24.1683474,
+              45.7842362
+            ],
+            [
+              24.168256,
+              45.7843238
+            ],
+            [
+              24.1684791,
+              45.784437
+            ],
+            [
+              24.1683642,
+              45.784547
+            ],
+            [
+              24.1681451,
+              45.7844358
+            ],
+            [
+              24.1679253,
+              45.7846464
+            ],
+            [
+              24.1679797,
+              45.784674
+            ],
+            [
+              24.1678399,
+              45.7848081
+            ],
+            [
+              24.1677328,
+              45.7847537
+            ],
+            [
+              24.1678158,
+              45.7846742
+            ],
+            [
+              24.167761,
+              45.7846463
+            ],
+            [
+              24.1677278,
+              45.7846781
+            ],
+            [
+              24.1675768,
+              45.7846014
+            ],
+            [
+              24.1676574,
+              45.7845242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105356759",
+      "properties": {
+        "timestamp": "2018-10-22T10:39:43Z",
+        "version": 4,
+        "changeset": 63754199,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/105356759"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1683103,
+              45.7848334
+            ],
+            [
+              24.1682611,
+              45.7848833
+            ],
+            [
+              24.1684088,
+              45.784954
+            ],
+            [
+              24.1683338,
+              45.7850308
+            ],
+            [
+              24.1682501,
+              45.7849895
+            ],
+            [
+              24.1682999,
+              45.7849367
+            ],
+            [
+              24.1682518,
+              45.7849146
+            ],
+            [
+              24.1682365,
+              45.7849308
+            ],
+            [
+              24.1680403,
+              45.7848407
+            ],
+            [
+              24.1681255,
+              45.7847504
+            ],
+            [
+              24.1682755,
+              45.7848168
+            ],
+            [
+              24.1683103,
+              45.7848334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105508942",
+      "properties": {
+        "timestamp": "2016-05-25T16:02:00Z",
+        "version": 11,
+        "changeset": 39559789,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "addr:country": "RO",
+        "addr:housenumber": "10",
+        "addr:postcode": "550372",
+        "addr:street": "Strada Vasile Alecsandri",
+        "building": "school",
+        "building:levels": "2",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială nr. 16",
+        "website": "http://www.sc16caragiale.ro/",
+        "id": "way/105508942"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1411849,
+              45.7766885
+            ],
+            [
+              24.1413993,
+              45.7766118
+            ],
+            [
+              24.141377,
+              45.7765815
+            ],
+            [
+              24.1415001,
+              45.7765374
+            ],
+            [
+              24.1415505,
+              45.776606
+            ],
+            [
+              24.1417719,
+              45.7769072
+            ],
+            [
+              24.1417723,
+              45.7769077
+            ],
+            [
+              24.1417795,
+              45.7769175
+            ],
+            [
+              24.1416513,
+              45.7769634
+            ],
+            [
+              24.1414588,
+              45.7767015
+            ],
+            [
+              24.1412495,
+              45.7767764
+            ],
+            [
+              24.1411849,
+              45.7766885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/106564899",
+      "properties": {
+        "timestamp": "2018-10-12T02:34:09Z",
+        "version": 4,
+        "changeset": 63438311,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "57",
+        "addr:street": "Strada Școala de Înot",
+        "amenity": "university",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Universitatea \"Alma Mater\" Sibiu",
+        "id": "way/106564899"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1480879,
+              45.7869116
+            ],
+            [
+              24.1481585,
+              45.7869598
+            ],
+            [
+              24.1481768,
+              45.7869468
+            ],
+            [
+              24.1482253,
+              45.78698
+            ],
+            [
+              24.1482105,
+              45.7869905
+            ],
+            [
+              24.1482721,
+              45.7870326
+            ],
+            [
+              24.1481407,
+              45.7871261
+            ],
+            [
+              24.1481094,
+              45.7871046
+            ],
+            [
+              24.1480789,
+              45.7871263
+            ],
+            [
+              24.1480661,
+              45.7871175
+            ],
+            [
+              24.1480343,
+              45.7871402
+            ],
+            [
+              24.1481391,
+              45.7872119
+            ],
+            [
+              24.1480417,
+              45.7872812
+            ],
+            [
+              24.1478831,
+              45.7871727
+            ],
+            [
+              24.1479805,
+              45.7871034
+            ],
+            [
+              24.1478977,
+              45.7870469
+            ],
+            [
+              24.1480879,
+              45.7869116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107725959",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 3,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Genenerală Nr. 25",
+        "id": "way/107725959"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1278975,
+              45.7691647
+            ],
+            [
+              24.1278021,
+              45.7691886
+            ],
+            [
+              24.1278191,
+              45.7692216
+            ],
+            [
+              24.1277511,
+              45.7692386
+            ],
+            [
+              24.1277237,
+              45.7691855
+            ],
+            [
+              24.1276813,
+              45.7691961
+            ],
+            [
+              24.1275226,
+              45.7688882
+            ],
+            [
+              24.1277285,
+              45.7688366
+            ],
+            [
+              24.1278975,
+              45.7691647
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108361076",
+      "properties": {
+        "timestamp": "2018-10-22T10:02:08Z",
+        "version": 4,
+        "changeset": 63753098,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Bihorului",
+        "building": "school",
+        "building:levels": "3",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul \"Onosifor Ghibu\"",
+        "id": "way/108361076"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1350445,
+              45.7900232
+            ],
+            [
+              24.1351521,
+              45.7897456
+            ],
+            [
+              24.1352658,
+              45.789767
+            ],
+            [
+              24.1352797,
+              45.7897313
+            ],
+            [
+              24.1360012,
+              45.7898673
+            ],
+            [
+              24.1359415,
+              45.7900215
+            ],
+            [
+              24.1357751,
+              45.7899901
+            ],
+            [
+              24.1357949,
+              45.789939
+            ],
+            [
+              24.1353318,
+              45.7898517
+            ],
+            [
+              24.1352506,
+              45.7900612
+            ],
+            [
+              24.135221,
+              45.7900556
+            ],
+            [
+              24.1352083,
+              45.7900883
+            ],
+            [
+              24.1350647,
+              45.7900612
+            ],
+            [
+              24.135077,
+              45.7900294
+            ],
+            [
+              24.1350445,
+              45.7900232
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108361093",
+      "properties": {
+        "timestamp": "2018-10-22T09:59:24Z",
+        "version": 3,
+        "changeset": 63753002,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Bihorului",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/108361093"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1348902,
+              45.7904443
+            ],
+            [
+              24.1350386,
+              45.7900589
+            ],
+            [
+              24.1352343,
+              45.7900956
+            ],
+            [
+              24.1350859,
+              45.790481
+            ],
+            [
+              24.1348902,
+              45.7904443
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136373018",
+      "properties": {
+        "timestamp": "2016-09-21T14:28:12Z",
+        "version": 5,
+        "changeset": 42325187,
+        "user": "Michael_H",
+        "uid": 323389,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Piața Cluj",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Școala cu Clasele I - VIII NR. 12 Sibiu",
+        "id": "way/136373018"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1377531,
+              45.8019903
+            ],
+            [
+              24.1379402,
+              45.801894
+            ],
+            [
+              24.1381427,
+              45.8020852
+            ],
+            [
+              24.1379556,
+              45.8021815
+            ],
+            [
+              24.1377531,
+              45.8019903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136373022",
+      "properties": {
+        "timestamp": "2016-09-21T14:28:12Z",
+        "version": 3,
+        "changeset": 42325187,
+        "user": "Michael_H",
+        "uid": 323389,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Piața Cluj",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala cu Clasele I - VIII NR. 12 Sibiu",
+        "id": "way/136373022"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1374719,
+              45.8022928
+            ],
+            [
+              24.1376359,
+              45.8022073
+            ],
+            [
+              24.137804,
+              45.8023641
+            ],
+            [
+              24.1375713,
+              45.8024854
+            ],
+            [
+              24.1374756,
+              45.8023962
+            ],
+            [
+              24.1375443,
+              45.8023604
+            ],
+            [
+              24.1374719,
+              45.8022928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163783851",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 5,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "barrier": "fence",
+        "fence_type": "chain",
+        "id": "way/163783851"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1472283,
+              45.7890825
+            ],
+            [
+              24.1469622,
+              45.7889013
+            ],
+            [
+              24.1468045,
+              45.7890138
+            ],
+            [
+              24.1470031,
+              45.7891491
+            ],
+            [
+              24.146853,
+              45.7892563
+            ],
+            [
+              24.1468309,
+              45.7892413
+            ],
+            [
+              24.1467653,
+              45.7892881
+            ],
+            [
+              24.146571,
+              45.7891559
+            ],
+            [
+              24.1464631,
+              45.7892329
+            ],
+            [
+              24.1464337,
+              45.7892532
+            ],
+            [
+              24.1463122,
+              45.7891702
+            ],
+            [
+              24.1464878,
+              45.7890351
+            ],
+            [
+              24.1463902,
+              45.7889796
+            ],
+            [
+              24.1464705,
+              45.788765
+            ],
+            [
+              24.1465675,
+              45.7885732
+            ],
+            [
+              24.1465834,
+              45.7885387
+            ],
+            [
+              24.1467555,
+              45.7886527
+            ],
+            [
+              24.1473783,
+              45.7889891
+            ],
+            [
+              24.1472456,
+              45.7890952
+            ],
+            [
+              24.1472283,
+              45.7890825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224239287",
+      "properties": {
+        "timestamp": "2018-10-22T10:17:51Z",
+        "version": 3,
+        "changeset": 63753526,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Șureanu",
+        "amenity": "school",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială Regele Ferdinand (24)",
+        "source": "Bing",
+        "id": "way/224239287"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1728655,
+              45.7861322
+            ],
+            [
+              24.172956,
+              45.7861829
+            ],
+            [
+              24.1729977,
+              45.7861467
+            ],
+            [
+              24.1730531,
+              45.7861778
+            ],
+            [
+              24.1729842,
+              45.7862376
+            ],
+            [
+              24.1729992,
+              45.7862461
+            ],
+            [
+              24.1727184,
+              45.7864898
+            ],
+            [
+              24.1725573,
+              45.7863996
+            ],
+            [
+              24.1728655,
+              45.7861322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224486341",
+      "properties": {
+        "timestamp": "2013-06-05T12:24:31Z",
+        "version": 1,
+        "changeset": 16431718,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Grădinița Nr. 14",
+        "id": "way/224486341"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1734748,
+              45.7870967
+            ],
+            [
+              24.1735987,
+              45.7871617
+            ],
+            [
+              24.1733134,
+              45.7874259
+            ],
+            [
+              24.1731896,
+              45.7873608
+            ],
+            [
+              24.1734748,
+              45.7870967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253029283",
+      "properties": {
+        "timestamp": "2020-04-03T20:56:24Z",
+        "version": 5,
+        "changeset": 83053578,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "boundary": "lot",
+        "operator": "Grădinița și creșa nr. 29",
+        "id": "way/253029283"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1750699,
+              45.7845233
+            ],
+            [
+              24.1747202,
+              45.7843462
+            ],
+            [
+              24.174661,
+              45.7843145
+            ],
+            [
+              24.1744374,
+              45.7842017
+            ],
+            [
+              24.1746012,
+              45.7840503
+            ],
+            [
+              24.1746836,
+              45.7839769
+            ],
+            [
+              24.1749357,
+              45.7837343
+            ],
+            [
+              24.1754109,
+              45.7839913
+            ],
+            [
+              24.1753921,
+              45.7840129
+            ],
+            [
+              24.1755365,
+              45.7841022
+            ],
+            [
+              24.1753113,
+              45.7843055
+            ],
+            [
+              24.1750699,
+              45.7845233
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254764666",
+      "properties": {
+        "timestamp": "2016-09-08T16:52:25Z",
+        "version": 4,
+        "changeset": 42008038,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "2",
+        "addr:postcode": "550351",
+        "addr:street": "Aleea Turnu Roșu",
+        "building": "school",
+        "building:levels": "3",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Colegiul Național Pedagogic \"Andrei Șaguna\"",
+        "website": "http://www.cnandreisaguna.ro/",
+        "id": "way/254764666"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1536809,
+              45.7819234
+            ],
+            [
+              24.1537555,
+              45.7818552
+            ],
+            [
+              24.1542506,
+              45.7821241
+            ],
+            [
+              24.1542279,
+              45.7821444
+            ],
+            [
+              24.1544352,
+              45.7822569
+            ],
+            [
+              24.1543681,
+              45.782317
+            ],
+            [
+              24.1543355,
+              45.7822993
+            ],
+            [
+              24.1542781,
+              45.7823507
+            ],
+            [
+              24.154126,
+              45.7822681
+            ],
+            [
+              24.1539049,
+              45.7824661
+            ],
+            [
+              24.1537832,
+              45.7824
+            ],
+            [
+              24.1540768,
+              45.782137
+            ],
+            [
+              24.1537978,
+              45.7819869
+            ],
+            [
+              24.1536809,
+              45.7819234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254785367",
+      "properties": {
+        "timestamp": "2018-10-22T10:48:30Z",
+        "version": 3,
+        "changeset": 63754466,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "27",
+        "addr:postcode": "550362",
+        "addr:street": "Strada Luptei",
+        "building": "school",
+        "building:levels": "3",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială 21",
+        "id": "way/254785367"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.15908,
+              45.7807671
+            ],
+            [
+              24.1589858,
+              45.7807285
+            ],
+            [
+              24.1590081,
+              45.7807021
+            ],
+            [
+              24.1586726,
+              45.7805648
+            ],
+            [
+              24.1586561,
+              45.7805843
+            ],
+            [
+              24.1585648,
+              45.7805469
+            ],
+            [
+              24.1586282,
+              45.7804715
+            ],
+            [
+              24.1585183,
+              45.7804266
+            ],
+            [
+              24.1586447,
+              45.7802763
+            ],
+            [
+              24.1587801,
+              45.7803317
+            ],
+            [
+              24.1587212,
+              45.7804018
+            ],
+            [
+              24.1592132,
+              45.7806032
+            ],
+            [
+              24.159264,
+              45.7805428
+            ],
+            [
+              24.1593908,
+              45.7805947
+            ],
+            [
+              24.1592611,
+              45.7807488
+            ],
+            [
+              24.1591378,
+              45.7806984
+            ],
+            [
+              24.15908,
+              45.7807671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254785368",
+      "properties": {
+        "timestamp": "2018-10-22T10:48:30Z",
+        "version": 3,
+        "changeset": 63754466,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "27",
+        "addr:street": "Strada Luptei",
+        "amenity": "school",
+        "boundary": "lot",
+        "name": "Școala Gimnazială 21",
+        "operator": "Școala Gimnazială 21",
+        "id": "way/254785368"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1589122,
+              45.7809924
+            ],
+            [
+              24.1583953,
+              45.7807699
+            ],
+            [
+              24.1585626,
+              45.780563
+            ],
+            [
+              24.1585402,
+              45.7805537
+            ],
+            [
+              24.1585713,
+              45.7805164
+            ],
+            [
+              24.1584793,
+              45.7804764
+            ],
+            [
+              24.1585183,
+              45.7804266
+            ],
+            [
+              24.1586447,
+              45.7802763
+            ],
+            [
+              24.1588829,
+              45.7800062
+            ],
+            [
+              24.160341,
+              45.7806097
+            ],
+            [
+              24.1600313,
+              45.7809702
+            ],
+            [
+              24.1596246,
+              45.7807994
+            ],
+            [
+              24.1594832,
+              45.7807404
+            ],
+            [
+              24.1593655,
+              45.7808776
+            ],
+            [
+              24.1592604,
+              45.7808341
+            ],
+            [
+              24.1590963,
+              45.7807655
+            ],
+            [
+              24.1589122,
+              45.7809924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254789643",
+      "properties": {
+        "timestamp": "2017-10-23T22:31:50Z",
+        "version": 2,
+        "changeset": 53192949,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "4",
+        "addr:street": "Aleea Artileriștilor",
+        "amenity": "kindergarten",
+        "boundary": "fence",
+        "operator": "Grădinița cu program prelungit nr. 33",
+        "id": "way/254789643"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1609525,
+              45.7813312
+            ],
+            [
+              24.1607385,
+              45.7812417
+            ],
+            [
+              24.1606148,
+              45.7813686
+            ],
+            [
+              24.1604611,
+              45.7813151
+            ],
+            [
+              24.1605635,
+              45.7811976
+            ],
+            [
+              24.1602692,
+              45.7810729
+            ],
+            [
+              24.1604549,
+              45.7808602
+            ],
+            [
+              24.1606164,
+              45.7809287
+            ],
+            [
+              24.1607171,
+              45.7808133
+            ],
+            [
+              24.1609268,
+              45.7808895
+            ],
+            [
+              24.1611504,
+              45.7810228
+            ],
+            [
+              24.161172,
+              45.7811347
+            ],
+            [
+              24.1609525,
+              45.7813312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254806856",
+      "properties": {
+        "timestamp": "2018-10-22T10:59:35Z",
+        "version": 2,
+        "changeset": 63754847,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Oștirii",
+        "amenity": "school",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Teoretic Constantin Noica",
+        "id": "way/254806856"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1546547,
+              45.777501
+            ],
+            [
+              24.1545732,
+              45.7775725
+            ],
+            [
+              24.1543114,
+              45.7774273
+            ],
+            [
+              24.1541819,
+              45.777541
+            ],
+            [
+              24.1540886,
+              45.7774892
+            ],
+            [
+              24.1540715,
+              45.7775042
+            ],
+            [
+              24.1539998,
+              45.7774644
+            ],
+            [
+              24.1541461,
+              45.7773361
+            ],
+            [
+              24.154121,
+              45.7773222
+            ],
+            [
+              24.1545181,
+              45.7769737
+            ],
+            [
+              24.154617,
+              45.7770285
+            ],
+            [
+              24.1543016,
+              45.7773052
+            ],
+            [
+              24.1546547,
+              45.777501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254806859",
+      "properties": {
+        "timestamp": "2016-09-09T16:20:12Z",
+        "version": 3,
+        "changeset": 42034820,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "school",
+        "operator": "Grădinița cu program prelungit nr. 43",
+        "id": "way/254806859"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1513072,
+              45.7739018
+            ],
+            [
+              24.1503238,
+              45.7738558
+            ],
+            [
+              24.1503934,
+              45.7732284
+            ],
+            [
+              24.150422,
+              45.773196
+            ],
+            [
+              24.1504845,
+              45.7731848
+            ],
+            [
+              24.1504916,
+              45.7731301
+            ],
+            [
+              24.1506147,
+              45.7730317
+            ],
+            [
+              24.151077,
+              45.7732595
+            ],
+            [
+              24.1512822,
+              45.7735608
+            ],
+            [
+              24.1513284,
+              45.7735872
+            ],
+            [
+              24.1513072,
+              45.7739018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254806870",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 4,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Oștirii",
+        "amenity": "school",
+        "boundary": "lot",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "id": "way/254806870"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1554246,
+              45.7782404
+            ],
+            [
+              24.1547393,
+              45.777852
+            ],
+            [
+              24.1552495,
+              45.7774274
+            ],
+            [
+              24.1552747,
+              45.7774064
+            ],
+            [
+              24.15596,
+              45.7777923
+            ],
+            [
+              24.1554246,
+              45.7782404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254806872",
+      "properties": {
+        "timestamp": "2018-10-22T10:59:35Z",
+        "version": 3,
+        "changeset": 63754847,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Oștirii",
+        "amenity": "school",
+        "boundary": "lot",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Teoretic Constantin Noica",
+        "id": "way/254806872"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1547393,
+              45.777852
+            ],
+            [
+              24.1545037,
+              45.7777226
+            ],
+            [
+              24.1544252,
+              45.7777749
+            ],
+            [
+              24.1538334,
+              45.7774652
+            ],
+            [
+              24.1545562,
+              45.7768279
+            ],
+            [
+              24.1550024,
+              45.777103
+            ],
+            [
+              24.1548649,
+              45.7772188
+            ],
+            [
+              24.1552495,
+              45.7774274
+            ],
+            [
+              24.1547393,
+              45.777852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254866434",
+      "properties": {
+        "timestamp": "2014-01-02T18:39:39Z",
+        "version": 1,
+        "changeset": 19772392,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "university",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Științe Agroalimentare",
+        "id": "way/254866434"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1496658,
+              45.7835435
+            ],
+            [
+              24.1501098,
+              45.7837769
+            ],
+            [
+              24.1500405,
+              45.783841
+            ],
+            [
+              24.1500075,
+              45.7838237
+            ],
+            [
+              24.1499453,
+              45.7838813
+            ],
+            [
+              24.1495023,
+              45.7836484
+            ],
+            [
+              24.1495755,
+              45.7835806
+            ],
+            [
+              24.1496075,
+              45.7835974
+            ],
+            [
+              24.1496658,
+              45.7835435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254866435",
+      "properties": {
+        "timestamp": "2020-04-05T13:48:21Z",
+        "version": 3,
+        "changeset": 83099855,
+        "user": "Michael_H",
+        "uid": 323389,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "31",
+        "addr:street": "Strada Oituz",
+        "amenity": "school",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Colegiul Economic George Barițiu",
+        "id": "way/254866435"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1505947,
+              45.7842213
+            ],
+            [
+              24.1503076,
+              45.7840652
+            ],
+            [
+              24.1503737,
+              45.784006
+            ],
+            [
+              24.1504633,
+              45.7840548
+            ],
+            [
+              24.1506097,
+              45.7839239
+            ],
+            [
+              24.1502008,
+              45.7837014
+            ],
+            [
+              24.1502692,
+              45.7836402
+            ],
+            [
+              24.1508911,
+              45.7839786
+            ],
+            [
+              24.1508176,
+              45.7840443
+            ],
+            [
+              24.1506946,
+              45.7839774
+            ],
+            [
+              24.1505561,
+              45.7841012
+            ],
+            [
+              24.1506636,
+              45.7841597
+            ],
+            [
+              24.1505947,
+              45.7842213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254866436",
+      "properties": {
+        "timestamp": "2014-01-02T18:39:39Z",
+        "version": 1,
+        "changeset": 19772392,
+        "user": "Flaviu",
+        "uid": 204685,
+        "building": "school",
+        "id": "way/254866436"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1502124,
+              45.7840628
+            ],
+            [
+              24.1499677,
+              45.7839261
+            ],
+            [
+              24.1500901,
+              45.7838196
+            ],
+            [
+              24.1503348,
+              45.7839562
+            ],
+            [
+              24.1502124,
+              45.7840628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254866438",
+      "properties": {
+        "timestamp": "2014-01-02T18:39:39Z",
+        "version": 1,
+        "changeset": 19772392,
+        "user": "Flaviu",
+        "uid": 204685,
+        "building": "school",
+        "id": "way/254866438"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1497733,
+              45.7835013
+            ],
+            [
+              24.149681,
+              45.7834503
+            ],
+            [
+              24.1496975,
+              45.7834358
+            ],
+            [
+              24.1495857,
+              45.7833752
+            ],
+            [
+              24.1499274,
+              45.783072
+            ],
+            [
+              24.1500229,
+              45.7831251
+            ],
+            [
+              24.1500075,
+              45.7831386
+            ],
+            [
+              24.1501169,
+              45.7831991
+            ],
+            [
+              24.1497733,
+              45.7835013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254866439",
+      "properties": {
+        "timestamp": "2018-10-22T11:17:17Z",
+        "version": 2,
+        "changeset": 63755407,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "31",
+        "addr:street": "Strada Oituz",
+        "amenity": "school",
+        "boundary": "lot",
+        "id": "way/254866439"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1507628,
+              45.7833117
+            ],
+            [
+              24.1508721,
+              45.7833715
+            ],
+            [
+              24.1513597,
+              45.7836479
+            ],
+            [
+              24.151168,
+              45.783816
+            ],
+            [
+              24.1511965,
+              45.7838324
+            ],
+            [
+              24.1506454,
+              45.7843077
+            ],
+            [
+              24.1494544,
+              45.7836928
+            ],
+            [
+              24.1495023,
+              45.7836484
+            ],
+            [
+              24.1495755,
+              45.7835806
+            ],
+            [
+              24.1496177,
+              45.7835349
+            ],
+            [
+              24.1495131,
+              45.7834099
+            ],
+            [
+              24.1495857,
+              45.7833752
+            ],
+            [
+              24.1499274,
+              45.783072
+            ],
+            [
+              24.1499726,
+              45.7830332
+            ],
+            [
+              24.1506538,
+              45.7834085
+            ],
+            [
+              24.1507628,
+              45.7833117
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254866440",
+      "properties": {
+        "timestamp": "2016-08-03T11:58:39Z",
+        "version": 4,
+        "changeset": 41212854,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "kindergarten",
+        "boundary": "lot",
+        "operator": "Gradinita cu program prelungit \"Fratii Grim\"",
+        "id": "way/254866440"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1513684,
+              45.7847464
+            ],
+            [
+              24.1510392,
+              45.7845821
+            ],
+            [
+              24.1508434,
+              45.784481
+            ],
+            [
+              24.1508203,
+              45.7844618
+            ],
+            [
+              24.1508062,
+              45.7844361
+            ],
+            [
+              24.1508052,
+              45.7844036
+            ],
+            [
+              24.1508172,
+              45.7843646
+            ],
+            [
+              24.1511162,
+              45.7840918
+            ],
+            [
+              24.151359,
+              45.7838726
+            ],
+            [
+              24.1516868,
+              45.7840531
+            ],
+            [
+              24.1516069,
+              45.7841225
+            ],
+            [
+              24.1518239,
+              45.784244
+            ],
+            [
+              24.1518732,
+              45.784269
+            ],
+            [
+              24.1516374,
+              45.7844872
+            ],
+            [
+              24.1517928,
+              45.7845658
+            ],
+            [
+              24.1517228,
+              45.7846369
+            ],
+            [
+              24.151705,
+              45.7846277
+            ],
+            [
+              24.151562,
+              45.7845565
+            ],
+            [
+              24.1514156,
+              45.7846994
+            ],
+            [
+              24.1513684,
+              45.7847464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303355931",
+      "properties": {
+        "timestamp": "2014-09-14T17:10:11Z",
+        "version": 1,
+        "changeset": 25437262,
+        "user": "frosch",
+        "uid": 31704,
+        "addr:city": "Sibiu",
+        "addr:country": "RO",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Privighetori",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "way/303355931"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1355518,
+              45.7695284
+            ],
+            [
+              24.1356576,
+              45.7694686
+            ],
+            [
+              24.1356937,
+              45.7694996
+            ],
+            [
+              24.1356743,
+              45.7695105
+            ],
+            [
+              24.1357336,
+              45.7695617
+            ],
+            [
+              24.1357079,
+              45.7695762
+            ],
+            [
+              24.1357391,
+              45.7696031
+            ],
+            [
+              24.1356784,
+              45.7696374
+            ],
+            [
+              24.1355518,
+              45.7695284
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/419708834",
+      "properties": {
+        "timestamp": "2016-05-25T16:05:07Z",
+        "version": 4,
+        "changeset": 39559849,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "kindergarten",
+        "barrier": "fence",
+        "operator": "Grădinița nr. 22",
+        "id": "way/419708834"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1311622,
+              45.7756329
+            ],
+            [
+              24.1307953,
+              45.7752769
+            ],
+            [
+              24.1307201,
+              45.775204
+            ],
+            [
+              24.1317935,
+              45.7746863
+            ],
+            [
+              24.1322429,
+              45.7751164
+            ],
+            [
+              24.1311622,
+              45.7756329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420830482",
+      "properties": {
+        "timestamp": "2020-08-13T06:14:34Z",
+        "version": 5,
+        "changeset": 89335927,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala Gimnazială nr. 16",
+        "operator": "Școala Gimnazială nr. 16",
+        "id": "way/420830482"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1414515,
+              45.7772567
+            ],
+            [
+              24.14106,
+              45.7767242
+            ],
+            [
+              24.1407587,
+              45.7768319
+            ],
+            [
+              24.1406498,
+              45.7766839
+            ],
+            [
+              24.1415148,
+              45.7763746
+            ],
+            [
+              24.141878,
+              45.7768688
+            ],
+            [
+              24.1419125,
+              45.7769157
+            ],
+            [
+              24.1420151,
+              45.7770552
+            ],
+            [
+              24.1414515,
+              45.7772567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/430817608",
+      "properties": {
+        "timestamp": "2017-01-15T01:35:28Z",
+        "version": 3,
+        "changeset": 45181611,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "2",
+        "addr:postcode": "550272",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Gorunului",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Școala gimnazială nr. 11",
+        "id": "way/430817608"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.183305,
+              45.8116205
+            ],
+            [
+              24.1833587,
+              45.8115216
+            ],
+            [
+              24.1833842,
+              45.8114745
+            ],
+            [
+              24.1834103,
+              45.8114265
+            ],
+            [
+              24.1836081,
+              45.8114747
+            ],
+            [
+              24.1835644,
+              45.8115566
+            ],
+            [
+              24.183494,
+              45.8115401
+            ],
+            [
+              24.1834777,
+              45.8115759
+            ],
+            [
+              24.1835536,
+              45.8115948
+            ],
+            [
+              24.1835185,
+              45.811663
+            ],
+            [
+              24.1834509,
+              45.8116462
+            ],
+            [
+              24.1834443,
+              45.8116587
+            ],
+            [
+              24.183305,
+              45.8116205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/430817609",
+      "properties": {
+        "timestamp": "2019-04-12T01:12:42Z",
+        "version": 3,
+        "changeset": 69135787,
+        "user": "Mr_Atlas",
+        "uid": 8578194,
+        "amenity": "school",
+        "operator": "Școala gimnazială nr. 11",
+        "id": "way/430817609"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1834103,
+              45.8114265
+            ],
+            [
+              24.1836081,
+              45.8114747
+            ],
+            [
+              24.1836893,
+              45.8114958
+            ],
+            [
+              24.1834858,
+              45.8119029
+            ],
+            [
+              24.1833599,
+              45.8118737
+            ],
+            [
+              24.1833629,
+              45.8117609
+            ],
+            [
+              24.183305,
+              45.8116205
+            ],
+            [
+              24.1831735,
+              45.811464
+            ],
+            [
+              24.1832738,
+              45.8113906
+            ],
+            [
+              24.1834103,
+              45.8114265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/431615201",
+      "properties": {
+        "timestamp": "2017-01-15T01:30:55Z",
+        "version": 3,
+        "changeset": 45181468,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "14-16",
+        "addr:postcode": "550239",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Lebedei",
+        "amenity": "kindergarten",
+        "building": "house",
+        "name": "Gradinita cu program prelungit Gradina Mariei",
+        "website": "https://ro-ro.facebook.com/pages/Gradinita-Gradina-Mariei/310859599046406",
+        "id": "way/431615201"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1793399,
+              45.7990988
+            ],
+            [
+              24.1794646,
+              45.7990706
+            ],
+            [
+              24.1795645,
+              45.7992856
+            ],
+            [
+              24.179401,
+              45.7993226
+            ],
+            [
+              24.1793319,
+              45.7991739
+            ],
+            [
+              24.1793707,
+              45.7991651
+            ],
+            [
+              24.1793399,
+              45.7990988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/432069521",
+      "properties": {
+        "timestamp": "2016-07-20T09:16:04Z",
+        "version": 1,
+        "changeset": 40891421,
+        "user": "HermannstadtGeographer",
+        "uid": 3426616,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Mirăslău",
+        "amenity": "kindergarten",
+        "name": "Gradinita Kristine",
+        "website": "https://www.facebook.com/gradinitakristine",
+        "id": "way/432069521"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1577718,
+              45.7857948
+            ],
+            [
+              24.1576593,
+              45.7858934
+            ],
+            [
+              24.1575953,
+              45.7858579
+            ],
+            [
+              24.1575641,
+              45.7858852
+            ],
+            [
+              24.1574965,
+              45.7858477
+            ],
+            [
+              24.1575142,
+              45.7858322
+            ],
+            [
+              24.1574864,
+              45.7858168
+            ],
+            [
+              24.1575358,
+              45.7857734
+            ],
+            [
+              24.1575664,
+              45.7857904
+            ],
+            [
+              24.1576224,
+              45.7857413
+            ],
+            [
+              24.1576608,
+              45.7857626
+            ],
+            [
+              24.1576813,
+              45.7857446
+            ],
+            [
+              24.1577718,
+              45.7857948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/432850660",
+      "properties": {
+        "timestamp": "2017-01-15T01:21:43Z",
+        "version": 2,
+        "changeset": 45181198,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:postcode": "550208",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Crinilor",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Gradinita Calimero",
+        "website": "http://www.calimero-kindergarten.ro/",
+        "id": "way/432850660"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1653933,
+              45.8054815
+            ],
+            [
+              24.1652986,
+              45.8055532
+            ],
+            [
+              24.1650496,
+              45.8053933
+            ],
+            [
+              24.1651026,
+              45.8053532
+            ],
+            [
+              24.1651704,
+              45.8053968
+            ],
+            [
+              24.1652122,
+              45.8053652
+            ],
+            [
+              24.1653933,
+              45.8054815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/433283549",
+      "properties": {
+        "timestamp": "2019-10-05T10:19:41Z",
+        "version": 2,
+        "changeset": 75314098,
+        "user": "Michael_H",
+        "uid": 323389,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "17",
+        "addr:street": "Strada Kiev",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița Nr. 19",
+        "id": "way/433283549"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.137362,
+              45.8019502
+            ],
+            [
+              24.1375272,
+              45.8020905
+            ],
+            [
+              24.137454,
+              45.8021324
+            ],
+            [
+              24.137342,
+              45.8020373
+            ],
+            [
+              24.1372446,
+              45.8020932
+            ],
+            [
+              24.1372291,
+              45.8020801
+            ],
+            [
+              24.1371718,
+              45.802113
+            ],
+            [
+              24.1373322,
+              45.802249
+            ],
+            [
+              24.137224,
+              45.802311
+            ],
+            [
+              24.1371168,
+              45.8022201
+            ],
+            [
+              24.1371349,
+              45.8022097
+            ],
+            [
+              24.1370438,
+              45.8021323
+            ],
+            [
+              24.137362,
+              45.8019502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439027453",
+      "properties": {
+        "timestamp": "2016-08-25T16:01:31Z",
+        "version": 1,
+        "changeset": 41692132,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "kindergarten",
+        "operator": "Grădinița cu Program Prelungit nr. 16",
+        "id": "way/439027453"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1489371,
+              45.7954448
+            ],
+            [
+              24.1491555,
+              45.7953404
+            ],
+            [
+              24.1492156,
+              45.7953925
+            ],
+            [
+              24.1491984,
+              45.7954013
+            ],
+            [
+              24.1492696,
+              45.7954646
+            ],
+            [
+              24.1490851,
+              45.7955711
+            ],
+            [
+              24.1490608,
+              45.7955473
+            ],
+            [
+              24.149045,
+              45.795555
+            ],
+            [
+              24.1489371,
+              45.7954448
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439174744",
+      "properties": {
+        "timestamp": "2016-08-26T15:09:08Z",
+        "version": 1,
+        "changeset": 41717063,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "school",
+        "operator": "Școala Gimnazială \"Nicolae Iorga\" Sibiu",
+        "id": "way/439174744"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1519136,
+              45.7794518
+            ],
+            [
+              24.1515741,
+              45.7792621
+            ],
+            [
+              24.151627,
+              45.779209
+            ],
+            [
+              24.1512593,
+              45.779018
+            ],
+            [
+              24.151613,
+              45.7786918
+            ],
+            [
+              24.151325,
+              45.7785389
+            ],
+            [
+              24.1516588,
+              45.7782492
+            ],
+            [
+              24.1517586,
+              45.7783005
+            ],
+            [
+              24.1519174,
+              45.7781607
+            ],
+            [
+              24.1524723,
+              45.7784168
+            ],
+            [
+              24.1523799,
+              45.7785039
+            ],
+            [
+              24.1524497,
+              45.7785387
+            ],
+            [
+              24.1525404,
+              45.7784603
+            ],
+            [
+              24.1527163,
+              45.7785458
+            ],
+            [
+              24.1524227,
+              45.7788054
+            ],
+            [
+              24.1525582,
+              45.7788803
+            ],
+            [
+              24.1519136,
+              45.7794518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439745144",
+      "properties": {
+        "timestamp": "2019-05-20T19:18:34Z",
+        "version": 4,
+        "changeset": 70453430,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "college",
+        "operator": "Colegiului Național „Gheorghe Lazăr” Sibiu",
+        "id": "way/439745144"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1536118,
+              45.7969064
+            ],
+            [
+              24.1532125,
+              45.7967184
+            ],
+            [
+              24.153736,
+              45.796252
+            ],
+            [
+              24.1537891,
+              45.796204
+            ],
+            [
+              24.1540122,
+              45.7959961
+            ],
+            [
+              24.1541635,
+              45.796075
+            ],
+            [
+              24.1543947,
+              45.7962068
+            ],
+            [
+              24.1544668,
+              45.7962495
+            ],
+            [
+              24.1542432,
+              45.7964486
+            ],
+            [
+              24.1543168,
+              45.796491
+            ],
+            [
+              24.1542488,
+              45.7965564
+            ],
+            [
+              24.1541027,
+              45.7966962
+            ],
+            [
+              24.1540663,
+              45.7967341
+            ],
+            [
+              24.1539889,
+              45.7967014
+            ],
+            [
+              24.1539459,
+              45.7967483
+            ],
+            [
+              24.1539152,
+              45.7967311
+            ],
+            [
+              24.1538946,
+              45.7967196
+            ],
+            [
+              24.1538333,
+              45.796687
+            ],
+            [
+              24.1537369,
+              45.7967825
+            ],
+            [
+              24.1536118,
+              45.7969064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439903978",
+      "properties": {
+        "timestamp": "2016-08-30T16:42:52Z",
+        "version": 3,
+        "changeset": 41806615,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "13",
+        "addr:postcode": "550183",
+        "addr:street": "Strada Avram Iancu",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Școala gimnazială nr. 2",
+        "id": "way/439903978"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1537477,
+              45.7982857
+            ],
+            [
+              24.1537145,
+              45.798423
+            ],
+            [
+              24.1535676,
+              45.7984059
+            ],
+            [
+              24.1535091,
+              45.7986223
+            ],
+            [
+              24.1535706,
+              45.7986287
+            ],
+            [
+              24.1535749,
+              45.798615
+            ],
+            [
+              24.1536648,
+              45.798625
+            ],
+            [
+              24.1536417,
+              45.7987168
+            ],
+            [
+              24.1533146,
+              45.7986797
+            ],
+            [
+              24.1533217,
+              45.7986581
+            ],
+            [
+              24.1533434,
+              45.7985919
+            ],
+            [
+              24.1533798,
+              45.7985954
+            ],
+            [
+              24.1533876,
+              45.7985684
+            ],
+            [
+              24.1533525,
+              45.7985642
+            ],
+            [
+              24.153375,
+              45.7984956
+            ],
+            [
+              24.1534163,
+              45.7985014
+            ],
+            [
+              24.1534572,
+              45.7983582
+            ],
+            [
+              24.1534218,
+              45.7983528
+            ],
+            [
+              24.1534572,
+              45.798245
+            ],
+            [
+              24.1537477,
+              45.7982857
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441462834",
+      "properties": {
+        "timestamp": "2016-09-08T15:24:00Z",
+        "version": 1,
+        "changeset": 42006471,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "amenity": "school",
+        "operator": "Palatul Copiilor",
+        "id": "way/441462834"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1566146,
+              45.7999478
+            ],
+            [
+              24.1566819,
+              45.7994347
+            ],
+            [
+              24.156966,
+              45.7994666
+            ],
+            [
+              24.1569746,
+              45.7995277
+            ],
+            [
+              24.1569905,
+              45.7995669
+            ],
+            [
+              24.1570225,
+              45.7995892
+            ],
+            [
+              24.1571308,
+              45.7995962
+            ],
+            [
+              24.1570741,
+              45.799909
+            ],
+            [
+              24.1570657,
+              45.799944
+            ],
+            [
+              24.1569601,
+              45.7999829
+            ],
+            [
+              24.1566146,
+              45.7999478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441488967",
+      "properties": {
+        "timestamp": "2016-09-08T16:49:08Z",
+        "version": 1,
+        "changeset": 42007985,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "school",
+        "operator": "Colegiul Național Pedagogic \"Andrei Șaguna\"",
+        "id": "way/441488967"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1528157,
+              45.7824246
+            ],
+            [
+              24.1536292,
+              45.7816271
+            ],
+            [
+              24.1546536,
+              45.7821944
+            ],
+            [
+              24.1537574,
+              45.7829563
+            ],
+            [
+              24.1528157,
+              45.7824246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441528622",
+      "properties": {
+        "timestamp": "2018-09-14T15:03:34Z",
+        "version": 3,
+        "changeset": 62585826,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:street": "Strada Ocnei",
+        "building": "school",
+        "building:levels": "3",
+        "id": "way/441528622"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.150019,
+              45.8020864
+            ],
+            [
+              24.1501649,
+              45.801883
+            ],
+            [
+              24.1501948,
+              45.8018938
+            ],
+            [
+              24.150247,
+              45.8018169
+            ],
+            [
+              24.1500332,
+              45.8017343
+            ],
+            [
+              24.1499903,
+              45.8017926
+            ],
+            [
+              24.1498167,
+              45.8017324
+            ],
+            [
+              24.1498707,
+              45.8016682
+            ],
+            [
+              24.1499037,
+              45.8016799
+            ],
+            [
+              24.1500074,
+              45.8015447
+            ],
+            [
+              24.150405,
+              45.8017029
+            ],
+            [
+              24.1504151,
+              45.8017097
+            ],
+            [
+              24.1504209,
+              45.8017206
+            ],
+            [
+              24.1504191,
+              45.8017336
+            ],
+            [
+              24.1503571,
+              45.8018273
+            ],
+            [
+              24.1503433,
+              45.8018367
+            ],
+            [
+              24.1503194,
+              45.8018405
+            ],
+            [
+              24.1503068,
+              45.8018378
+            ],
+            [
+              24.1502585,
+              45.8019136
+            ],
+            [
+              24.1502835,
+              45.8019233
+            ],
+            [
+              24.1502941,
+              45.8019358
+            ],
+            [
+              24.1502938,
+              45.8019527
+            ],
+            [
+              24.1502397,
+              45.8020307
+            ],
+            [
+              24.150178,
+              45.8021196
+            ],
+            [
+              24.1501537,
+              45.8021252
+            ],
+            [
+              24.1501268,
+              45.8021233
+            ],
+            [
+              24.150019,
+              45.8020864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/522354802",
+      "properties": {
+        "timestamp": "2018-09-23T22:42:55Z",
+        "version": 2,
+        "changeset": 62862984,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Smârdan",
+        "building": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Charlotte Dietrich",
+        "source": "Bing",
+        "id": "way/522354802"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1822684,
+              45.8105011
+            ],
+            [
+              24.1821724,
+              45.8105055
+            ],
+            [
+              24.1821741,
+              45.8105238
+            ],
+            [
+              24.1819296,
+              45.8105349
+            ],
+            [
+              24.181929,
+              45.8105281
+            ],
+            [
+              24.1818371,
+              45.8105323
+            ],
+            [
+              24.1818265,
+              45.810419
+            ],
+            [
+              24.1819145,
+              45.810415
+            ],
+            [
+              24.1819132,
+              45.8104015
+            ],
+            [
+              24.1819854,
+              45.8103982
+            ],
+            [
+              24.1819801,
+              45.8103425
+            ],
+            [
+              24.1820627,
+              45.8103388
+            ],
+            [
+              24.1820678,
+              45.8103931
+            ],
+            [
+              24.1821631,
+              45.8103887
+            ],
+            [
+              24.1821641,
+              45.8103993
+            ],
+            [
+              24.1822585,
+              45.810395
+            ],
+            [
+              24.1822684,
+              45.8105011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/636814602",
+      "properties": {
+        "timestamp": "2018-10-22T10:37:52Z",
+        "version": 1,
+        "changeset": 63754145,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Șureanu",
+        "amenity": "school",
+        "name": "Școala Gimnazială Regele Ferdinand",
+        "id": "way/636814602"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1728808,
+              45.7860326
+            ],
+            [
+              24.1739176,
+              45.7865781
+            ],
+            [
+              24.1734646,
+              45.7870356
+            ],
+            [
+              24.1733455,
+              45.7869689
+            ],
+            [
+              24.1733127,
+              45.7870061
+            ],
+            [
+              24.1728904,
+              45.7868052
+            ],
+            [
+              24.172704,
+              45.7869961
+            ],
+            [
+              24.1724129,
+              45.7868531
+            ],
+            [
+              24.1722859,
+              45.7867707
+            ],
+            [
+              24.1721559,
+              45.7867042
+            ],
+            [
+              24.1728808,
+              45.7860326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/636817133",
+      "properties": {
+        "timestamp": "2018-10-22T10:41:36Z",
+        "version": 1,
+        "changeset": 63754257,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "1",
+        "addr:street": "Strada Electricienilor",
+        "amenity": "school",
+        "name": "Colegiul Tehnic Energetic",
+        "id": "way/636817133"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1671716,
+              45.7845816
+            ],
+            [
+              24.1686175,
+              45.7831254
+            ],
+            [
+              24.1687763,
+              45.7832045
+            ],
+            [
+              24.1688386,
+              45.7831482
+            ],
+            [
+              24.1698083,
+              45.7836553
+            ],
+            [
+              24.1683212,
+              45.7851035
+            ],
+            [
+              24.1671716,
+              45.7845816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/636819586",
+      "properties": {
+        "timestamp": "2018-10-22T10:44:24Z",
+        "version": 1,
+        "changeset": 63754332,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "13",
+        "addr:street": "Strada Șoimului",
+        "amenity": "school",
+        "name": "Școala Gimnazială Radu Selejan",
+        "id": "way/636819586"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1669522,
+              45.7831552
+            ],
+            [
+              24.1671287,
+              45.7832379
+            ],
+            [
+              24.1672721,
+              45.7830936
+            ],
+            [
+              24.1671039,
+              45.7830129
+            ],
+            [
+              24.1673769,
+              45.7827513
+            ],
+            [
+              24.1677547,
+              45.7829667
+            ],
+            [
+              24.1678347,
+              45.7828994
+            ],
+            [
+              24.1680856,
+              45.7830379
+            ],
+            [
+              24.1678953,
+              45.7831917
+            ],
+            [
+              24.1682466,
+              45.7833609
+            ],
+            [
+              24.1680509,
+              45.7835553
+            ],
+            [
+              24.1677433,
+              45.7834059
+            ],
+            [
+              24.1672185,
+              45.7839248
+            ],
+            [
+              24.1671117,
+              45.7839276
+            ],
+            [
+              24.1667242,
+              45.7837263
+            ],
+            [
+              24.1670326,
+              45.7834477
+            ],
+            [
+              24.1667815,
+              45.7833237
+            ],
+            [
+              24.1669522,
+              45.7831552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/833318448",
+      "properties": {
+        "timestamp": "2020-08-02T19:42:11Z",
+        "version": 1,
+        "changeset": 88849340,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "building": "yes",
+        "id": "way/833318448"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.1215549,
+              45.7894279
+            ],
+            [
+              24.1214075,
+              45.7894573
+            ],
+            [
+              24.1213375,
+              45.7892865
+            ],
+            [
+              24.1214737,
+              45.7892594
+            ],
+            [
+              24.1214808,
+              45.7892768
+            ],
+            [
+              24.1216614,
+              45.7892409
+            ],
+            [
+              24.1216534,
+              45.7892213
+            ],
+            [
+              24.1218031,
+              45.7891915
+            ],
+            [
+              24.1218746,
+              45.789366
+            ],
+            [
+              24.1217225,
+              45.7893963
+            ],
+            [
+              24.1217017,
+              45.7893454
+            ],
+            [
+              24.1215347,
+              45.7893787
+            ],
+            [
+              24.1215549,
+              45.7894279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415560537",
+      "properties": {
+        "timestamp": "2014-12-05T19:14:08Z",
+        "version": 7,
+        "changeset": 27271413,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "18",
+        "addr:postcode": "550165",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Filarmonicii",
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Centrul Școlar pentru educație incluzivă",
+        "id": "node/415560537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1553111,
+          45.7959683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415564142",
+      "properties": {
+        "timestamp": "2011-04-28T22:56:47Z",
+        "version": 4,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Decanat - Facultatea de Medicină",
+        "id": "node/415564142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1560431,
+          45.7955892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811677",
+      "properties": {
+        "timestamp": "2016-08-30T16:32:37Z",
+        "version": 6,
+        "changeset": 41806386,
+        "user": "cipibe",
+        "uid": 2318300,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "13",
+        "addr:postcode": "550183",
+        "addr:street": "Strada Avram Iancu",
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr.2",
+        "id": "node/482811677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1536668,
+          45.7983196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811678",
+      "properties": {
+        "timestamp": "2018-10-07T03:15:52Z",
+        "version": 7,
+        "changeset": 63269654,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "3-5",
+        "addr:street": "Strada Revoluției",
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Academia Forțelor Terestre \"Nicolae Bălcescu\"",
+        "name:en": "\"Nicolae Balcescu\" Land Forces Military Academy",
+        "id": "node/482811678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1557738,
+          45.789198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811685",
+      "properties": {
+        "timestamp": "2011-04-28T22:48:11Z",
+        "version": 4,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "college",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Colegiul Agricol \"D.P.Barcianu\"",
+        "id": "node/482811685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1458975,
+          45.7916249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811688",
+      "properties": {
+        "timestamp": "2011-04-28T22:59:04Z",
+        "version": 4,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Teologic Baptist \"Betania\"",
+        "id": "node/482811688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1503216,
+          45.7795362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811698",
+      "properties": {
+        "timestamp": "2018-08-19T02:29:23Z",
+        "version": 5,
+        "changeset": 61783483,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr. 23",
+        "id": "node/482811698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1355767,
+          45.8137404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811700",
+      "properties": {
+        "timestamp": "2020-08-13T06:29:50Z",
+        "version": 4,
+        "changeset": 89336758,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Textlier Turnișor",
+        "id": "node/482811700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1161621,
+          45.7856978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811701",
+      "properties": {
+        "timestamp": "2017-06-25T09:30:08Z",
+        "version": 3,
+        "changeset": 49809796,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Gimnazială Turnișor",
+        "id": "node/482811701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1181592,
+          45.7896159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811706",
+      "properties": {
+        "timestamp": "2011-04-28T22:59:57Z",
+        "version": 4,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Colegiul Tehnic de Ind. Alimentara(L.I.A.)",
+        "id": "node/482811706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1500774,
+          45.8065906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482811717",
+      "properties": {
+        "timestamp": "2018-08-27T09:25:00Z",
+        "version": 6,
+        "changeset": 62033566,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:street": "Strada Henry Coandă",
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Liceul Tehnologic Henri Coandă Sibiu",
+        "id": "node/482811717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1784814,
+          45.7966777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482814946",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 9,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:street": "Bulevardul Victoriei",
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "name": "Universitatea \"Lucian Blaga\" Sibiu",
+        "id": "node/482814946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1459658,
+          45.7906191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/482833627",
+      "properties": {
+        "timestamp": "2016-09-08T21:39:40Z",
+        "version": 7,
+        "changeset": 42013360,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Colegiul Tehnic Independența Sibiu",
+        "id": "node/482833627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1502202,
+          45.8019281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483025287",
+      "properties": {
+        "timestamp": "2016-08-26T15:03:28Z",
+        "version": 4,
+        "changeset": 41716935,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr. 6",
+        "id": "node/483025287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1523408,
+          45.7785558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483025347",
+      "properties": {
+        "timestamp": "2011-04-28T22:54:53Z",
+        "version": 4,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Geografia Turismului",
+        "id": "node/483025347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1605663,
+          45.7961469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483025356",
+      "properties": {
+        "timestamp": "2018-09-09T15:15:43Z",
+        "version": 4,
+        "changeset": 62427488,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Școala Generală Nr. 8",
+        "id": "node/483025356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1650135,
+          45.8039773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483025374",
+      "properties": {
+        "timestamp": "2012-11-18T14:54:58Z",
+        "version": 3,
+        "changeset": 13919080,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Grup Școlar A. Iancu",
+        "id": "node/483025374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1536394,
+          45.7988659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483032183",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 8,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Științe Economice (ULBS)",
+        "id": "node/483032183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1502848,
+          45.787472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483058812",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 7,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:street": "Bulevardul Victoriei",
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Litere și Arte",
+        "id": "node/483058812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1463091,
+          45.7905054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483058819",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 7,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:street": "Bulevardul Victoriei",
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Istorie și Patrimoniu \"Nicolae Lupu\"",
+        "id": "node/483058819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1456654,
+          45.7903678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483058825",
+      "properties": {
+        "timestamp": "2019-08-16T18:06:28Z",
+        "version": 6,
+        "changeset": 73425895,
+        "user": "Flaviu",
+        "uid": 204685,
+        "addr:city": "Sibiu",
+        "addr:street": "Strada Emil Cioran",
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Inginerie \"Hermann Oberth\"",
+        "id": "node/483058825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1465365,
+          45.7897436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/487084030",
+      "properties": {
+        "timestamp": "2016-08-05T18:35:28Z",
+        "version": 5,
+        "changeset": 41266437,
+        "user": "cipibe",
+        "uid": 2318300,
+        "amenity": "university",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Facultatea de Medicină",
+        "id": "node/487084030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1561796,
+          45.7932864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/582756526",
+      "properties": {
+        "timestamp": "2011-04-28T22:52:40Z",
+        "version": 4,
+        "changeset": 7999424,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Grădinița Nr. 42",
+        "id": "node/582756526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1505204,
+          45.7793782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/582756527",
+      "properties": {
+        "timestamp": "2014-01-04T09:10:36Z",
+        "version": 6,
+        "changeset": 19800797,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "name": "Grădinița Nr. 18",
+        "id": "node/582756527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1535736,
+          45.8077627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/583420911",
+      "properties": {
+        "timestamp": "2014-01-02T11:26:41Z",
+        "version": 3,
+        "changeset": 19764345,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "node/583420911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1586768,
+          45.7803374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/662499542",
+      "properties": {
+        "timestamp": "2015-03-24T17:27:38Z",
+        "version": 4,
+        "changeset": 29708494,
+        "user": "frosch",
+        "uid": 31704,
+        "amenity": "kindergarten",
+        "is_in:city": "Sibiu",
+        "is_in:country": "Romania",
+        "is_in:country_code": "RO",
+        "is_in:county": "Sibiu",
+        "id": "node/662499542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1370122,
+          45.7785235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2262608067",
+      "properties": {
+        "timestamp": "2013-04-11T10:39:02Z",
+        "version": 1,
+        "changeset": 15688009,
+        "user": "Claudiopolis",
+        "uid": 1348967,
+        "amenity": "kindergarten",
+        "name": "Hermania",
+        "id": "node/2262608067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1188941,
+          45.7961284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400104981",
+      "properties": {
+        "timestamp": "2020-08-13T07:00:53Z",
+        "version": 2,
+        "changeset": 89338516,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "Școala rusească Lev Tolstoi",
+        "id": "node/2400104981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1261103,
+          45.7739732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606567072",
+      "properties": {
+        "timestamp": "2016-08-03T11:58:39Z",
+        "version": 3,
+        "changeset": 41212854,
+        "user": "cipibe",
+        "uid": 2318300,
+        "entrance": "main",
+        "id": "node/2606567072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1510392,
+          45.7845821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3428737515",
+      "properties": {
+        "timestamp": "2015-04-01T11:02:16Z",
+        "version": 2,
+        "changeset": 29901747,
+        "user": "frosch",
+        "uid": 31704,
+        "amenity": "kindergarten",
+        "name": "FasTracKids",
+        "id": "node/3428737515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1326323,
+          45.7748759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4207241997",
+      "properties": {
+        "timestamp": "2016-05-25T15:20:22Z",
+        "version": 1,
+        "changeset": 39558799,
+        "user": "cipibe",
+        "uid": 2318300,
+        "entrance": "gate",
+        "id": "node/4207241997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1307953,
+          45.7752769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4207300144",
+      "properties": {
+        "timestamp": "2016-05-25T15:47:18Z",
+        "version": 1,
+        "changeset": 39559441,
+        "user": "cipibe",
+        "uid": 2318300,
+        "entrance": "gate",
+        "id": "node/4207300144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1419125,
+          45.7769157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4207322818",
+      "properties": {
+        "timestamp": "2016-05-25T15:59:10Z",
+        "version": 1,
+        "changeset": 39559727,
+        "user": "cipibe",
+        "uid": 2318300,
+        "entrance": "yes",
+        "id": "node/4207322818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1415505,
+          45.776606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5900065603",
+      "properties": {
+        "timestamp": "2018-09-28T10:42:57Z",
+        "version": 2,
+        "changeset": 63004777,
+        "user": "Michael_H",
+        "uid": 323389,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Avram Iancu",
+        "amenity": "school",
+        "name": "Școala Populară de Arte și Meserii Ilie Micu",
+        "id": "node/5900065603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1532718,
+          45.7979632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5904461014",
+      "properties": {
+        "timestamp": "2018-09-13T16:56:00Z",
+        "version": 1,
+        "changeset": 62558424,
+        "user": "SBmapper",
+        "uid": 8635278,
+        "addr:city": "Sibiu",
+        "addr:housenumber": "42",
+        "addr:street": "Bulevardul Victoriei",
+        "amenity": "kindergarten",
+        "name": "Grădinița Nr.26",
+        "id": "node/5904461014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1384385,
+          45.7860682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6054063198",
+      "properties": {
+        "timestamp": "2018-11-12T06:36:22Z",
+        "version": 1,
+        "changeset": 64394106,
+        "user": "YunDi88",
+        "uid": 9047835,
+        "amenity": "kindergarten",
+        "id": "node/6054063198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1737684,
+          45.7891435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4333718898",
+      "properties": {
+        "timestamp": "2020-02-06T18:00:46Z",
+        "version": 2,
+        "changeset": 80655624,
+        "user": "opendcc",
+        "uid": 3249777,
+        "entrance": "secondary",
+        "id": "node/4333718898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1511162,
+          45.7840918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4362556516",
+      "properties": {
+        "timestamp": "2016-08-23T10:07:15Z",
+        "version": 1,
+        "changeset": 41634198,
+        "user": "cipibe",
+        "uid": 2318300,
+        "entrance": "yes",
+        "id": "node/4362556516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1466746,
+          45.7930132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4392042404",
+      "properties": {
+        "timestamp": "2016-09-08T15:24:00Z",
+        "version": 1,
+        "changeset": 42006471,
+        "user": "cipibe",
+        "uid": 2318300,
+        "entrance": "yes",
+        "id": "node/4392042404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1569192,
+          45.7997388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4300891617",
+      "properties": {
+        "timestamp": "2016-07-13T17:23:15Z",
+        "version": 2,
+        "changeset": 40718457,
+        "user": "cipibe",
+        "uid": 2318300,
+        "entrance": "main",
+        "id": "node/4300891617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1833587,
+          45.8115216
+        ]
+      }
+    }
+  ]
+}

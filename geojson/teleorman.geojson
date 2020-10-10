@@ -1,0 +1,1954 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/45162712",
+      "properties": {
+        "timestamp": "2009-11-30T09:55:50Z",
+        "version": 3,
+        "changeset": 3254164,
+        "user": "xybot",
+        "uid": 70696,
+        "addr:city": "Roșiorii de Vede",
+        "addr:housenumber": "11",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "college",
+        "name": "Colegiul Național Anastasescu",
+        "id": "way/45162712"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.9848678,
+              44.1145281
+            ],
+            [
+              24.9837431,
+              44.1142624
+            ],
+            [
+              24.9841914,
+              44.1132843
+            ],
+            [
+              24.985316,
+              44.1135501
+            ],
+            [
+              24.9848678,
+              44.1145281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182749104",
+      "properties": {
+        "timestamp": "2017-03-07T13:17:40Z",
+        "version": 2,
+        "changeset": 46651948,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "școală",
+        "id": "way/182749104"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.1408019,
+              43.8712673
+            ],
+            [
+              25.1407909,
+              43.8710424
+            ],
+            [
+              25.1409271,
+              43.8710401
+            ],
+            [
+              25.1409318,
+              43.8710744
+            ],
+            [
+              25.1413167,
+              43.8710732
+            ],
+            [
+              25.1413167,
+              43.8711657
+            ],
+            [
+              25.1408954,
+              43.8711737
+            ],
+            [
+              25.1408859,
+              43.8712616
+            ],
+            [
+              25.1408019,
+              43.8712673
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183841440",
+      "properties": {
+        "timestamp": "2017-03-06T13:27:32Z",
+        "version": 2,
+        "changeset": 46624000,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "Grup Școlar Alexandria",
+        "id": "way/183841440"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.3261054,
+              43.968431
+            ],
+            [
+              25.3260166,
+              43.9683585
+            ],
+            [
+              25.3261868,
+              43.9682468
+            ],
+            [
+              25.3261622,
+              43.9682285
+            ],
+            [
+              25.3262106,
+              43.9681973
+            ],
+            [
+              25.3262318,
+              43.9682132
+            ],
+            [
+              25.3263022,
+              43.9681723
+            ],
+            [
+              25.3267228,
+              43.9685037
+            ],
+            [
+              25.3266261,
+              43.9685696
+            ],
+            [
+              25.3267618,
+              43.9686697
+            ],
+            [
+              25.3266617,
+              43.9687369
+            ],
+            [
+              25.3264243,
+              43.968566
+            ],
+            [
+              25.3265091,
+              43.9685111
+            ],
+            [
+              25.3262801,
+              43.9683206
+            ],
+            [
+              25.3261054,
+              43.968431
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216430905",
+      "properties": {
+        "timestamp": "2018-06-13T13:12:44Z",
+        "version": 3,
+        "changeset": 59810961,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală",
+        "id": "way/216430905"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.6005551,
+              44.1044163
+            ],
+            [
+              25.6005632,
+              44.104241
+            ],
+            [
+              25.600531,
+              44.104241
+            ],
+            [
+              25.600539,
+              44.1041486
+            ],
+            [
+              25.6010996,
+              44.1041717
+            ],
+            [
+              25.6010943,
+              44.1043469
+            ],
+            [
+              25.6009628,
+              44.1043412
+            ],
+            [
+              25.6009628,
+              44.1042583
+            ],
+            [
+              25.6006946,
+              44.1042487
+            ],
+            [
+              25.6006892,
+              44.1044201
+            ],
+            [
+              25.6005551,
+              44.1044163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225451098",
+      "properties": {
+        "timestamp": "2017-05-28T14:50:32Z",
+        "version": 5,
+        "changeset": 49047386,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "building": "church",
+        "name": "liceu agricol piatra",
+        "name:en": "liceu piatra",
+        "id": "way/225451098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.1646888,
+              43.8098453
+            ],
+            [
+              25.1646888,
+              43.8097447
+            ],
+            [
+              25.164265,
+              43.8097369
+            ],
+            [
+              25.164265,
+              43.8096556
+            ],
+            [
+              25.1643348,
+              43.8096479
+            ],
+            [
+              25.1648337,
+              43.8096634
+            ],
+            [
+              25.1648176,
+              43.8098492
+            ],
+            [
+              25.1646888,
+              43.8098453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225715243",
+      "properties": {
+        "timestamp": "2013-06-23T20:20:48Z",
+        "version": 2,
+        "changeset": 16675446,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală",
+        "id": "way/225715243"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.1643889,
+              43.8162759
+            ],
+            [
+              25.1643938,
+              43.8161873
+            ],
+            [
+              25.1640271,
+              43.8161768
+            ],
+            [
+              25.1640333,
+              43.8160627
+            ],
+            [
+              25.16454,
+              43.8160772
+            ],
+            [
+              25.1645289,
+              43.8162799
+            ],
+            [
+              25.1643889,
+              43.8162759
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225715481",
+      "properties": {
+        "timestamp": "2013-06-23T20:20:26Z",
+        "version": 2,
+        "changeset": 16675446,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădiniță",
+        "id": "way/225715481"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.1633164,
+              43.8161688
+            ],
+            [
+              25.163326,
+              43.8160552
+            ],
+            [
+              25.1637224,
+              43.8160725
+            ],
+            [
+              25.1637128,
+              43.8161862
+            ],
+            [
+              25.1633164,
+              43.8161688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225781063",
+      "properties": {
+        "timestamp": "2013-06-26T20:24:25Z",
+        "version": 2,
+        "changeset": 16718285,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "kindergarten",
+        "name": "Grădinița",
+        "id": "way/225781063"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.1652521,
+              43.8100563
+            ],
+            [
+              25.1652735,
+              43.8099034
+            ],
+            [
+              25.1655847,
+              43.8098879
+            ],
+            [
+              25.1655605,
+              43.8100524
+            ],
+            [
+              25.1652521,
+              43.8100563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250287706",
+      "properties": {
+        "timestamp": "2013-12-06T11:15:24Z",
+        "version": 1,
+        "changeset": 19304246,
+        "user": "celtos",
+        "uid": 1211124,
+        "amenity": "school",
+        "id": "way/250287706"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.0440276,
+              44.2542372
+            ],
+            [
+              25.0440177,
+              44.2541574
+            ],
+            [
+              25.043513,
+              44.2541897
+            ],
+            [
+              25.0435017,
+              44.2540988
+            ],
+            [
+              25.0440219,
+              44.2540656
+            ],
+            [
+              25.0440182,
+              44.2540358
+            ],
+            [
+              25.0441556,
+              44.254027
+            ],
+            [
+              25.0441806,
+              44.2542275
+            ],
+            [
+              25.0440276,
+              44.2542372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260729126",
+      "properties": {
+        "timestamp": "2017-03-06T13:27:32Z",
+        "version": 2,
+        "changeset": 46624000,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "Școala Generală Mihai Viteazul",
+        "id": "way/260729126"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.3288252,
+              43.9668992
+            ],
+            [
+              25.3286064,
+              43.9670369
+            ],
+            [
+              25.3285527,
+              43.9669949
+            ],
+            [
+              25.3285332,
+              43.9670075
+            ],
+            [
+              25.3284442,
+              43.9669362
+            ],
+            [
+              25.3284656,
+              43.9669222
+            ],
+            [
+              25.3282163,
+              43.9667215
+            ],
+            [
+              25.3283164,
+              43.9666568
+            ],
+            [
+              25.3283423,
+              43.9666761
+            ],
+            [
+              25.3284869,
+              43.9665841
+            ],
+            [
+              25.3284591,
+              43.9665607
+            ],
+            [
+              25.3287593,
+              43.9663687
+            ],
+            [
+              25.3289205,
+              43.9665074
+            ],
+            [
+              25.3286203,
+              43.9667028
+            ],
+            [
+              25.3285953,
+              43.9666834
+            ],
+            [
+              25.3284498,
+              43.9667728
+            ],
+            [
+              25.328561,
+              43.9668608
+            ],
+            [
+              25.3286851,
+              43.9667861
+            ],
+            [
+              25.3288252,
+              43.9668992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260747567",
+      "properties": {
+        "timestamp": "2014-02-09T12:51:26Z",
+        "version": 1,
+        "changeset": 20464251,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Alexandria",
+        "amenity": "college",
+        "name": "Colegiul Național Alexandru Dimitrie Ghica",
+        "source": "survey",
+        "id": "way/260747567"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.3239331,
+              43.9750301
+            ],
+            [
+              25.3246707,
+              43.9745707
+            ],
+            [
+              25.3248638,
+              43.974729
+            ],
+            [
+              25.3247753,
+              43.9747946
+            ],
+            [
+              25.3250704,
+              43.9750301
+            ],
+            [
+              25.3255558,
+              43.9754277
+            ],
+            [
+              25.3249792,
+              43.9757713
+            ],
+            [
+              25.3246895,
+              43.9755358
+            ],
+            [
+              25.3246063,
+              43.975586
+            ],
+            [
+              25.3239331,
+              43.9750301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267623762",
+      "properties": {
+        "timestamp": "2016-05-18T09:27:47Z",
+        "version": 5,
+        "changeset": 39395868,
+        "user": "landerman fisher",
+        "uid": 3977019,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Miron Radu Paraschivescu Nr. 1",
+        "source": "survey",
+        "id": "way/267623762"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.3676146,
+              43.6559578
+            ],
+            [
+              25.3676717,
+              43.6556244
+            ],
+            [
+              25.3675212,
+              43.6556109
+            ],
+            [
+              25.367539,
+              43.6555072
+            ],
+            [
+              25.3676838,
+              43.6555202
+            ],
+            [
+              25.3676962,
+              43.6554477
+            ],
+            [
+              25.3678866,
+              43.6554648
+            ],
+            [
+              25.3677993,
+              43.6559744
+            ],
+            [
+              25.3676146,
+              43.6559578
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267623764",
+      "properties": {
+        "timestamp": "2015-10-04T07:31:37Z",
+        "version": 2,
+        "changeset": 34420725,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița nr. 5 Zimnicea",
+        "id": "way/267623764"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.3673734,
+              43.6552723
+            ],
+            [
+              25.367386,
+              43.6551944
+            ],
+            [
+              25.3675044,
+              43.6552044
+            ],
+            [
+              25.367533,
+              43.6550275
+            ],
+            [
+              25.3673862,
+              43.655015
+            ],
+            [
+              25.367399,
+              43.654936
+            ],
+            [
+              25.3678093,
+              43.6549708
+            ],
+            [
+              25.3678054,
+              43.6549952
+            ],
+            [
+              25.3679591,
+              43.6550083
+            ],
+            [
+              25.3679435,
+              43.6551047
+            ],
+            [
+              25.3677374,
+              43.6550873
+            ],
+            [
+              25.3677412,
+              43.6550633
+            ],
+            [
+              25.3676754,
+              43.6550577
+            ],
+            [
+              25.3676313,
+              43.6553298
+            ],
+            [
+              25.3675549,
+              43.6553233
+            ],
+            [
+              25.3675605,
+              43.6552882
+            ],
+            [
+              25.3673734,
+              43.6552723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267624424",
+      "properties": {
+        "timestamp": "2014-03-21T10:49:21Z",
+        "version": 2,
+        "changeset": 21225128,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Școala generală nr. 2",
+        "source": "legea 544/2001",
+        "id": "way/267624424"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.3699268,
+              43.6577915
+            ],
+            [
+              25.3700703,
+              43.6568866
+            ],
+            [
+              25.3720435,
+              43.6570504
+            ],
+            [
+              25.3719,
+              43.6579553
+            ],
+            [
+              25.3713502,
+              43.6579097
+            ],
+            [
+              25.3699268,
+              43.6577915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374648375",
+      "properties": {
+        "timestamp": "2015-10-10T04:10:02Z",
+        "version": 1,
+        "changeset": 34542741,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala Generală Smârdioasa",
+        "id": "way/374648375"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.438039,
+              43.8452843
+            ],
+            [
+              25.4380685,
+              43.8451683
+            ],
+            [
+              25.4384976,
+              43.8452244
+            ],
+            [
+              25.4384815,
+              43.8453153
+            ],
+            [
+              25.4384332,
+              43.8453095
+            ],
+            [
+              25.4383823,
+              43.8455958
+            ],
+            [
+              25.4384467,
+              43.8456035
+            ],
+            [
+              25.4384332,
+              43.8456751
+            ],
+            [
+              25.438165,
+              43.8456441
+            ],
+            [
+              25.4381865,
+              43.8455319
+            ],
+            [
+              25.4382401,
+              43.8455377
+            ],
+            [
+              25.4382777,
+              43.8453172
+            ],
+            [
+              25.438039,
+              43.8452843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693321",
+      "properties": {
+        "timestamp": "2017-02-26T11:13:17Z",
+        "version": 2,
+        "changeset": 46413028,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Școala generală Plosca",
+        "name:ro": "Școala Generală Plosca",
+        "id": "way/440693321"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.1453146,
+              44.0237091
+            ],
+            [
+              25.1453105,
+              44.023601
+            ],
+            [
+              25.1455768,
+              44.0235957
+            ],
+            [
+              25.1455706,
+              44.0234324
+            ],
+            [
+              25.1454163,
+              44.0234355
+            ],
+            [
+              25.1454126,
+              44.023337
+            ],
+            [
+              25.1455586,
+              44.0233341
+            ],
+            [
+              25.1455513,
+              44.0231437
+            ],
+            [
+              25.1456888,
+              44.023141
+            ],
+            [
+              25.1457102,
+              44.0237013
+            ],
+            [
+              25.1453146,
+              44.0237091
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/465937575",
+      "properties": {
+        "timestamp": "2017-01-14T19:08:48Z",
+        "version": 1,
+        "changeset": 45167714,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:housenumber": "11",
+        "addr:street": "Bulevardul Republicii",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul Economic Administrativ",
+        "id": "way/465937575"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.984437,
+              44.1149333
+            ],
+            [
+              24.9842965,
+              44.1148998
+            ],
+            [
+              24.9843526,
+              44.1147785
+            ],
+            [
+              24.9837837,
+              44.1146429
+            ],
+            [
+              24.9838262,
+              44.114551
+            ],
+            [
+              24.9843697,
+              44.1146806
+            ],
+            [
+              24.9844634,
+              44.1144781
+            ],
+            [
+              24.9847612,
+              44.1145491
+            ],
+            [
+              24.9847204,
+              44.1146372
+            ],
+            [
+              24.9845885,
+              44.1146058
+            ],
+            [
+              24.984437,
+              44.1149333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/534809844",
+      "properties": {
+        "timestamp": "2019-10-05T12:52:20Z",
+        "version": 2,
+        "changeset": 75317682,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Școala Nr.4",
+        "id": "way/534809844"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.8671536,
+              43.7583134
+            ],
+            [
+              24.8671018,
+              43.7582136
+            ],
+            [
+              24.8671018,
+              43.7581305
+            ],
+            [
+              24.8671071,
+              43.7580538
+            ],
+            [
+              24.8677293,
+              43.7580307
+            ],
+            [
+              24.8677523,
+              43.7582594
+            ],
+            [
+              24.8671536,
+              43.7583134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/689645306",
+      "properties": {
+        "timestamp": "2019-05-13T11:53:43Z",
+        "version": 1,
+        "changeset": 70188701,
+        "user": "Ionut Paduretu",
+        "uid": 4170283,
+        "amenity": "school",
+        "name": "Grup Școlar Tehnic Alexandria",
+        "id": "way/689645306"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.2977578,
+              43.9717635
+            ],
+            [
+              25.2962823,
+              43.9709862
+            ],
+            [
+              25.2981813,
+              43.9691192
+            ],
+            [
+              25.2984718,
+              43.9692722
+            ],
+            [
+              25.2996568,
+              43.9698966
+            ],
+            [
+              25.2977578,
+              43.9717635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/744926360",
+      "properties": {
+        "timestamp": "2019-11-13T14:11:55Z",
+        "version": 1,
+        "changeset": 77017171,
+        "user": "Ionut Paduretu",
+        "uid": 4170283,
+        "building": "school",
+        "name": "Sală de sport",
+        "sport": "multi",
+        "id": "way/744926360"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.6973829,
+              43.9166117
+            ],
+            [
+              24.6973397,
+              43.9168854
+            ],
+            [
+              24.6967708,
+              43.9168389
+            ],
+            [
+              24.696814,
+              43.9165651
+            ],
+            [
+              24.6973829,
+              43.9166117
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/744926361",
+      "properties": {
+        "timestamp": "2019-11-13T14:11:55Z",
+        "version": 1,
+        "changeset": 77017171,
+        "user": "Ionut Paduretu",
+        "uid": 4170283,
+        "addr:city": "Slobozia Mândra",
+        "building": "school",
+        "id": "way/744926361"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.6973842,
+              43.9164873
+            ],
+            [
+              24.6971904,
+              43.916453
+            ],
+            [
+              24.6973087,
+              43.9161061
+            ],
+            [
+              24.6972732,
+              43.9160998
+            ],
+            [
+              24.6973017,
+              43.9160161
+            ],
+            [
+              24.6975312,
+              43.9160567
+            ],
+            [
+              24.6973842,
+              43.9164873
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/841286369",
+      "properties": {
+        "timestamp": "2020-08-27T11:20:41Z",
+        "version": 1,
+        "changeset": 90023684,
+        "user": "Florin Capalb",
+        "uid": 11710970,
+        "building": "school",
+        "building:levels": "2",
+        "height": "7",
+        "name": "Școala Gimnazială Lisa",
+        "id": "way/841286369"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.142948,
+              43.7927454
+            ],
+            [
+              25.1428382,
+              43.7926923
+            ],
+            [
+              25.1430064,
+              43.7925305
+            ],
+            [
+              25.143429,
+              43.7927344
+            ],
+            [
+              25.1433519,
+              43.7928111
+            ],
+            [
+              25.1432819,
+              43.7927774
+            ],
+            [
+              25.1432153,
+              43.7928423
+            ],
+            [
+              25.143126,
+              43.7928048
+            ],
+            [
+              25.1431969,
+              43.7927372
+            ],
+            [
+              25.1430339,
+              43.7926621
+            ],
+            [
+              25.142948,
+              43.7927454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/730548131",
+      "properties": {
+        "timestamp": "2011-02-13T12:35:29Z",
+        "version": 2,
+        "changeset": 7274735,
+        "user": "razvan85",
+        "uid": 150632,
+        "amenity": "school",
+        "name": "Școala Generală I-IV Plopi",
+        "id": "node/730548131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9905041,
+          44.2802274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315018258",
+      "properties": {
+        "timestamp": "2013-03-22T19:01:41Z",
+        "version": 3,
+        "changeset": 15457893,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "name": "Școala Mircea cel Bătrân",
+        "id": "node/1315018258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8720272,
+          43.7521322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315026343",
+      "properties": {
+        "timestamp": "2015-04-04T15:53:55Z",
+        "version": 5,
+        "changeset": 29975118,
+        "user": "Michael_H",
+        "uid": 323389,
+        "addr:city": "Turnu Măgurele",
+        "addr:housenumber": "25",
+        "addr:postcode": "145200",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Castanilor",
+        "amenity": "school",
+        "name": "Colegiul Național Unirea",
+        "id": "node/1315026343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8686154,
+          43.7441959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1678335600",
+      "properties": {
+        "timestamp": "2014-11-25T07:28:14Z",
+        "version": 2,
+        "changeset": 27015493,
+        "user": "Ariana V",
+        "uid": 2481734,
+        "amenity": "kindergarten",
+        "id": "node/1678335600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.871282,
+          43.7523887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1679603486",
+      "properties": {
+        "timestamp": "2014-11-24T01:45:02Z",
+        "version": 2,
+        "changeset": 26985954,
+        "user": "Ariana V",
+        "uid": 2481734,
+        "amenity": "school",
+        "id": "node/1679603486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.87067,
+          43.7557861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2130313811",
+      "properties": {
+        "timestamp": "2013-03-28T17:48:47Z",
+        "version": 2,
+        "changeset": 15529552,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "name": "Școală",
+        "id": "node/2130313811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0439188,
+          44.2541089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2345390073",
+      "properties": {
+        "timestamp": "2013-06-15T11:53:53Z",
+        "version": 1,
+        "changeset": 16561575,
+        "user": "Greculeasa Gabriela",
+        "uid": 1243601,
+        "amenity": "kindergarten",
+        "id": "node/2345390073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1654534,
+          43.8100098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2927610488",
+      "properties": {
+        "timestamp": "2014-06-22T15:30:06Z",
+        "version": 1,
+        "changeset": 23082960,
+        "user": "JIBEC",
+        "uid": 706229,
+        "amenity": "school",
+        "id": "node/2927610488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3169997,
+          44.1385262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2927610489",
+      "properties": {
+        "timestamp": "2014-06-22T15:30:06Z",
+        "version": 1,
+        "changeset": 23082960,
+        "user": "JIBEC",
+        "uid": 706229,
+        "amenity": "school",
+        "id": "node/2927610489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3177257,
+          44.1410042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3054334539",
+      "properties": {
+        "timestamp": "2017-03-07T13:17:39Z",
+        "version": 2,
+        "changeset": 46651948,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "building:levels": "1",
+        "name": "școală",
+        "id": "node/3054334539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1409269,
+          43.8711255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202384083",
+      "properties": {
+        "timestamp": "2018-08-19T12:16:42Z",
+        "version": 3,
+        "changeset": 61791757,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "name": "Grupul Școlar Marin Preda",
+        "name:ro": "Grupul Școlar Marin Preda",
+        "id": "node/3202384083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8734204,
+          43.7489401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202384084",
+      "properties": {
+        "timestamp": "2014-11-23T23:23:40Z",
+        "version": 1,
+        "changeset": 26984861,
+        "user": "Ariana V",
+        "uid": 2481734,
+        "amenity": "school",
+        "id": "node/3202384084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8716448,
+          43.7517592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202426406",
+      "properties": {
+        "timestamp": "2014-11-23T23:23:08Z",
+        "version": 1,
+        "changeset": 26984861,
+        "user": "Ariana V",
+        "uid": 2481734,
+        "amenity": "kindergarten",
+        "id": "node/3202426406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8728437,
+          43.7493179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202501974",
+      "properties": {
+        "timestamp": "2014-11-24T01:45:02Z",
+        "version": 1,
+        "changeset": 26985954,
+        "user": "Ariana V",
+        "uid": 2481734,
+        "amenity": "kindergarten",
+        "id": "node/3202501974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8500274,
+          43.7663182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204186261",
+      "properties": {
+        "timestamp": "2014-11-25T07:44:34Z",
+        "version": 1,
+        "changeset": 27015493,
+        "user": "Ariana V",
+        "uid": 2481734,
+        "amenity": "school",
+        "id": "node/3204186261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8822967,
+          43.7527931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4135412507",
+      "properties": {
+        "timestamp": "2017-03-03T09:10:48Z",
+        "version": 3,
+        "changeset": 46543717,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "Școala generală nr.1 Bogdana",
+        "id": "node/4135412507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0860827,
+          43.9238392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4411273114",
+      "properties": {
+        "timestamp": "2016-09-21T09:39:03Z",
+        "version": 1,
+        "changeset": 42319110,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "school",
+        "name": "Școala primară Vârtoapele",
+        "id": "node/4411273114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1967347,
+          44.190848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4601140189",
+      "properties": {
+        "timestamp": "2017-03-06T13:27:32Z",
+        "version": 3,
+        "changeset": 46624000,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "Școala Buzescu",
+        "id": "node/4601140189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.224924,
+          44.0106625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4601140392",
+      "properties": {
+        "timestamp": "2017-03-07T13:38:57Z",
+        "version": 2,
+        "changeset": 46652416,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "Școala Generală",
+        "id": "node/4601140392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2921142,
+          43.7199064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4706355148",
+      "properties": {
+        "timestamp": "2018-08-19T12:16:45Z",
+        "version": 2,
+        "changeset": 61791757,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "name": "Grupul Școlar Peretu",
+        "name:ro": "Grupul Școlar Peretu",
+        "id": "node/4706355148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0883334,
+          44.0392186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4715993432",
+      "properties": {
+        "timestamp": "2017-05-24T13:55:42Z",
+        "version": 2,
+        "changeset": 48948516,
+        "user": "Mihai Mandea",
+        "uid": 4648211,
+        "amenity": "school",
+        "name": "Școala Balta Sărată",
+        "id": "node/4715993432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8246408,
+          44.0136399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4715994956",
+      "properties": {
+        "timestamp": "2017-03-04T05:16:12Z",
+        "version": 1,
+        "changeset": 46564534,
+        "user": "Joshuazire",
+        "uid": 5425102,
+        "amenity": "school",
+        "name": "Gradinita",
+        "id": "node/4715994956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8244745,
+          44.0129375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4722741232",
+      "properties": {
+        "timestamp": "2019-10-27T18:02:38Z",
+        "version": 3,
+        "changeset": 76272414,
+        "user": "Jaff2002",
+        "uid": 9429691,
+        "addr:postcode": "147430",
+        "amenity": "school",
+        "name": "Școala Gimnazială Vedea",
+        "phone": "+40247337923",
+        "website": "https://www.facebook.com/SCOALA-GIMNAZIALA-VEDEA-530484946986688/",
+        "id": "node/4722741232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0632694,
+          44.0943781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5141291224",
+      "properties": {
+        "timestamp": "2017-10-01T14:55:37Z",
+        "version": 1,
+        "changeset": 52538818,
+        "user": "Iordan Costy",
+        "uid": 4243122,
+        "addr:postcode": "147221",
+        "amenity": "school",
+        "id": "node/5141291224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4072299,
+          43.65919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5650146916",
+      "properties": {
+        "timestamp": "2018-05-29T18:33:45Z",
+        "version": 1,
+        "changeset": 59376034,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "school",
+        "name": "Școala generală nr. 1",
+        "id": "node/5650146916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7645791,
+          43.7205577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5743194322",
+      "properties": {
+        "timestamp": "2019-10-06T10:41:35Z",
+        "version": 2,
+        "changeset": 75337424,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "name": "Școala Gimnazială Sfințești cu clasele I-VIII",
+        "id": "node/5743194322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0980886,
+          44.1830505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5799396627",
+      "properties": {
+        "timestamp": "2019-10-06T10:41:35Z",
+        "version": 2,
+        "changeset": 75337424,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr.3",
+        "id": "node/5799396627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3638626,
+          43.6586943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5799417056",
+      "properties": {
+        "timestamp": "2019-10-06T10:41:35Z",
+        "version": 2,
+        "changeset": 75337424,
+        "user": "Michael_H",
+        "uid": 323389,
+        "addr:housenumber": "30",
+        "addr:postcode": "145400",
+        "addr:street": "Strada Eroilor",
+        "amenity": "school",
+        "name": "Școala Gimnazială Nr. 3",
+        "phone": "0247366271",
+        "id": "node/5799417056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3637123,
+          43.659074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6155428488",
+      "properties": {
+        "timestamp": "2018-12-23T10:02:07Z",
+        "version": 1,
+        "changeset": 65711017,
+        "user": "razor74",
+        "uid": 128281,
+        "amenity": "kindergarten",
+        "name": "Gradinita",
+        "id": "node/6155428488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.765163,
+          43.7203987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6618734840",
+      "properties": {
+        "timestamp": "2019-07-16T09:30:43Z",
+        "version": 1,
+        "changeset": 72295513,
+        "user": "Ionut Paduretu",
+        "uid": 4170283,
+        "addr:city": "Merișani",
+        "addr:postcode": "147116",
+        "amenity": "school",
+        "name": "Școala Generală Merișani",
+        "id": "node/6618734840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.875775,
+          44.2516815
+        ]
+      }
+    }
+  ]
+}

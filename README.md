@@ -5,25 +5,32 @@ Steps to reproduce:
 * set screen to something reasonable, this will act as a filtering bounding box
 * use query: 
 ```
-[out:xml][timeout:25];
+[out:json][timeout:600];
+
+{{geocodeArea:Romania}}->.searchArea;
 // gather results
 (
-  node["amenity"="school"]({{bbox}});
-  node["amenity"="kindergarten"]({{bbox}});
-  node["amenity"="college"]({{bbox}});
-  node["amenity"="university"]({{bbox}});
+  node["amenity"="school"](area.searchArea);
+  node["amenity"="kindergarten"](area.searchArea);
+  node["amenity"="college"](area.searchArea);
+  node["amenity"="university"](area.searchArea);
   
   
-  way["amenity"="school"]({{bbox}});
-  way["amenity"="kindergarten"]({{bbox}});
-  way["amenity"="college"]({{bbox}});
-  way["amenity"="university"]({{bbox}});
+  way["amenity"="school"](area.searchArea);
+  way["amenity"="kindergarten"](area.searchArea);
+  way["amenity"="college"](area.searchArea);
+  way["amenity"="university"](area.searchArea);
   
   
-  relation["amenity"="school"]({{bbox}});
-  relation["amenity"="kindergarten"]({{bbox}});
-  relation["amenity"="college"]({{bbox}});
-  relation["amenity"="university"]({{bbox}});
+  relation["amenity"="school"](area.searchArea);
+  relation["amenity"="kindergarten"](area.searchArea);
+  relation["amenity"="college"](area.searchArea);
+  relation["amenity"="university"](area.searchArea);
+  
+  
+  node["building"="school"](area.searchArea);
+  way["building"="school"](area.searchArea);
+  relation["building"="school"](area.searchArea);
   
 );
 // print results

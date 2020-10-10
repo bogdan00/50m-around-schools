@@ -1,0 +1,5264 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/5496",
+      "properties": {
+        "timestamp": "2017-03-20T11:40:53Z",
+        "version": 2,
+        "changeset": 47009981,
+        "user": "nebulon42",
+        "uid": 461734,
+        "building": "school",
+        "type": "multipolygon",
+        "id": "relation/5496"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0275897,
+              45.4309649
+            ],
+            [
+              28.0271835,
+              45.430952
+            ],
+            [
+              28.0272004,
+              45.430681
+            ],
+            [
+              28.0276049,
+              45.4307019
+            ],
+            [
+              28.0275897,
+              45.4309649
+            ]
+          ],
+          [
+            [
+              28.027431,
+              45.4308652
+            ],
+            [
+              28.0274357,
+              45.4308112
+            ],
+            [
+              28.0273183,
+              45.4308088
+            ],
+            [
+              28.0273136,
+              45.4308605
+            ],
+            [
+              28.027431,
+              45.4308652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/10156117",
+      "properties": {
+        "timestamp": "2019-10-14T22:08:23Z",
+        "version": 1,
+        "changeset": 75690002,
+        "user": "Viorel-Cătălin Răpițeanu",
+        "uid": 10374772,
+        "amenity": "university",
+        "name": "Universitatea Dunărea de Jos",
+        "name:de": "Dunărea-de-Jos-Universität Galați",
+        "name:en": "\"Dunarea de Jos\" University of Galați",
+        "name:fr": "Université \"Dunarea de Jos\" de Galati",
+        "name:it": "Università \"Dunarea de Jos\" di Galati",
+        "name:la": "Universitas Galatiensis",
+        "name:ru": "Галацкий университет «Дунэря де Жос»",
+        "type": "multipolygon",
+        "website": "http://www.ugal.ro",
+        "wikidata": "Q1266339",
+        "wikipedia": "ro:Universitatea „Dunărea de Jos” din Galați",
+        "id": "relation/10156117"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0557869,
+              45.4390137
+            ],
+            [
+              28.0551309,
+              45.4390233
+            ],
+            [
+              28.0550549,
+              45.4383881
+            ],
+            [
+              28.0562423,
+              45.4383246
+            ],
+            [
+              28.0563591,
+              45.4389266
+            ],
+            [
+              28.0557869,
+              45.4390137
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14269711",
+      "properties": {
+        "timestamp": "2013-08-20T17:37:02Z",
+        "version": 5,
+        "changeset": 17429815,
+        "user": "baditaflorin",
+        "uid": 398300,
+        "building": "school",
+        "id": "way/14269711"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0258399,
+              45.4425189
+            ],
+            [
+              28.025693,
+              45.442288
+            ],
+            [
+              28.025636,
+              45.442303
+            ],
+            [
+              28.0255731,
+              45.442183
+            ],
+            [
+              28.0261098,
+              45.4420001
+            ],
+            [
+              28.0262267,
+              45.4420241
+            ],
+            [
+              28.0263437,
+              45.442234
+            ],
+            [
+              28.0262357,
+              45.442273
+            ],
+            [
+              28.0261817,
+              45.442192
+            ],
+            [
+              28.0259631,
+              45.4422634
+            ],
+            [
+              28.0260678,
+              45.4424409
+            ],
+            [
+              28.0258399,
+              45.4425189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14269712",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:18Z",
+        "version": 4,
+        "changeset": 27272692,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "2",
+        "addr:postcode": "800298",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Alba Iulia",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 12 \"Miron Costin\"",
+        "id": "way/14269712"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0258011,
+              45.4425712
+            ],
+            [
+              28.0255913,
+              45.4423766
+            ],
+            [
+              28.0254345,
+              45.4422277
+            ],
+            [
+              28.025661,
+              45.4420741
+            ],
+            [
+              28.0261561,
+              45.4419225
+            ],
+            [
+              28.0263019,
+              45.4419571
+            ],
+            [
+              28.0265207,
+              45.4423447
+            ],
+            [
+              28.0258011,
+              45.4425712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14269714",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:19Z",
+        "version": 4,
+        "changeset": 27272693,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "2",
+        "addr:postcode": "800298",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Alba Iulia",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 12 \"Miron Costin\"",
+        "id": "way/14269714"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0267444,
+              45.4423624
+            ],
+            [
+              28.0264804,
+              45.4419091
+            ],
+            [
+              28.0265264,
+              45.4418208
+            ],
+            [
+              28.0271693,
+              45.4416155
+            ],
+            [
+              28.0274464,
+              45.4421243
+            ],
+            [
+              28.0267444,
+              45.4423624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14269715",
+      "properties": {
+        "timestamp": "2013-08-20T17:37:02Z",
+        "version": 5,
+        "changeset": 17429815,
+        "user": "baditaflorin",
+        "uid": 398300,
+        "building": "school",
+        "id": "way/14269715"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0267375,
+              45.442124
+            ],
+            [
+              28.026609,
+              45.4419149
+            ],
+            [
+              28.0266493,
+              45.4418208
+            ],
+            [
+              28.0271367,
+              45.4416577
+            ],
+            [
+              28.0272134,
+              45.4418189
+            ],
+            [
+              28.0271348,
+              45.4418477
+            ],
+            [
+              28.027106,
+              45.4417863
+            ],
+            [
+              28.0268872,
+              45.4418631
+            ],
+            [
+              28.0269333,
+              45.4419552
+            ],
+            [
+              28.026797,
+              45.4420031
+            ],
+            [
+              28.0268373,
+              45.4420876
+            ],
+            [
+              28.0267375,
+              45.442124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14849975",
+      "properties": {
+        "timestamp": "2016-11-06T09:52:11Z",
+        "version": 6,
+        "changeset": 43437478,
+        "user": "Serban Ciprian",
+        "uid": 3224513,
+        "addr:city": "Galați",
+        "addr:housenumber": "26",
+        "addr:postcode": "800325",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Saturn",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Liceul Alexandru Ioan Cuza",
+        "id": "way/14849975"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0261871,
+              45.4234211
+            ],
+            [
+              28.0262153,
+              45.4230798
+            ],
+            [
+              28.0268992,
+              45.4224055
+            ],
+            [
+              28.0269899,
+              45.4224182
+            ],
+            [
+              28.0268992,
+              45.4234488
+            ],
+            [
+              28.0261871,
+              45.4234211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14849976",
+      "properties": {
+        "timestamp": "2016-11-06T09:52:12Z",
+        "version": 4,
+        "changeset": 43437478,
+        "user": "Serban Ciprian",
+        "uid": 3224513,
+        "building": "school",
+        "name": "Liceul Alexandru Ioan Cuza",
+        "id": "way/14849976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0265432,
+              45.4232539
+            ],
+            [
+              28.0265933,
+              45.4228511
+            ],
+            [
+              28.0268567,
+              45.4228533
+            ],
+            [
+              28.0268023,
+              45.4232561
+            ],
+            [
+              28.0265432,
+              45.4232539
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15109940",
+      "properties": {
+        "timestamp": "2013-03-28T17:48:20Z",
+        "version": 4,
+        "changeset": 15529552,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 2",
+        "id": "way/15109940"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0345886,
+              45.4263734
+            ],
+            [
+              28.0349533,
+              45.4258376
+            ],
+            [
+              28.0358707,
+              45.4262248
+            ],
+            [
+              28.035492,
+              45.4267634
+            ],
+            [
+              28.0345886,
+              45.4263734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15109965",
+      "properties": {
+        "timestamp": "2013-03-23T17:51:09Z",
+        "version": 4,
+        "changeset": 15469387,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "name": "Grădinița nr. 36 \"Mihai Eminescu\"",
+        "id": "way/15109965"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0357136,
+              45.4259772
+            ],
+            [
+              28.0349206,
+              45.4256868
+            ],
+            [
+              28.0354456,
+              45.4248752
+            ],
+            [
+              28.0356541,
+              45.4249534
+            ],
+            [
+              28.035587,
+              45.4250651
+            ],
+            [
+              28.035762,
+              45.4251395
+            ],
+            [
+              28.0358328,
+              45.425039
+            ],
+            [
+              28.0362051,
+              45.4251879
+            ],
+            [
+              28.0357136,
+              45.4259772
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15109974",
+      "properties": {
+        "timestamp": "2012-11-18T14:53:56Z",
+        "version": 4,
+        "changeset": 13919080,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Liceul Teoretic \"Emil Racoviță\"",
+        "id": "way/15109974"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0317308,
+              45.4224342
+            ],
+            [
+              28.0325807,
+              45.4214816
+            ],
+            [
+              28.033406,
+              45.4218799
+            ],
+            [
+              28.0325191,
+              45.4228366
+            ],
+            [
+              28.0317308,
+              45.4224342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15109976",
+      "properties": {
+        "timestamp": "2012-11-18T14:53:56Z",
+        "version": 4,
+        "changeset": 13919080,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul Teoretic \"Emil Racoviță\"",
+        "id": "way/15109976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0325068,
+              45.4221632
+            ],
+            [
+              28.0323877,
+              45.4221057
+            ],
+            [
+              28.0326957,
+              45.4217895
+            ],
+            [
+              28.0331802,
+              45.4220277
+            ],
+            [
+              28.0329133,
+              45.4223438
+            ],
+            [
+              28.0327983,
+              45.4222782
+            ],
+            [
+              28.0329749,
+              45.4220564
+            ],
+            [
+              28.0327203,
+              45.4219415
+            ],
+            [
+              28.0325068,
+              45.4221632
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/16075443",
+      "properties": {
+        "timestamp": "2015-02-08T18:17:56Z",
+        "version": 8,
+        "changeset": 28708390,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Galați",
+        "addr:housenumber": "138",
+        "addr:street": "Bulevardul Brăilei",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Colegiul Național Pedagogic \"Costache Negri\"",
+        "id": "way/16075443"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0317971,
+              45.4283681
+            ],
+            [
+              28.0333597,
+              45.4284953
+            ],
+            [
+              28.03326,
+              45.4291225
+            ],
+            [
+              28.0337827,
+              45.4291914
+            ],
+            [
+              28.0335793,
+              45.4309116
+            ],
+            [
+              28.0326445,
+              45.4308113
+            ],
+            [
+              28.0327511,
+              45.4302022
+            ],
+            [
+              28.0323646,
+              45.4300213
+            ],
+            [
+              28.0322236,
+              45.4296672
+            ],
+            [
+              28.0322607,
+              45.429353
+            ],
+            [
+              28.0316689,
+              45.4293015
+            ],
+            [
+              28.0317971,
+              45.4283681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23002486",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:23Z",
+        "version": 5,
+        "changeset": 27272696,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "29",
+        "addr:postcode": "800361",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Constructorilor",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 13 „Ștefan cel Mare”",
+        "id": "way/23002486"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0269968,
+              45.4318105
+            ],
+            [
+              28.0268591,
+              45.4309109
+            ],
+            [
+              28.0268399,
+              45.4303986
+            ],
+            [
+              28.0277396,
+              45.430469
+            ],
+            [
+              28.02773,
+              45.4305459
+            ],
+            [
+              28.0278741,
+              45.4305491
+            ],
+            [
+              28.027682,
+              45.431881
+            ],
+            [
+              28.0269968,
+              45.4318105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23002488",
+      "properties": {
+        "timestamp": "2015-02-08T18:19:37Z",
+        "version": 4,
+        "changeset": 28708390,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Galați",
+        "addr:housenumber": "204",
+        "addr:street": "Bulevardul Brăilei",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 7 \"Constantin Brâncoveanu\"",
+        "id": "way/23002488"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0263139,
+              45.4286188
+            ],
+            [
+              28.0263433,
+              45.4280026
+            ],
+            [
+              28.0276528,
+              45.4281016
+            ],
+            [
+              28.0275647,
+              45.4287692
+            ],
+            [
+              28.026578,
+              45.4287215
+            ],
+            [
+              28.026589,
+              45.4286408
+            ],
+            [
+              28.0263139,
+              45.4286188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23002723",
+      "properties": {
+        "timestamp": "2011-01-20T16:54:38Z",
+        "version": 2,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "id": "way/23002723"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0275891,
+              45.4327159
+            ],
+            [
+              28.0276851,
+              45.4321799
+            ],
+            [
+              28.0281707,
+              45.4322185
+            ],
+            [
+              28.0281066,
+              45.4326936
+            ],
+            [
+              28.0275891,
+              45.4327159
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23133822",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:32Z",
+        "version": 5,
+        "changeset": 27272705,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "17",
+        "addr:postcode": "800479",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul Siderurgiștilor",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 42 \"Sfinții Împărați\"",
+        "id": "way/23133822"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.023928,
+              45.4334639
+            ],
+            [
+              28.0238703,
+              45.432856
+            ],
+            [
+              28.0246564,
+              45.4327862
+            ],
+            [
+              28.0247262,
+              45.4334185
+            ],
+            [
+              28.023928,
+              45.4334639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411436",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:31Z",
+        "version": 5,
+        "changeset": 27272703,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "4",
+        "addr:postcode": "800466",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Lebedei",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 10 \"Petre Țuțea\"",
+        "id": "way/23411436"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0174629,
+              45.4356019
+            ],
+            [
+              28.0170579,
+              45.4347954
+            ],
+            [
+              28.0179041,
+              45.4345532
+            ],
+            [
+              28.018074,
+              45.4346038
+            ],
+            [
+              28.0184682,
+              45.4352836
+            ],
+            [
+              28.0174629,
+              45.4356019
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411438",
+      "properties": {
+        "timestamp": "2010-11-01T07:34:47Z",
+        "version": 3,
+        "changeset": 6252020,
+        "user": "sharkx",
+        "uid": 37938,
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița Lizuca",
+        "id": "way/23411438"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0180288,
+              45.4350408
+            ],
+            [
+              28.0178591,
+              45.4347545
+            ],
+            [
+              28.0179691,
+              45.4347156
+            ],
+            [
+              28.0181397,
+              45.435
+            ],
+            [
+              28.0180288,
+              45.4350408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411445",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:27Z",
+        "version": 5,
+        "changeset": 27272700,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "1",
+        "addr:postcode": "800452",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Mihail Sadoveanu",
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "name": "Grădinița Voinicel nr. 18",
+        "id": "way/23411445"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0147032,
+              45.4312783
+            ],
+            [
+              28.014524,
+              45.4309283
+            ],
+            [
+              28.0151355,
+              45.4307563
+            ],
+            [
+              28.0153019,
+              45.4310877
+            ],
+            [
+              28.0147032,
+              45.4312783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411448",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:29Z",
+        "version": 4,
+        "changeset": 27272702,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "16",
+        "addr:postcode": "800460",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Mihail Sadoveanu",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 11 Mihail Sadoveanu",
+        "id": "way/23411448"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0151016,
+              45.4304618
+            ],
+            [
+              28.016497,
+              45.4300086
+            ],
+            [
+              28.0167167,
+              45.4303849
+            ],
+            [
+              28.0169529,
+              45.4303245
+            ],
+            [
+              28.0172523,
+              45.4308436
+            ],
+            [
+              28.0172056,
+              45.4309864
+            ],
+            [
+              28.0156399,
+              45.4314424
+            ],
+            [
+              28.0151016,
+              45.4304618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411452",
+      "properties": {
+        "timestamp": "2011-01-20T16:58:28Z",
+        "version": 2,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "id": "way/23411452"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0173493,
+              45.4309223
+            ],
+            [
+              28.0170722,
+              45.4304373
+            ],
+            [
+              28.0184942,
+              45.4299341
+            ],
+            [
+              28.0187051,
+              45.4303408
+            ],
+            [
+              28.0182321,
+              45.4305005
+            ],
+            [
+              28.0182953,
+              45.4306391
+            ],
+            [
+              28.0173493,
+              45.4309223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411461",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:24Z",
+        "version": 5,
+        "changeset": 27272697,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "27",
+        "addr:postcode": "800401",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Barboși",
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "name": "Grădinița Licurici",
+        "id": "way/23411461"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0118783,
+              45.4224959
+            ],
+            [
+              28.0113275,
+              45.4224649
+            ],
+            [
+              28.0113237,
+              45.4221551
+            ],
+            [
+              28.0119077,
+              45.4221719
+            ],
+            [
+              28.0118783,
+              45.4224959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411464",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:26Z",
+        "version": 5,
+        "changeset": 27272699,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "38",
+        "addr:postcode": "800428",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Barboși",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 9 \"Calistrat Hogaș\"",
+        "id": "way/23411464"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0107947,
+              45.421017
+            ],
+            [
+              28.0120988,
+              45.4210429
+            ],
+            [
+              28.0119211,
+              45.4218139
+            ],
+            [
+              28.011049,
+              45.4217073
+            ],
+            [
+              28.0110476,
+              45.421546
+            ],
+            [
+              28.0108056,
+              45.4215378
+            ],
+            [
+              28.0107947,
+              45.421017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411466",
+      "properties": {
+        "timestamp": "2015-02-08T18:19:37Z",
+        "version": 5,
+        "changeset": 28708390,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Galați",
+        "addr:housenumber": "6",
+        "addr:street": "Strada Gorunului",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 5 Cuza Vodă",
+        "id": "way/23411466"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0150242,
+              45.4255676
+            ],
+            [
+              28.0150922,
+              45.4248475
+            ],
+            [
+              28.0158569,
+              45.4248581
+            ],
+            [
+              28.0157868,
+              45.4256101
+            ],
+            [
+              28.0150242,
+              45.4255676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23411468",
+      "properties": {
+        "timestamp": "2011-01-20T16:55:14Z",
+        "version": 3,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "name": "Grădinița nr. 44",
+        "id": "way/23411468"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0158533,
+              45.425266
+            ],
+            [
+              28.0158897,
+              45.424859
+            ],
+            [
+              28.0162621,
+              45.424859
+            ],
+            [
+              28.0162309,
+              45.4252816
+            ],
+            [
+              28.0158533,
+              45.425266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23415419",
+      "properties": {
+        "timestamp": "2011-01-20T16:52:34Z",
+        "version": 4,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Liceul Teoretic \"Dunărea\"",
+        "id": "way/23415419"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.017663,
+              45.4209068
+            ],
+            [
+              28.017156,
+              45.420641
+            ],
+            [
+              28.0169657,
+              45.4208462
+            ],
+            [
+              28.016664,
+              45.4206807
+            ],
+            [
+              28.0173349,
+              45.4200023
+            ],
+            [
+              28.0180506,
+              45.4203776
+            ],
+            [
+              28.0179537,
+              45.4204943
+            ],
+            [
+              28.0179636,
+              45.4206236
+            ],
+            [
+              28.017663,
+              45.4209068
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23416295",
+      "properties": {
+        "timestamp": "2011-01-20T16:57:35Z",
+        "version": 4,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 40 \"Iulia Hașdeu\"",
+        "id": "way/23416295"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0090945,
+              45.4168064
+            ],
+            [
+              28.0096719,
+              45.4162135
+            ],
+            [
+              28.0098519,
+              45.4163097
+            ],
+            [
+              28.0100103,
+              45.4161421
+            ],
+            [
+              28.0106032,
+              45.4164525
+            ],
+            [
+              28.0099389,
+              45.4172224
+            ],
+            [
+              28.0090945,
+              45.4168064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30895918",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:16Z",
+        "version": 4,
+        "changeset": 27272691,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "9",
+        "addr:postcode": "800261",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Feroviarilor",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala generală nr. 38 Grigore Moisil",
+        "id": "way/30895918"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.015851,
+              45.4479219
+            ],
+            [
+              28.0156424,
+              45.4474885
+            ],
+            [
+              28.0165548,
+              45.4472572
+            ],
+            [
+              28.0168644,
+              45.4479806
+            ],
+            [
+              28.0164017,
+              45.4481077
+            ],
+            [
+              28.0162713,
+              45.4478144
+            ],
+            [
+              28.015851,
+              45.4479219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30899902",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:41Z",
+        "version": 5,
+        "changeset": 27272710,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "27",
+        "addr:postcode": "800567",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul Milcov",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Colegiul Tehnic  Energetic \"Paul Dimo\" ",
+        "id": "way/30899902"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0199056,
+              45.450326
+            ],
+            [
+              28.0197845,
+              45.4500141
+            ],
+            [
+              28.0193514,
+              45.4499223
+            ],
+            [
+              28.0191972,
+              45.4495443
+            ],
+            [
+              28.0209259,
+              45.4490671
+            ],
+            [
+              28.0214434,
+              45.4501205
+            ],
+            [
+              28.0199056,
+              45.450326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30901220",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:39Z",
+        "version": 4,
+        "changeset": 27272709,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "5",
+        "addr:postcode": "800536",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ionel Fernic",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 33 Sf. Dumitru",
+        "id": "way/30901220"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0194963,
+              45.4564662
+            ],
+            [
+              28.0195795,
+              45.4553954
+            ],
+            [
+              28.0207086,
+              45.4554334
+            ],
+            [
+              28.0206108,
+              45.4565326
+            ],
+            [
+              28.0194963,
+              45.4564662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30901459",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:37Z",
+        "version": 5,
+        "changeset": 27272708,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "9",
+        "addr:postcode": "800529",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Camil Ressu",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 31 Gheorghe Munteanu",
+        "id": "way/30901459"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0204088,
+              45.453387
+            ],
+            [
+              28.0204328,
+              45.452761
+            ],
+            [
+              28.0215054,
+              45.452796
+            ],
+            [
+              28.021457,
+              45.4534253
+            ],
+            [
+              28.0204088,
+              45.453387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30904890",
+      "properties": {
+        "timestamp": "2011-01-20T16:52:20Z",
+        "version": 2,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 34 Mihai Viteazul",
+        "id": "way/30904890"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0239647,
+              45.4582879
+            ],
+            [
+              28.0240217,
+              45.4575353
+            ],
+            [
+              28.0251438,
+              45.4575806
+            ],
+            [
+              28.025073,
+              45.4584636
+            ],
+            [
+              28.0245833,
+              45.4584425
+            ],
+            [
+              28.0245903,
+              45.458309
+            ],
+            [
+              28.0239647,
+              45.4582879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31308217",
+      "properties": {
+        "timestamp": "2013-10-21T20:37:57Z",
+        "version": 3,
+        "changeset": 18476617,
+        "user": "dang90",
+        "uid": 1781633,
+        "addr:city": "Galați",
+        "addr:housenumber": "225",
+        "addr:postcode": "800506",
+        "addr:street": "Bulevardul George Coșbuc",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Liceul Tehnologic Transporturi Căi Ferate Galați",
+        "phone": "0236/319422",
+        "website": "http://liceulcfrgalati.licee.edu.ro/index.html",
+        "id": "way/31308217"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0337914,
+              45.4482919
+            ],
+            [
+              28.0338409,
+              45.4474811
+            ],
+            [
+              28.0347544,
+              45.447542
+            ],
+            [
+              28.0347734,
+              45.4473593
+            ],
+            [
+              28.0350513,
+              45.4473746
+            ],
+            [
+              28.0349866,
+              45.4483528
+            ],
+            [
+              28.0337914,
+              45.4482919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31404595",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:11Z",
+        "version": 4,
+        "changeset": 27272688,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "8",
+        "addr:postcode": "800016",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Egalității",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 24 Sf. Arhangheli Mihail și Gavril",
+        "id": "way/31404595"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0583318,
+              45.4338185
+            ],
+            [
+              28.0583271,
+              45.4332631
+            ],
+            [
+              28.0589886,
+              45.4332441
+            ],
+            [
+              28.0589933,
+              45.4336634
+            ],
+            [
+              28.0586341,
+              45.433847
+            ],
+            [
+              28.0583318,
+              45.4338185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31523936",
+      "properties": {
+        "timestamp": "2015-02-08T18:19:36Z",
+        "version": 4,
+        "changeset": 28708390,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Galați",
+        "addr:housenumber": "15",
+        "addr:street": "Bulevardul 1 Decembrie 1918",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 41 \"Sf. Grigorie Teologu\"",
+        "id": "way/31523936"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0191834,
+              45.44188
+            ],
+            [
+              28.0203509,
+              45.4415199
+            ],
+            [
+              28.0204773,
+              45.4417598
+            ],
+            [
+              28.0205599,
+              45.4417728
+            ],
+            [
+              28.020641,
+              45.4419202
+            ],
+            [
+              28.0202001,
+              45.4420499
+            ],
+            [
+              28.0203168,
+              45.4422671
+            ],
+            [
+              28.0198906,
+              45.4423967
+            ],
+            [
+              28.0198128,
+              45.4422136
+            ],
+            [
+              28.0193979,
+              45.4423287
+            ],
+            [
+              28.0191834,
+              45.44188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648031",
+      "properties": {
+        "timestamp": "2011-01-20T16:51:17Z",
+        "version": 2,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "name": "Grădinița nr. 47",
+        "id": "way/31648031"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0270911,
+              45.4528713
+            ],
+            [
+              28.027155,
+              45.4521708
+            ],
+            [
+              28.0278789,
+              45.4522115
+            ],
+            [
+              28.0278346,
+              45.4526946
+            ],
+            [
+              28.0275729,
+              45.452682
+            ],
+            [
+              28.0275518,
+              45.4528972
+            ],
+            [
+              28.0270911,
+              45.4528713
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648032",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:46Z",
+        "version": 5,
+        "changeset": 27272716,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "12",
+        "addr:postcode": "800677",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Aviator Mircea Zorileanu",
+        "amenity": "kindergarten",
+        "is_in:city": "Galați",
+        "name": "Centrul de plasament nr. 3",
+        "id": "way/31648032"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.026371,
+              45.4530196
+            ],
+            [
+              28.0263824,
+              45.4528304
+            ],
+            [
+              28.0263413,
+              45.4527845
+            ],
+            [
+              28.0263451,
+              45.4526526
+            ],
+            [
+              28.0264694,
+              45.4523917
+            ],
+            [
+              28.0270027,
+              45.4524127
+            ],
+            [
+              28.0269444,
+              45.4530588
+            ],
+            [
+              28.026371,
+              45.4530196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648073",
+      "properties": {
+        "timestamp": "2011-01-20T16:54:19Z",
+        "version": 2,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 18",
+        "id": "way/31648073"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0273192,
+              45.4546919
+            ],
+            [
+              28.0273844,
+              45.453604
+            ],
+            [
+              28.0280776,
+              45.4536402
+            ],
+            [
+              28.0279926,
+              45.4547244
+            ],
+            [
+              28.0273192,
+              45.4546919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648074",
+      "properties": {
+        "timestamp": "2018-08-16T07:29:14Z",
+        "version": 7,
+        "changeset": 61706070,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Galați",
+        "addr:housenumber": "13",
+        "addr:postcode": "800514",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul Milcov",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Liceul Teoretic \"Mircea Eliade\"",
+        "id": "way/31648074"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0280576,
+              45.4495864
+            ],
+            [
+              28.0280979,
+              45.4487768
+            ],
+            [
+              28.028305,
+              45.4487822
+            ],
+            [
+              28.0283104,
+              45.4485966
+            ],
+            [
+              28.0289935,
+              45.4486208
+            ],
+            [
+              28.0289908,
+              45.4486854
+            ],
+            [
+              28.029241,
+              45.4486961
+            ],
+            [
+              28.0292356,
+              45.448879
+            ],
+            [
+              28.0293919,
+              45.4488812
+            ],
+            [
+              28.0293727,
+              45.4490976
+            ],
+            [
+              28.0295153,
+              45.4491049
+            ],
+            [
+              28.0298676,
+              45.4491211
+            ],
+            [
+              28.0298192,
+              45.4496805
+            ],
+            [
+              28.0280576,
+              45.4495864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648075",
+      "properties": {
+        "timestamp": "2011-01-20T17:03:24Z",
+        "version": 3,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Grup școlar de industrie alimentară \"Dimitrie Moțoc\" (MAIA)",
+        "id": "way/31648075"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0269652,
+              45.4493995
+            ],
+            [
+              28.027007,
+              45.4482035
+            ],
+            [
+              28.0278369,
+              45.4482378
+            ],
+            [
+              28.0278103,
+              45.448767
+            ],
+            [
+              28.0280539,
+              45.4487784
+            ],
+            [
+              28.0280178,
+              45.4495779
+            ],
+            [
+              28.0276047,
+              45.4495512
+            ],
+            [
+              28.0275244,
+              45.4494381
+            ],
+            [
+              28.0269652,
+              45.4493995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648333",
+      "properties": {
+        "timestamp": "2011-01-20T16:53:44Z",
+        "version": 2,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Liceul de artă Dimitrie Cuclin",
+        "id": "way/31648333"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.05312,
+              45.4454398
+            ],
+            [
+              28.0532483,
+              45.4449008
+            ],
+            [
+              28.0538385,
+              45.4449821
+            ],
+            [
+              28.0538898,
+              45.4448923
+            ],
+            [
+              28.0548351,
+              45.4450463
+            ],
+            [
+              28.0546127,
+              45.445521
+            ],
+            [
+              28.053907,
+              45.4453799
+            ],
+            [
+              28.0538685,
+              45.4454697
+            ],
+            [
+              28.0532739,
+              45.4453328
+            ],
+            [
+              28.053244,
+              45.4454783
+            ],
+            [
+              28.05312,
+              45.4454398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648335",
+      "properties": {
+        "timestamp": "2020-05-03T12:57:43Z",
+        "version": 5,
+        "changeset": 84562900,
+        "user": "CommonerSloth",
+        "uid": 11121142,
+        "addr:city": "Galați",
+        "addr:housenumber": "41",
+        "addr:postcode": "800001",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Colegiul Național Vasile Alecsandri",
+        "website": "https://cnva.eu/",
+        "id": "way/31648335"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0495878,
+              45.4409401
+            ],
+            [
+              28.0495776,
+              45.4402678
+            ],
+            [
+              28.0498958,
+              45.440278
+            ],
+            [
+              28.0499112,
+              45.4401549
+            ],
+            [
+              28.0507119,
+              45.4402472
+            ],
+            [
+              28.0521234,
+              45.4404628
+            ],
+            [
+              28.0520396,
+              45.441292
+            ],
+            [
+              28.0502397,
+              45.4410941
+            ],
+            [
+              28.0502499,
+              45.4409761
+            ],
+            [
+              28.0495878,
+              45.4409401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35220305",
+      "properties": {
+        "timestamp": "2015-02-06T12:33:34Z",
+        "version": 7,
+        "changeset": 28650943,
+        "user": "Florin P",
+        "uid": 2635484,
+        "addr:city": "Galați",
+        "addr:housenumber": "117",
+        "addr:postcode": "800484",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Anghel Saligny",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Colegiul Tehnic \"Traian Vuia\"",
+        "id": "way/35220305"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0201078,
+              45.4328997
+            ],
+            [
+              28.0194898,
+              45.4315987
+            ],
+            [
+              28.0201642,
+              45.4310447
+            ],
+            [
+              28.0201937,
+              45.4310205
+            ],
+            [
+              28.0210262,
+              45.4313277
+            ],
+            [
+              28.0215841,
+              45.432454
+            ],
+            [
+              28.0201078,
+              45.4328997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42471679",
+      "properties": {
+        "timestamp": "2009-10-17T14:52:02Z",
+        "version": 2,
+        "changeset": 2874086,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultatea de Arte / Drept",
+        "id": "way/42471679"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0530201,
+              45.4477441
+            ],
+            [
+              28.0531918,
+              45.4474551
+            ],
+            [
+              28.0525309,
+              45.4472624
+            ],
+            [
+              28.0526682,
+              45.4470877
+            ],
+            [
+              28.0533034,
+              45.4472744
+            ],
+            [
+              28.0533806,
+              45.44716
+            ],
+            [
+              28.053578,
+              45.4472142
+            ],
+            [
+              28.0531746,
+              45.4477862
+            ],
+            [
+              28.0530201,
+              45.4477441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42471814",
+      "properties": {
+        "timestamp": "2010-10-11T14:00:55Z",
+        "version": 4,
+        "changeset": 6011968,
+        "user": "sharkx",
+        "uid": 37938,
+        "amenity": "college",
+        "building": "yes",
+        "name": "Facultatea de Nave",
+        "ref": "(corp Y)",
+        "id": "way/42471814"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0520073,
+              45.4459496
+            ],
+            [
+              28.0522302,
+              45.4455775
+            ],
+            [
+              28.052462,
+              45.4456437
+            ],
+            [
+              28.0522562,
+              45.4460099
+            ],
+            [
+              28.0520073,
+              45.4459496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42471851",
+      "properties": {
+        "timestamp": "2018-11-09T14:06:21Z",
+        "version": 6,
+        "changeset": 64326193,
+        "user": "km2bp",
+        "uid": 3610826,
+        "amenity": "college",
+        "building": "yes",
+        "name": "Facultatea de Mecanică",
+        "ref": "(corp D+B)",
+        "id": "way/42471851"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0534425,
+              45.4470821
+            ],
+            [
+              28.0532022,
+              45.4470135
+            ],
+            [
+              28.053376,
+              45.4467141
+            ],
+            [
+              28.0536162,
+              45.4467828
+            ],
+            [
+              28.0534425,
+              45.4470821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42500709",
+      "properties": {
+        "timestamp": "2015-02-08T20:37:42Z",
+        "version": 9,
+        "changeset": 28714720,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "5",
+        "addr:postcode": "800586",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Zidarilor",
+        "amenity": "school",
+        "name": "Școala Generală nr. 22 \"Dimitrie Cantemir\"",
+        "id": "way/42500709"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0125019,
+              45.4145156
+            ],
+            [
+              28.0130684,
+              45.4139433
+            ],
+            [
+              28.0139524,
+              45.414365
+            ],
+            [
+              28.0133516,
+              45.4149193
+            ],
+            [
+              28.0125019,
+              45.4145156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42559858",
+      "properties": {
+        "timestamp": "2011-01-20T16:59:41Z",
+        "version": 4,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "university",
+        "is_in:city": "Galați",
+        "name": "Universitatea Danubius",
+        "id": "way/42559858"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0161658,
+              45.4043682
+            ],
+            [
+              28.0160886,
+              45.404085
+            ],
+            [
+              28.0162218,
+              45.4032711
+            ],
+            [
+              28.0170173,
+              45.4033464
+            ],
+            [
+              28.0178616,
+              45.4034773
+            ],
+            [
+              28.0175144,
+              45.4040756
+            ],
+            [
+              28.0168466,
+              45.4045875
+            ],
+            [
+              28.0161658,
+              45.4043682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42560159",
+      "properties": {
+        "timestamp": "2011-01-20T16:54:24Z",
+        "version": 5,
+        "changeset": 7032182,
+        "user": "Flaviu",
+        "uid": 204685,
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 43 \"Dan Barbilian\"",
+        "id": "way/42560159"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0103252,
+              45.4112631
+            ],
+            [
+              28.0107458,
+              45.4108655
+            ],
+            [
+              28.0116649,
+              45.411328
+            ],
+            [
+              28.0112522,
+              45.4117331
+            ],
+            [
+              28.0103252,
+              45.4112631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42715531",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:42Z",
+        "version": 8,
+        "changeset": 27272711,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "5",
+        "addr:postcode": "800595",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Stadionului",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Liceul cu Program Sportiv",
+        "id": "way/42715531"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0240665,
+              45.4159657
+            ],
+            [
+              28.0245644,
+              45.414827
+            ],
+            [
+              28.0247103,
+              45.4147607
+            ],
+            [
+              28.0250364,
+              45.4148029
+            ],
+            [
+              28.0253197,
+              45.4149897
+            ],
+            [
+              28.025457,
+              45.4151283
+            ],
+            [
+              28.0250364,
+              45.4160079
+            ],
+            [
+              28.024633,
+              45.4161043
+            ],
+            [
+              28.0240665,
+              45.4159657
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42721543",
+      "properties": {
+        "timestamp": "2009-10-17T15:05:26Z",
+        "version": 3,
+        "changeset": 2874224,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "university",
+        "building": "yes",
+        "id": "way/42721543"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0524007,
+              45.446569
+            ],
+            [
+              28.0525564,
+              45.44627
+            ],
+            [
+              28.052874,
+              45.4463483
+            ],
+            [
+              28.0527967,
+              45.4464747
+            ],
+            [
+              28.0527538,
+              45.4464627
+            ],
+            [
+              28.0526508,
+              45.4466433
+            ],
+            [
+              28.0524007,
+              45.446569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42721544",
+      "properties": {
+        "timestamp": "2009-10-17T15:51:30Z",
+        "version": 3,
+        "changeset": 2874807,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultatea de Mecanică",
+        "ref": "(corp M)",
+        "id": "way/42721544"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0521239,
+              45.4477913
+            ],
+            [
+              28.0522698,
+              45.4475685
+            ],
+            [
+              28.0531882,
+              45.4478395
+            ],
+            [
+              28.0530509,
+              45.4480503
+            ],
+            [
+              28.0521239,
+              45.4477913
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42721591",
+      "properties": {
+        "timestamp": "2009-10-17T14:53:48Z",
+        "version": 1,
+        "changeset": 2874086,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "university",
+        "building": "yes",
+        "name": "corp E",
+        "id": "way/42721591"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0514651,
+              45.4476288
+            ],
+            [
+              28.0515853,
+              45.4474421
+            ],
+            [
+              28.0520316,
+              45.4475686
+            ],
+            [
+              28.0519286,
+              45.4477552
+            ],
+            [
+              28.0514651,
+              45.4476288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42722550",
+      "properties": {
+        "timestamp": "2009-10-17T15:16:11Z",
+        "version": 2,
+        "changeset": 2874224,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "university",
+        "building": "yes",
+        "id": "way/42722550"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0519384,
+              45.4466192
+            ],
+            [
+              28.0520586,
+              45.4466493
+            ],
+            [
+              28.051844,
+              45.4470347
+            ],
+            [
+              28.0518698,
+              45.4470408
+            ],
+            [
+              28.0517582,
+              45.4472214
+            ],
+            [
+              28.051638,
+              45.4471913
+            ],
+            [
+              28.0519384,
+              45.4466192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42722846",
+      "properties": {
+        "timestamp": "2010-04-12T13:49:18Z",
+        "version": 3,
+        "changeset": 4404608,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "university",
+        "building": "yes",
+        "name": "corp H/G",
+        "id": "way/42722846"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0524731,
+              45.4467405
+            ],
+            [
+              28.0524362,
+              45.4467999
+            ],
+            [
+              28.0523847,
+              45.4467878
+            ],
+            [
+              28.0521702,
+              45.4471311
+            ],
+            [
+              28.0520243,
+              45.4470889
+            ],
+            [
+              28.052256,
+              45.4466795
+            ],
+            [
+              28.0524731,
+              45.4467405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42722849",
+      "properties": {
+        "timestamp": "2009-10-17T15:54:26Z",
+        "version": 2,
+        "changeset": 2874837,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "university",
+        "building": "yes",
+        "name": "corp G/H",
+        "id": "way/42722849"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0517668,
+              45.4463844
+            ],
+            [
+              28.0519728,
+              45.4460351
+            ],
+            [
+              28.0522131,
+              45.4461014
+            ],
+            [
+              28.0520071,
+              45.4464567
+            ],
+            [
+              28.0517668,
+              45.4463844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42723275",
+      "properties": {
+        "timestamp": "2015-02-08T20:06:24Z",
+        "version": 6,
+        "changeset": 28713132,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "59-61",
+        "addr:postcode": "800001",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Nicolae Bălcescu",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultatea de Științe Economice (A.S.E)",
+        "ref": "(corp I)",
+        "id": "way/42723275"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0514224,
+              45.4434951
+            ],
+            [
+              28.0515087,
+              45.4430653
+            ],
+            [
+              28.0517681,
+              45.4430909
+            ],
+            [
+              28.0516818,
+              45.4435208
+            ],
+            [
+              28.0514224,
+              45.4434951
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42723485",
+      "properties": {
+        "timestamp": "2019-10-17T06:46:54Z",
+        "version": 6,
+        "changeset": 75814662,
+        "user": "Viorel-Cătălin Răpițeanu",
+        "uid": 10374772,
+        "addr:city": "Galați",
+        "addr:housenumber": "63-65",
+        "addr:postcode": "800003",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Gării",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultatea de Educație Fizică și Sport",
+        "id": "way/42723485"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.049183,
+              45.4433216
+            ],
+            [
+              28.0494429,
+              45.4428135
+            ],
+            [
+              28.0496762,
+              45.4428739
+            ],
+            [
+              28.049486,
+              45.4433034
+            ],
+            [
+              28.0502646,
+              45.4433532
+            ],
+            [
+              28.0504461,
+              45.4434996
+            ],
+            [
+              28.0503495,
+              45.4434961
+            ],
+            [
+              28.050349,
+              45.4435083
+            ],
+            [
+              28.05026,
+              45.4435043
+            ],
+            [
+              28.050261,
+              45.443488
+            ],
+            [
+              28.0494706,
+              45.4434359
+            ],
+            [
+              28.0494698,
+              45.4434509
+            ],
+            [
+              28.0493738,
+              45.4434494
+            ],
+            [
+              28.0493747,
+              45.4434322
+            ],
+            [
+              28.0492758,
+              45.4434311
+            ],
+            [
+              28.049183,
+              45.4433216
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42728874",
+      "properties": {
+        "timestamp": "2009-10-17T17:23:12Z",
+        "version": 1,
+        "changeset": 2875772,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "college",
+        "building": "yes",
+        "name": "Liceul CFR, Grup Școlar Industrial Transporturi Feroviare",
+        "ref": "CFR",
+        "id": "way/42728874"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0345342,
+              45.4481291
+            ],
+            [
+              28.0345694,
+              45.4477346
+            ],
+            [
+              28.034831,
+              45.4477461
+            ],
+            [
+              28.0347958,
+              45.4481406
+            ],
+            [
+              28.0345342,
+              45.4481291
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44698451",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:14Z",
+        "version": 4,
+        "changeset": 27272690,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "318",
+        "addr:postcode": "800179",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Traian",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala generală nr. 20 \"Traian\"",
+        "id": "way/44698451"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0371622,
+              45.4630322
+            ],
+            [
+              28.0373249,
+              45.4627149
+            ],
+            [
+              28.0388919,
+              45.4631103
+            ],
+            [
+              28.0387292,
+              45.4634276
+            ],
+            [
+              28.0371622,
+              45.4630322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45081652",
+      "properties": {
+        "timestamp": "2015-02-08T20:37:00Z",
+        "version": 4,
+        "changeset": 28714686,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "41",
+        "addr:postcode": "800572",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Ionel Fernic",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Grădinița Arlechino",
+        "id": "way/45081652"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0171421,
+              45.4560798
+            ],
+            [
+              28.0171512,
+              45.4556831
+            ],
+            [
+              28.0174187,
+              45.4556794
+            ],
+            [
+              28.0174042,
+              45.4560834
+            ],
+            [
+              28.0171421,
+              45.4560798
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45243072",
+      "properties": {
+        "timestamp": "2014-12-05T19:30:44Z",
+        "version": 4,
+        "changeset": 27272714,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "60",
+        "addr:postcode": "800647",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul Dunărea",
+        "amenity": "school",
+        "is_in:city": "Galați",
+        "name": "Școala Generală nr. 3",
+        "id": "way/45243072"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0179655,
+              45.4100732
+            ],
+            [
+              28.018448,
+              45.4096058
+            ],
+            [
+              28.0194498,
+              45.4101186
+            ],
+            [
+              28.018948,
+              45.4105992
+            ],
+            [
+              28.0179655,
+              45.4100732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45330704",
+      "properties": {
+        "timestamp": "2015-02-08T18:18:24Z",
+        "version": 4,
+        "changeset": 28708390,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Galați",
+        "addr:housenumber": "13",
+        "addr:street": "Strada Combinatului",
+        "amenity": "college",
+        "is_in:city": "Galați",
+        "name": "Grup școlar \"Anghel Saligny\"",
+        "id": "way/45330704"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0122465,
+              45.4412542
+            ],
+            [
+              28.0122334,
+              45.44062
+            ],
+            [
+              28.0130431,
+              45.4406095
+            ],
+            [
+              28.0130431,
+              45.4406489
+            ],
+            [
+              28.0131531,
+              45.4406489
+            ],
+            [
+              28.0130614,
+              45.4411939
+            ],
+            [
+              28.0124902,
+              45.4413747
+            ],
+            [
+              28.0123723,
+              45.4412542
+            ],
+            [
+              28.0122465,
+              45.4412542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47249663",
+      "properties": {
+        "timestamp": "2016-09-27T02:30:44Z",
+        "version": 3,
+        "changeset": 42459753,
+        "user": "Valentin Albu",
+        "uid": 4635539,
+        "amenity": "college",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Grup școlar Industrial Metalurgic",
+        "id": "way/47249663"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0238026,
+              45.4484121
+            ],
+            [
+              28.0237481,
+              45.4483151
+            ],
+            [
+              28.0240946,
+              45.4482193
+            ],
+            [
+              28.0239741,
+              45.4480048
+            ],
+            [
+              28.0235927,
+              45.4481103
+            ],
+            [
+              28.0235366,
+              45.4480105
+            ],
+            [
+              28.0240371,
+              45.4478721
+            ],
+            [
+              28.0242681,
+              45.4482833
+            ],
+            [
+              28.0238026,
+              45.4484121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55239388",
+      "properties": {
+        "timestamp": "2010-10-11T14:00:55Z",
+        "version": 2,
+        "changeset": 6011968,
+        "user": "sharkx",
+        "uid": 37938,
+        "amenity": "university",
+        "building": "yes",
+        "name": "Facultatea de Științe",
+        "ref": "(corp S)",
+        "id": "way/55239388"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0512174,
+              45.4474803
+            ],
+            [
+              28.0517327,
+              45.4464374
+            ],
+            [
+              28.0519215,
+              45.4464916
+            ],
+            [
+              28.051844,
+              45.4466313
+            ],
+            [
+              28.0518871,
+              45.4466542
+            ],
+            [
+              28.0518356,
+              45.4467566
+            ],
+            [
+              28.0516895,
+              45.4469986
+            ],
+            [
+              28.0516267,
+              45.4469772
+            ],
+            [
+              28.0516037,
+              45.4470287
+            ],
+            [
+              28.0516552,
+              45.4470468
+            ],
+            [
+              28.0515779,
+              45.4471853
+            ],
+            [
+              28.0515179,
+              45.4471732
+            ],
+            [
+              28.0514749,
+              45.4472334
+            ],
+            [
+              28.051535,
+              45.4472515
+            ],
+            [
+              28.0513977,
+              45.4475285
+            ],
+            [
+              28.0512174,
+              45.4474803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101929491",
+      "properties": {
+        "timestamp": "2018-04-23T09:58:03Z",
+        "version": 3,
+        "changeset": 58334160,
+        "user": "Silviumap",
+        "uid": 7558809,
+        "addr:city": "Galați",
+        "addr:housenumber": "2",
+        "addr:street": "Strada Vadul Șacalelor",
+        "amenity": "school",
+        "name": "Școala Generală nr. 26 \"Ion Creangă\"",
+        "id": "way/101929491"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0533425,
+              45.4317224
+            ],
+            [
+              28.0536562,
+              45.4312731
+            ],
+            [
+              28.0542402,
+              45.4314862
+            ],
+            [
+              28.054273,
+              45.4315023
+            ],
+            [
+              28.0543776,
+              45.4319306
+            ],
+            [
+              28.0543051,
+              45.4321104
+            ],
+            [
+              28.0533425,
+              45.4317224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101937321",
+      "properties": {
+        "timestamp": "2017-02-13T10:38:07Z",
+        "version": 4,
+        "changeset": 46043053,
+        "user": "CC_Iordachescu",
+        "uid": 5281399,
+        "addr:city": "Galați",
+        "addr:housenumber": "31",
+        "addr:postcode": "800055",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Roșiori",
+        "amenity": "school",
+        "name": "Școala Generală nr. 28 \"Mihai Eminescu\"",
+        "id": "way/101937321"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0485247,
+              45.4289965
+            ],
+            [
+              28.0486684,
+              45.4288192
+            ],
+            [
+              28.0488782,
+              45.4285602
+            ],
+            [
+              28.0497387,
+              45.4289162
+            ],
+            [
+              28.0492206,
+              45.4295321
+            ],
+            [
+              28.0486646,
+              45.4293257
+            ],
+            [
+              28.0485247,
+              45.4289965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/102603151",
+      "properties": {
+        "timestamp": "2015-02-08T20:10:54Z",
+        "version": 4,
+        "changeset": 28713365,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "190",
+        "addr:postcode": "800105",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada General Alexandru Cernat",
+        "amenity": "school",
+        "name": "Școala Generală nr. 15 \"Elena Cuza\"",
+        "id": "way/102603151"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.041354,
+              45.4377703
+            ],
+            [
+              28.0411892,
+              45.4371397
+            ],
+            [
+              28.0418972,
+              45.4370504
+            ],
+            [
+              28.0420393,
+              45.4376636
+            ],
+            [
+              28.041354,
+              45.4377703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/102608025",
+      "properties": {
+        "timestamp": "2015-02-08T20:10:55Z",
+        "version": 3,
+        "changeset": 28713367,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "8",
+        "addr:postcode": "800112",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Arieșului",
+        "amenity": "school",
+        "name": "Școala Generală nr. 16 \"Nicolae Bălcescu\"",
+        "id": "way/102608025"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0507343,
+              45.4390709
+            ],
+            [
+              28.0507769,
+              45.438846
+            ],
+            [
+              28.0508292,
+              45.4388391
+            ],
+            [
+              28.0509306,
+              45.43855
+            ],
+            [
+              28.0513394,
+              45.4385844
+            ],
+            [
+              28.0512412,
+              45.4388185
+            ],
+            [
+              28.0510221,
+              45.4388116
+            ],
+            [
+              28.0509927,
+              45.4390732
+            ],
+            [
+              28.0507343,
+              45.4390709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104303983",
+      "properties": {
+        "timestamp": "2011-03-16T12:09:19Z",
+        "version": 3,
+        "changeset": 7575012,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "university",
+        "building": "dormitory",
+        "name": "Cămin L.S.G.",
+        "id": "way/104303983"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0526419,
+              45.4457611
+            ],
+            [
+              28.0527492,
+              45.445571
+            ],
+            [
+              28.053181,
+              45.4456915
+            ],
+            [
+              28.0530711,
+              45.4458815
+            ],
+            [
+              28.0526419,
+              45.4457611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104976128",
+      "properties": {
+        "timestamp": "2015-02-08T20:12:44Z",
+        "version": 3,
+        "changeset": 28713470,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "25",
+        "addr:postcode": "800201",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Basarabiei",
+        "amenity": "school",
+        "name": "Școala Generală nr. 25 \"Petru Rareș\"",
+        "id": "way/104976128"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0515623,
+              45.445028
+            ],
+            [
+              28.0517422,
+              45.4446907
+            ],
+            [
+              28.0521307,
+              45.44474
+            ],
+            [
+              28.0521877,
+              45.4446168
+            ],
+            [
+              28.0524555,
+              45.4446692
+            ],
+            [
+              28.052168,
+              45.445185
+            ],
+            [
+              28.0515623,
+              45.445028
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105014703",
+      "properties": {
+        "timestamp": "2015-02-08T20:12:36Z",
+        "version": 4,
+        "changeset": 28713464,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "169",
+        "addr:postcode": "800189",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Domnească",
+        "amenity": "college",
+        "name": "Grup școlar Elena Doamna",
+        "id": "way/105014703"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0475562,
+              45.4557464
+            ],
+            [
+              28.0479406,
+              45.4550925
+            ],
+            [
+              28.0487079,
+              45.4553144
+            ],
+            [
+              28.0483235,
+              45.4559683
+            ],
+            [
+              28.0475562,
+              45.4557464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105018326",
+      "properties": {
+        "timestamp": "2015-02-08T20:12:05Z",
+        "version": 3,
+        "changeset": 28713438,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "27",
+        "addr:postcode": "800146",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Științei",
+        "amenity": "college",
+        "name": "Grup școlar Radu Negru",
+        "id": "way/105018326"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0444157,
+              45.4578959
+            ],
+            [
+              28.0447538,
+              45.4572249
+            ],
+            [
+              28.0458844,
+              45.4575052
+            ],
+            [
+              28.0455463,
+              45.4581762
+            ],
+            [
+              28.0444157,
+              45.4578959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107974911",
+      "properties": {
+        "timestamp": "2011-04-10T13:16:20Z",
+        "version": 1,
+        "changeset": 7822796,
+        "user": "Ciprian",
+        "uid": 18072,
+        "addr:housenumber": "57",
+        "addr:street": "Strada Portului",
+        "amenity": "college",
+        "name": "Grupul Școlar Industrial de Marină",
+        "id": "way/107974911"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0663682,
+              45.4344665
+            ],
+            [
+              28.0680621,
+              45.4354207
+            ],
+            [
+              28.0673578,
+              45.4360446
+            ],
+            [
+              28.0672979,
+              45.4362532
+            ],
+            [
+              28.0669357,
+              45.4366729
+            ],
+            [
+              28.0667209,
+              45.4366168
+            ],
+            [
+              28.0664772,
+              45.436499
+            ],
+            [
+              28.0663094,
+              45.4363238
+            ],
+            [
+              28.0660716,
+              45.435906
+            ],
+            [
+              28.0658698,
+              45.4356004
+            ],
+            [
+              28.0652525,
+              45.4353158
+            ],
+            [
+              28.0655994,
+              45.4350032
+            ],
+            [
+              28.0657243,
+              45.4350662
+            ],
+            [
+              28.0663682,
+              45.4344665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109354728",
+      "properties": {
+        "timestamp": "2011-04-20T05:55:48Z",
+        "version": 1,
+        "changeset": 7912959,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "kindergarten",
+        "name": "Grădinița Motanul încălțat",
+        "id": "way/109354728"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0172625,
+              45.4157754
+            ],
+            [
+              28.0177837,
+              45.4152816
+            ],
+            [
+              28.0187216,
+              45.4157694
+            ],
+            [
+              28.0182004,
+              45.4162631
+            ],
+            [
+              28.0172625,
+              45.4157754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109354729",
+      "properties": {
+        "timestamp": "2016-04-06T19:30:52Z",
+        "version": 5,
+        "changeset": 38361210,
+        "user": "Maracine Bogdan",
+        "uid": 3788940,
+        "addr:city": "Galați",
+        "addr:housenumber": "7A",
+        "addr:postcode": "800642",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Strungarilor",
+        "amenity": "school",
+        "name": "Școala gimnaziala nr. 29 ",
+        "id": "way/109354729"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0159585,
+              45.4151947
+            ],
+            [
+              28.0164469,
+              45.4147201
+            ],
+            [
+              28.0175779,
+              45.4152936
+            ],
+            [
+              28.0170894,
+              45.4157683
+            ],
+            [
+              28.0159585,
+              45.4151947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109354731",
+      "properties": {
+        "timestamp": "2015-02-08T20:39:42Z",
+        "version": 3,
+        "changeset": 28714828,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "2",
+        "addr:postcode": "800643",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Costache Conachi",
+        "amenity": "school",
+        "name": "Școala generală nr. 17 \"Nichita Stănescu\"",
+        "id": "way/109354731"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0164795,
+              45.416581
+            ],
+            [
+              28.0171867,
+              45.4158681
+            ],
+            [
+              28.0178055,
+              45.416179
+            ],
+            [
+              28.0170708,
+              45.4168556
+            ],
+            [
+              28.0164795,
+              45.416581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109354732",
+      "properties": {
+        "timestamp": "2015-02-08T20:39:34Z",
+        "version": 3,
+        "changeset": 28714822,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "31",
+        "addr:postcode": "800642",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Strungarilor",
+        "amenity": "college",
+        "name": "Colegiul Economic \"Virgil Madgearu\"",
+        "id": "way/109354732"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0144744,
+              45.4164564
+            ],
+            [
+              28.0150893,
+              45.4158553
+            ],
+            [
+              28.015901,
+              45.4162636
+            ],
+            [
+              28.0153512,
+              45.4168978
+            ],
+            [
+              28.0144744,
+              45.4164564
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110190088",
+      "properties": {
+        "timestamp": "2011-04-25T08:30:11Z",
+        "version": 1,
+        "changeset": 7960517,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "school",
+        "name": "Școala Generală nr. 1 \"Nicolae Mantu\"",
+        "id": "way/110190088"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0202264,
+              45.4214257
+            ],
+            [
+              28.0205559,
+              45.4210463
+            ],
+            [
+              28.0209998,
+              45.4212944
+            ],
+            [
+              28.0212629,
+              45.4215031
+            ],
+            [
+              28.0215561,
+              45.4218611
+            ],
+            [
+              28.0217509,
+              45.4222206
+            ],
+            [
+              28.0216896,
+              45.4222379
+            ],
+            [
+              28.0211443,
+              45.4222407
+            ],
+            [
+              28.02116,
+              45.422092
+            ],
+            [
+              28.0206069,
+              45.4219626
+            ],
+            [
+              28.0206304,
+              45.4217286
+            ],
+            [
+              28.0202264,
+              45.4214257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110399157",
+      "properties": {
+        "timestamp": "2015-02-08T20:23:29Z",
+        "version": 3,
+        "changeset": 28714021,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "25",
+        "addr:postcode": "800371",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Constructorilor",
+        "amenity": "college",
+        "name": "Grup Școlar Industrial \"Sfânta Maria\"",
+        "id": "way/110399157"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0295624,
+              45.4339055
+            ],
+            [
+              28.0302523,
+              45.4337677
+            ],
+            [
+              28.0307009,
+              45.4337972
+            ],
+            [
+              28.0308322,
+              45.4346936
+            ],
+            [
+              28.0296872,
+              45.434812
+            ],
+            [
+              28.0295624,
+              45.4339055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118425357",
+      "properties": {
+        "timestamp": "2015-02-08T20:12:35Z",
+        "version": 3,
+        "changeset": 28713463,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "203",
+        "addr:postcode": "800186",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Traian",
+        "amenity": "college",
+        "name": "Colegiul Tehnic Traian",
+        "id": "way/118425357"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.040903,
+              45.4523685
+            ],
+            [
+              28.0415088,
+              45.4512293
+            ],
+            [
+              28.0427179,
+              45.4515458
+            ],
+            [
+              28.0419548,
+              45.4529807
+            ],
+            [
+              28.0410916,
+              45.4527548
+            ],
+            [
+              28.0412489,
+              45.452459
+            ],
+            [
+              28.040903,
+              45.4523685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221250206",
+      "properties": {
+        "timestamp": "2018-11-27T07:32:53Z",
+        "version": 6,
+        "changeset": 64923840,
+        "user": "Silviumap",
+        "uid": 7558809,
+        "addr:city": "Galați",
+        "addr:housename": "Corp A",
+        "addr:housenumber": "161 B",
+        "addr:postcode": "800320",
+        "addr:street": "Bulevardul Brăilei",
+        "amenity": "school",
+        "building:levels": "2",
+        "name": "Colegiul Național \"Mihail Kogălniceanu\" - fost L. M. K.",
+        "id": "way/221250206"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0338883,
+              45.4272223
+            ],
+            [
+              28.0339338,
+              45.4270129
+            ],
+            [
+              28.0345266,
+              45.4270633
+            ],
+            [
+              28.0344905,
+              45.4272734
+            ],
+            [
+              28.0343781,
+              45.4272625
+            ],
+            [
+              28.0343869,
+              45.4272156
+            ],
+            [
+              28.0340074,
+              45.4271816
+            ],
+            [
+              28.0339922,
+              45.4272322
+            ],
+            [
+              28.0338883,
+              45.4272223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421584753",
+      "properties": {
+        "timestamp": "2020-05-03T12:57:43Z",
+        "version": 2,
+        "changeset": 84562900,
+        "user": "CommonerSloth",
+        "uid": 11121142,
+        "addr:city": "Galați",
+        "addr:housenumber": "61",
+        "addr:postcode": "800008",
+        "addr:street": "Strada Domnească",
+        "building": "school",
+        "name": "Centrul cultural Dunarea de Jos",
+        "id": "way/421584753"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0554228,
+              45.4415099
+            ],
+            [
+              28.0554521,
+              45.4414173
+            ],
+            [
+              28.0558022,
+              45.4414539
+            ],
+            [
+              28.0558282,
+              45.4413511
+            ],
+            [
+              28.0560562,
+              45.4413785
+            ],
+            [
+              28.0560041,
+              45.4415727
+            ],
+            [
+              28.0554228,
+              45.4415099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474345832",
+      "properties": {
+        "timestamp": "2017-02-13T11:11:56Z",
+        "version": 1,
+        "changeset": 46043816,
+        "user": "CC_Iordachescu",
+        "uid": 5281399,
+        "addr:city": "Galați",
+        "addr:housenumber": "303",
+        "addr:postcode": "800179",
+        "addr:street": "Strada Traian",
+        "amenity": "school",
+        "name": "Grădinița Mugurel",
+        "id": "way/474345832"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0394508,
+              45.4636583
+            ],
+            [
+              28.0388456,
+              45.463492
+            ],
+            [
+              28.0390119,
+              45.4631941
+            ],
+            [
+              28.0396419,
+              45.4633679
+            ],
+            [
+              28.0394508,
+              45.4636583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/555198069",
+      "properties": {
+        "timestamp": "2018-04-30T21:47:43Z",
+        "version": 3,
+        "changeset": 58569361,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "1",
+        "addr:postcode": "800577",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Costache Conachi",
+        "amenity": "kindergarten",
+        "name": "Grădinița cu program prelungit Codruța",
+        "phone": "0236 442491",
+        "website": "http://www.gradinitacodruta.info",
+        "id": "way/555198069"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0158169,
+              45.4171273
+            ],
+            [
+              28.0163212,
+              45.4166435
+            ],
+            [
+              28.0173082,
+              45.417148
+            ],
+            [
+              28.0168013,
+              45.4176168
+            ],
+            [
+              28.0158169,
+              45.4171273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/649423054",
+      "properties": {
+        "timestamp": "2018-11-27T07:37:45Z",
+        "version": 2,
+        "changeset": 64923931,
+        "user": "Silviumap",
+        "uid": 7558809,
+        "amenity": "school",
+        "id": "way/649423054"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0334438,
+              45.4270209
+            ],
+            [
+              28.0334838,
+              45.426809
+            ],
+            [
+              28.0338351,
+              45.4268371
+            ],
+            [
+              28.033795,
+              45.4270533
+            ],
+            [
+              28.0334438,
+              45.4270209
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/649423056",
+      "properties": {
+        "timestamp": "2018-11-27T07:32:53Z",
+        "version": 1,
+        "changeset": 64923840,
+        "user": "Silviumap",
+        "uid": 7558809,
+        "amenity": "school",
+        "name": "Sala de sport",
+        "id": "way/649423056"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0345653,
+              45.4268587
+            ],
+            [
+              28.0345899,
+              45.4267506
+            ],
+            [
+              28.035009,
+              45.4267873
+            ],
+            [
+              28.0349936,
+              45.4268955
+            ],
+            [
+              28.0345653,
+              45.4268587
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/649423900",
+      "properties": {
+        "timestamp": "2018-11-27T07:37:45Z",
+        "version": 1,
+        "changeset": 64923931,
+        "user": "Silviumap",
+        "uid": 7558809,
+        "amenity": "school",
+        "id": "way/649423900"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0344729,
+              45.4264933
+            ],
+            [
+              28.0346392,
+              45.4265452
+            ],
+            [
+              28.034553,
+              45.4266684
+            ],
+            [
+              28.0343866,
+              45.42661
+            ],
+            [
+              28.0344729,
+              45.4264933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23002490",
+      "properties": {
+        "timestamp": "2010-11-01T07:34:47Z",
+        "version": 2,
+        "changeset": 6252020,
+        "user": "sharkx",
+        "uid": 37938,
+        "building": "yes",
+        "id": "way/23002490"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.027431,
+              45.4308652
+            ],
+            [
+              28.0273136,
+              45.4308605
+            ],
+            [
+              28.0273183,
+              45.4308088
+            ],
+            [
+              28.0274357,
+              45.4308112
+            ],
+            [
+              28.027431,
+              45.4308652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/249784604",
+      "properties": {
+        "timestamp": "2012-11-18T18:14:08Z",
+        "version": 2,
+        "changeset": 13922080,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "kindergarten",
+        "layer": "2",
+        "name": "Grădinița Albă ca Zăpadă",
+        "id": "node/249784604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0243472,
+          45.4329049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298843856",
+      "properties": {
+        "timestamp": "2008-09-21T19:28:59Z",
+        "version": 1,
+        "changeset": 675517,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "school",
+        "name": "Școala Generală nr. 24",
+        "id": "node/298843856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0585203,
+          45.4335264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298844176",
+      "properties": {
+        "timestamp": "2011-05-09T11:30:14Z",
+        "version": 3,
+        "changeset": 8091900,
+        "user": "Ciprian",
+        "uid": 18072,
+        "addr:housenumber": "35",
+        "addr:street": "Strada A.I. Cuza",
+        "amenity": "university",
+        "name": "Facultatea de Medicină",
+        "id": "node/298844176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0576738,
+          45.4388725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/530260704",
+      "properties": {
+        "timestamp": "2012-11-18T14:54:57Z",
+        "version": 5,
+        "changeset": 13919080,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "university",
+        "name": "Facultatea de Știința Calculatoarelor",
+        "id": "node/530260704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0522473,
+          45.4458002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/530260721",
+      "properties": {
+        "timestamp": "2009-12-24T12:40:32Z",
+        "version": 3,
+        "changeset": 3441831,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "university",
+        "name": "Facultatea de Drept",
+        "id": "node/530260721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0532859,
+          45.4475165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534356141",
+      "properties": {
+        "timestamp": "2009-10-17T17:25:26Z",
+        "version": 1,
+        "changeset": 2875799,
+        "user": "google85",
+        "uid": 29483,
+        "amenity": "school",
+        "name": "Liceul CFR, Grup Școlar Industrial Transporturi Feroviare",
+        "id": "node/534356141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0347203,
+          45.447909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571182012",
+      "properties": {
+        "timestamp": "2009-11-25T19:58:05Z",
+        "version": 1,
+        "changeset": 3215569,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 19",
+        "id": "node/571182012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0227839,
+          45.4505822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571603490",
+      "properties": {
+        "timestamp": "2009-11-26T20:25:07Z",
+        "version": 1,
+        "changeset": 3223355,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "kindergarten",
+        "name": "Grădinița Nicolae Labiș",
+        "id": "node/571603490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0209057,
+          45.457153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571603626",
+      "properties": {
+        "timestamp": "2009-11-26T20:25:13Z",
+        "version": 1,
+        "changeset": 3223355,
+        "user": "Ciprian",
+        "uid": 18072,
+        "amenity": "kindergarten",
+        "id": "node/571603626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.025589,
+          45.4564624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/615031099",
+      "properties": {
+        "timestamp": "2015-02-08T18:19:38Z",
+        "version": 5,
+        "changeset": 28708390,
+        "user": "razor74",
+        "uid": 128281,
+        "addr:city": "Galați",
+        "addr:housenumber": "205",
+        "addr:street": "Bulevardul Brăilei",
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 62 \"Prichindel\"",
+        "undefined": "cu program normal",
+        "id": "node/615031099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0075546,
+          45.4139965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1067619470",
+      "properties": {
+        "timestamp": "2013-03-23T17:51:21Z",
+        "version": 2,
+        "changeset": 15469387,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "kindergarten",
+        "name": "Grădinița nr. 9 Sf. Nicolae",
+        "id": "node/1067619470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0329633,
+          45.4313204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1881043505",
+      "properties": {
+        "timestamp": "2012-08-24T15:55:22Z",
+        "version": 1,
+        "changeset": 12846498,
+        "user": "valiotronic",
+        "uid": 829999,
+        "amenity": "school",
+        "name": "Liceul Auto Traian Vuia",
+        "id": "node/1881043505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0201991,
+          45.4310077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1882382249",
+      "properties": {
+        "timestamp": "2012-08-25T12:56:31Z",
+        "version": 1,
+        "changeset": 12855033,
+        "user": "valiotronic",
+        "uid": 829999,
+        "amenity": "kindergarten",
+        "name": "Nursery school",
+        "id": "node/1882382249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0176869,
+          45.4304277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1882394305",
+      "properties": {
+        "timestamp": "2013-03-23T17:51:22Z",
+        "version": 4,
+        "changeset": 15469387,
+        "user": "Michael_H",
+        "uid": 323389,
+        "amenity": "kindergarten",
+        "name": "Grădinița",
+        "id": "node/1882394305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0196887,
+          45.4310289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161369953",
+      "properties": {
+        "timestamp": "2017-10-27T05:55:35Z",
+        "version": 2,
+        "changeset": 53280709,
+        "user": "kaigara",
+        "uid": 1200253,
+        "amenity": "kindergarten",
+        "name": "Gradinita nr.1 Luceafarul",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "id": "node/2161369953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0498151,
+          45.4284481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2781758986",
+      "properties": {
+        "timestamp": "2014-12-03T22:47:48Z",
+        "version": 2,
+        "changeset": 27211139,
+        "user": "Strainubot",
+        "uid": 352334,
+        "addr:city": "Galați",
+        "addr:housenumber": "10bis",
+        "addr:postcode": "800217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Colonel Nicolae Holban",
+        "amenity": "school",
+        "name": "FastTrackKids",
+        "source": "survey",
+        "website": "http://www.ftk.ro/contact/galati",
+        "id": "node/2781758986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0548428,
+          45.4431619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4262636091",
+      "properties": {
+        "timestamp": "2016-06-24T13:39:29Z",
+        "version": 1,
+        "changeset": 40260920,
+        "user": "Cătălin Gabriel MIRCEA",
+        "uid": 4114123,
+        "amenity": "kindergarten",
+        "name": "Grădinița TEDY",
+        "id": "node/4262636091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0414365,
+          45.449277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4596204291",
+      "properties": {
+        "timestamp": "2017-01-08T12:34:25Z",
+        "version": 1,
+        "changeset": 44999839,
+        "user": "Nelutu Traila",
+        "uid": 5096450,
+        "amenity": "kindergarten",
+        "name:ro": "nanny",
+        "id": "node/4596204291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0568128,
+          45.444462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4678128589",
+      "properties": {
+        "timestamp": "2017-02-10T10:50:32Z",
+        "version": 1,
+        "changeset": 45970123,
+        "user": "DayWalk3r",
+        "uid": 5143324,
+        "amenity": "kindergarten",
+        "id": "node/4678128589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0212665,
+          45.4236928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4883918422",
+      "properties": {
+        "timestamp": "2017-05-29T16:51:58Z",
+        "version": 1,
+        "changeset": 49079197,
+        "user": "Peter Ioan",
+        "uid": 4834259,
+        "amenity": "school",
+        "name": "Club Alice",
+        "name:ro": "Club Alice",
+        "id": "node/4883918422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0422524,
+          45.4281842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5961996685",
+      "properties": {
+        "timestamp": "2018-10-06T16:55:14Z",
+        "version": 1,
+        "changeset": 63261562,
+        "user": "TaticuTzu",
+        "uid": 8918424,
+        "amenity": "kindergarten",
+        "name": "Motanul încălțat",
+        "id": "node/5961996685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0073401,
+          45.4107196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6094731877",
+      "properties": {
+        "timestamp": "2018-11-27T07:17:09Z",
+        "version": 2,
+        "changeset": 64923528,
+        "user": "Silviumap",
+        "uid": 7558809,
+        "amenity": "university",
+        "id": "node/6094731877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0527406,
+          45.4402849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6094747887",
+      "properties": {
+        "timestamp": "2019-10-14T09:47:07Z",
+        "version": 4,
+        "changeset": 75653950,
+        "user": "Viorel-Cătălin Răpițeanu",
+        "uid": 10374772,
+        "amenity": "school",
+        "name": "Grupul școlar „Simion Mehedinți”",
+        "id": "node/6094747887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0523569,
+          45.4374578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6985279586",
+      "properties": {
+        "timestamp": "2019-11-17T17:11:45Z",
+        "version": 1,
+        "changeset": 77194512,
+        "user": "IonutJML96",
+        "uid": 10469892,
+        "amenity": "kindergarten",
+        "name": "Gradinita Step By Step",
+        "id": "node/6985279586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0128736,
+          45.4147259
+        ]
+      }
+    }
+  ]
+}
