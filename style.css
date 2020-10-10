@@ -15,12 +15,15 @@ html, body {
 
 #selector {
     position: absolute;
-    width: 200px;
     bottom: 26px;
     right: 0;
     padding: 10px;
     z-index: 999;
     background-color: rgba(255, 255, 255, 0.5);
+    font-size: 1.5em;
+}
+
+.citySelect {
     font-size: 1.5em;
 }
 
